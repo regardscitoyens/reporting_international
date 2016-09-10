@@ -1,0 +1,2259 @@
+banque;date;indicateur;pays;valeur
+BNP;2014-12-31;Produit Net Bancaire;Afrique du Sud;550000000
+BNP;2014-12-31;Resultat avant impot;Afrique du Sud;30000000
+BNP;2014-12-31;impot courant;Afrique du Sud;-30000000
+BNP;2014-12-31;impot différé;Afrique du Sud;-10000000
+BNP;2014-12-31;impot sur bénéfice;Afrique du Sud;-40000000
+BNP;2014-12-31;Effectif;Afrique du Sud;1258
+BNP;2014-12-31;NB filiales CBCR;Afrique du Sud;7
+BNP;2014-12-31;Total filiales;Afrique du Sud;7
+BNP;2014-12-31;resultats/effectifs;Afrique du Sud;23847.4
+BNP;2014-12-31;resultats/pnb;Afrique du Sud;0.0545455
+BNP;2014-12-31;Produit Net Bancaire;Algérie;1200000000
+BNP;2014-12-31;Resultat avant impot;Algérie;610000000
+BNP;2014-12-31;impot courant;Algérie;-190000000
+BNP;2014-12-31;impot différé;Algérie;30000000
+BNP;2014-12-31;impot sur bénéfice;Algérie;-160000000
+BNP;2014-12-31;Effectif;Algérie;1287
+BNP;2014-12-31;NB filiales CBCR;Algérie;2
+BNP;2014-12-31;Total filiales;Algérie;2
+BNP;2014-12-31;resultats/effectifs;Algérie;473970
+BNP;2014-12-31;resultats/pnb;Algérie;0.508333
+BNP;2014-12-31;Produit Net Bancaire;Allemagne;11140000000
+BNP;2014-12-31;Resultat avant impot;Allemagne;2970000000
+BNP;2014-12-31;impot courant;Allemagne;-910000000
+BNP;2014-12-31;impot différé;Allemagne;-190000000
+BNP;2014-12-31;impot sur bénéfice;Allemagne;-1100000000
+BNP;2014-12-31;Effectif;Allemagne;4163
+BNP;2014-12-31;NB filiales CBCR;Allemagne;28
+BNP;2014-12-31;Total filiales;Allemagne;28
+BNP;2014-12-31;resultats/effectifs;Allemagne;713428
+BNP;2014-12-31;resultats/pnb;Allemagne;0.266607
+BNP;2014-12-31;Produit Net Bancaire;Arabie Saoudite;140000000
+BNP;2014-12-31;Resultat avant impot;Arabie Saoudite;50000000
+BNP;2014-12-31;impot courant;Arabie Saoudite;-10000000
+BNP;2014-12-31;impot sur bénéfice;Arabie Saoudite;-10000000
+BNP;2014-12-31;Effectif;Arabie Saoudite;35
+BNP;2014-12-31;NB filiales CBCR;Arabie Saoudite;2
+BNP;2014-12-31;Total filiales;Arabie Saoudite;2
+BNP;2014-12-31;resultats/effectifs;Arabie Saoudite;1.42857e+06
+BNP;2014-12-31;resultats/pnb;Arabie Saoudite;0.357143
+BNP;2014-12-31;Produit Net Bancaire;Argentine;1010000000
+BNP;2014-12-31;Resultat avant impot;Argentine;630000000
+BNP;2014-12-31;impot courant;Argentine;-180000000
+BNP;2014-12-31;impot différé;Argentine;-50000000
+BNP;2014-12-31;impot sur bénéfice;Argentine;-230000000
+BNP;2014-12-31;Effectif;Argentine;223
+BNP;2014-12-31;NB filiales CBCR;Argentine;6
+BNP;2014-12-31;Total filiales;Argentine;6
+BNP;2014-12-31;resultats/effectifs;Argentine;2.82511e+06
+BNP;2014-12-31;resultats/pnb;Argentine;0.623762
+BNP;2014-12-31;Produit Net Bancaire;Australie;1460000000
+BNP;2014-12-31;Resultat avant impot;Australie;580000000
+BNP;2014-12-31;impot courant;Australie;-50000000
+BNP;2014-12-31;impot différé;Australie;-140000000
+BNP;2014-12-31;impot sur bénéfice;Australie;-190000000
+BNP;2014-12-31;Effectif;Australie;458
+BNP;2014-12-31;NB filiales CBCR;Australie;6
+BNP;2014-12-31;Total filiales;Australie;6
+BNP;2014-12-31;resultats/effectifs;Australie;1.26638e+06
+BNP;2014-12-31;resultats/pnb;Australie;0.39726
+BNP;2014-12-31;Produit Net Bancaire;Autriche;140000000
+BNP;2014-12-31;Resultat avant impot;Autriche;50000000
+BNP;2014-12-31;impot courant;Autriche;-10000000
+BNP;2014-12-31;impot sur bénéfice;Autriche;-10000000
+BNP;2014-12-31;Effectif;Autriche;170
+BNP;2014-12-31;NB filiales CBCR;Autriche;8
+BNP;2014-12-31;Total filiales;Autriche;8
+BNP;2014-12-31;resultats/effectifs;Autriche;294118
+BNP;2014-12-31;resultats/pnb;Autriche;0.357143
+BNP;2014-12-31;Produit Net Bancaire;Bahreïn;540000000
+BNP;2014-12-31;Resultat avant impot;Bahreïn;-310000000
+BNP;2014-12-31;Effectif;Bahreïn;360
+BNP;2014-12-31;NB filiales CBCR;Bahreïn;2
+BNP;2014-12-31;Total filiales;Bahreïn;2
+BNP;2014-12-31;resultats/effectifs;Bahreïn;-861111
+BNP;2014-12-31;resultats/pnb;Bahreïn;-0.574074
+BNP;2014-12-31;Produit Net Bancaire;Belgique;45140000000
+BNP;2014-12-31;Resultat avant impot;Belgique;13930000000
+BNP;2014-12-31;impot courant;Belgique;-310000000
+BNP;2014-12-31;impot différé;Belgique;-4410000000
+BNP;2014-12-31;impot sur bénéfice;Belgique;-4720000000
+BNP;2014-12-31;Effectif;Belgique;16383
+BNP;2014-12-31;NB filiales CBCR;Belgique;41
+BNP;2014-12-31;Total filiales;Belgique;41
+BNP;2014-12-31;resultats/effectifs;Belgique;850272
+BNP;2014-12-31;resultats/pnb;Belgique;0.308595
+BNP;2014-12-31;NB filiales CBCR;Bermudes;1
+BNP;2014-12-31;Total filiales;Bermudes;1
+BNP;2014-12-31;Effectif;Botswana;9
+BNP;2014-12-31;NB filiales CBCR;Botswana;1
+BNP;2014-12-31;Total filiales;Botswana;1
+BNP;2014-12-31;Produit Net Bancaire;Brésil;6250000000
+BNP;2014-12-31;Resultat avant impot;Brésil;2140000000
+BNP;2014-12-31;impot courant;Brésil;-870000000
+BNP;2014-12-31;impot différé;Brésil;100000000
+BNP;2014-12-31;impot sur bénéfice;Brésil;-770000000
+BNP;2014-12-31;Effectif;Brésil;1280
+BNP;2014-12-31;NB filiales CBCR;Brésil;14
+BNP;2014-12-31;Total filiales;Brésil;14
+BNP;2014-12-31;resultats/effectifs;Brésil;1671875
+BNP;2014-12-31;resultats/pnb;Brésil;0.3424
+BNP;2014-12-31;Produit Net Bancaire;Bulgarie;540000000
+BNP;2014-12-31;Resultat avant impot;Bulgarie;170000000
+BNP;2014-12-31;impot courant;Bulgarie;-10000000
+BNP;2014-12-31;impot sur bénéfice;Bulgarie;-10000000
+BNP;2014-12-31;Effectif;Bulgarie;1055
+BNP;2014-12-31;NB filiales CBCR;Bulgarie;5
+BNP;2014-12-31;Total filiales;Bulgarie;5
+BNP;2014-12-31;resultats/effectifs;Bulgarie;161137
+BNP;2014-12-31;resultats/pnb;Bulgarie;0.314815
+BNP;2014-12-31;Produit Net Bancaire;Burkina Faso;220000000
+BNP;2014-12-31;Resultat avant impot;Burkina Faso;50000000
+BNP;2014-12-31;impot courant;Burkina Faso;-10000000
+BNP;2014-12-31;impot sur bénéfice;Burkina Faso;-10000000
+BNP;2014-12-31;Effectif;Burkina Faso;295
+BNP;2014-12-31;NB filiales CBCR;Burkina Faso;1
+BNP;2014-12-31;Total filiales;Burkina Faso;1
+BNP;2014-12-31;resultats/effectifs;Burkina Faso;169492
+BNP;2014-12-31;resultats/pnb;Burkina Faso;0.227273
+BNP;2014-12-31;Produit Net Bancaire;Canada;530000000
+BNP;2014-12-31;Resultat avant impot;Canada;280000000
+BNP;2014-12-31;impot courant;Canada;-70000000
+BNP;2014-12-31;impot différé;Canada;-20000000
+BNP;2014-12-31;impot sur bénéfice;Canada;-90000000
+BNP;2014-12-31;Effectif;Canada;279
+BNP;2014-12-31;NB filiales CBCR;Canada;4
+BNP;2014-12-31;Total filiales;Canada;4
+BNP;2014-12-31;resultats/effectifs;Canada;1.00358e+06
+BNP;2014-12-31;resultats/pnb;Canada;0.528302
+BNP;2014-12-31;Produit Net Bancaire;Chili;540000000
+BNP;2014-12-31;Resultat avant impot;Chili;320000000
+BNP;2014-12-31;impot courant;Chili;-10000000
+BNP;2014-12-31;impot différé;Chili;-70000000
+BNP;2014-12-31;impot sur bénéfice;Chili;-80000000
+BNP;2014-12-31;Effectif;Chili;318
+BNP;2014-12-31;NB filiales CBCR;Chili;4
+BNP;2014-12-31;Total filiales;Chili;4
+BNP;2014-12-31;resultats/effectifs;Chili;1.00629e+06
+BNP;2014-12-31;resultats/pnb;Chili;0.592593
+BNP;2014-12-31;Produit Net Bancaire;Chine;2580000000
+BNP;2014-12-31;Resultat avant impot;Chine;1800000000
+BNP;2014-12-31;impot courant;Chine;-370000000
+BNP;2014-12-31;impot différé;Chine;-60000000
+BNP;2014-12-31;impot sur bénéfice;Chine;-430000000
+BNP;2014-12-31;Effectif;Chine;388
+BNP;2014-12-31;NB filiales CBCR;Chine;8
+BNP;2014-12-31;Total filiales;Chine;8
+BNP;2014-12-31;resultats/effectifs;Chine;4.63918e+06
+BNP;2014-12-31;resultats/pnb;Chine;0.697674
+BNP;2014-12-31;Produit Net Bancaire;Colombie;230000000
+BNP;2014-12-31;Resultat avant impot;Colombie;10000000
+BNP;2014-12-31;impot courant;Colombie;-20000000
+BNP;2014-12-31;impot différé;Colombie;-10000000
+BNP;2014-12-31;impot sur bénéfice;Colombie;-30000000
+BNP;2014-12-31;Effectif;Colombie;241
+BNP;2014-12-31;NB filiales CBCR;Colombie;2
+BNP;2014-12-31;Total filiales;Colombie;2
+BNP;2014-12-31;resultats/effectifs;Colombie;41493.8
+BNP;2014-12-31;resultats/pnb;Colombie;0.0434783
+BNP;2014-12-31;Produit Net Bancaire;Corée du Sud;870000000
+BNP;2014-12-31;Resultat avant impot;Corée du Sud;160000000
+BNP;2014-12-31;impot courant;Corée du Sud;-20000000
+BNP;2014-12-31;impot différé;Corée du Sud;-30000000
+BNP;2014-12-31;impot sur bénéfice;Corée du Sud;-50000000
+BNP;2014-12-31;Effectif;Corée du Sud;343
+BNP;2014-12-31;NB filiales CBCR;Corée du Sud;5
+BNP;2014-12-31;Total filiales;Corée du Sud;5
+BNP;2014-12-31;resultats/effectifs;Corée du Sud;466472
+BNP;2014-12-31;resultats/pnb;Corée du Sud;0.183908
+BNP;2014-12-31;Produit Net Bancaire;Côte d'Ivoire;580000000
+BNP;2014-12-31;Resultat avant impot;Côte d'Ivoire;180000000
+BNP;2014-12-31;impot courant;Côte d'Ivoire;-30000000
+BNP;2014-12-31;impot sur bénéfice;Côte d'Ivoire;-30000000
+BNP;2014-12-31;Effectif;Côte d'Ivoire;568
+BNP;2014-12-31;NB filiales CBCR;Côte d'Ivoire;1
+BNP;2014-12-31;Total filiales;Côte d'Ivoire;1
+BNP;2014-12-31;resultats/effectifs;Côte d'Ivoire;316901
+BNP;2014-12-31;resultats/pnb;Côte d'Ivoire;0.310345
+BNP;2014-12-31;Produit Net Bancaire;Danemark;230000000
+BNP;2014-12-31;Resultat avant impot;Danemark;60000000
+BNP;2014-12-31;impot courant;Danemark;-20000000
+BNP;2014-12-31;impot différé;Danemark;-60000000
+BNP;2014-12-31;impot sur bénéfice;Danemark;-80000000
+BNP;2014-12-31;Effectif;Danemark;141
+BNP;2014-12-31;NB filiales CBCR;Danemark;6
+BNP;2014-12-31;Total filiales;Danemark;6
+BNP;2014-12-31;resultats/effectifs;Danemark;425532
+BNP;2014-12-31;resultats/pnb;Danemark;0.26087
+BNP;2014-12-31;Produit Net Bancaire;Émirats Arabes Unis;310000000
+BNP;2014-12-31;Resultat avant impot;Émirats Arabes Unis;160000000
+BNP;2014-12-31;impot courant;Émirats Arabes Unis;-70000000
+BNP;2014-12-31;impot différé;Émirats Arabes Unis;10000000
+BNP;2014-12-31;impot sur bénéfice;Émirats Arabes Unis;-60000000
+BNP;2014-12-31;Effectif;Émirats Arabes Unis;100
+BNP;2014-12-31;NB filiales CBCR;Émirats Arabes Unis;2
+BNP;2014-12-31;Total filiales;Émirats Arabes Unis;2
+BNP;2014-12-31;resultats/effectifs;Émirats Arabes Unis;1600000
+BNP;2014-12-31;resultats/pnb;Émirats Arabes Unis;0.516129
+BNP;2014-12-31;Produit Net Bancaire;Espagne;7630000000
+BNP;2014-12-31;Resultat avant impot;Espagne;4060000000
+BNP;2014-12-31;impot courant;Espagne;-1520000000
+BNP;2014-12-31;impot différé;Espagne;290000000
+BNP;2014-12-31;impot sur bénéfice;Espagne;-1230000000
+BNP;2014-12-31;Effectif;Espagne;2390
+BNP;2014-12-31;NB filiales CBCR;Espagne;29
+BNP;2014-12-31;Total filiales;Espagne;29
+BNP;2014-12-31;resultats/effectifs;Espagne;1.69874e+06
+BNP;2014-12-31;resultats/pnb;Espagne;0.53211
+BNP;2014-12-31;Produit Net Bancaire;États-Unis;34520000000
+BNP;2014-12-31;Resultat avant impot;États-Unis;7240000000
+BNP;2014-12-31;impot courant;États-Unis;-2150000000
+BNP;2014-12-31;impot différé;États-Unis;500000000
+BNP;2014-12-31;impot sur bénéfice;États-Unis;-1650000000
+BNP;2014-12-31;Effectif;États-Unis;14622
+BNP;2014-12-31;NB filiales CBCR;États-Unis;103
+BNP;2014-12-31;Total filiales;États-Unis;103
+BNP;2014-12-31;resultats/effectifs;États-Unis;495144
+BNP;2014-12-31;resultats/pnb;États-Unis;0.209733
+BNP;2014-12-31;Produit Net Bancaire;Finlande;50000000
+BNP;2014-12-31;Resultat avant impot;Finlande;-20000000
+BNP;2014-12-31;Effectif;Finlande;32
+BNP;2014-12-31;NB filiales CBCR;Finlande;5
+BNP;2014-12-31;Total filiales;Finlande;5
+BNP;2014-12-31;resultats/effectifs;Finlande;-625000
+BNP;2014-12-31;resultats/pnb;Finlande;-0.4
+BNP;2014-12-31;Produit Net Bancaire;France;134970000000
+BNP;2014-12-31;Resultat avant impot;France;18490000000
+BNP;2014-12-31;impot courant;France;-9210000000
+BNP;2014-12-31;impot différé;France;370000000
+BNP;2014-12-31;impot sur bénéfice;France;-8840000000
+BNP;2014-12-31;Effectif;France;56953
+BNP;2014-12-31;NB filiales CBCR;France;158
+BNP;2014-12-31;Total filiales;France;158
+BNP;2014-12-31;resultats/effectifs;France;324654
+BNP;2014-12-31;resultats/pnb;France;0.136993
+BNP;2014-12-31;NB filiales CBCR;Gabon;1
+BNP;2014-12-31;Total filiales;Gabon;1
+BNP;2014-12-31;Produit Net Bancaire;Grèce;20000000
+BNP;2014-12-31;Effectif;Grèce;23
+BNP;2014-12-31;NB filiales CBCR;Grèce;2
+BNP;2014-12-31;Total filiales;Grèce;2
+BNP;2014-12-31;Produit Net Bancaire;Guernesey;70000000
+BNP;2014-12-31;Resultat avant impot;Guernesey;10000000
+BNP;2014-12-31;Effectif;Guernesey;18
+BNP;2014-12-31;NB filiales CBCR;Guernesey;2
+BNP;2014-12-31;Total filiales;Guernesey;2
+BNP;2014-12-31;resultats/effectifs;Guernesey;555556
+BNP;2014-12-31;resultats/pnb;Guernesey;0.142857
+BNP;2014-12-31;NB filiales CBCR;Guinée;1
+BNP;2014-12-31;Total filiales;Guinée;1
+BNP;2014-12-31;Produit Net Bancaire;Hong-Kong;5540000000
+BNP;2014-12-31;Resultat avant impot;Hong-Kong;310000000
+BNP;2014-12-31;impot différé;Hong-Kong;160000000
+BNP;2014-12-31;impot sur bénéfice;Hong-Kong;160000000
+BNP;2014-12-31;Effectif;Hong-Kong;2164
+BNP;2014-12-31;NB filiales CBCR;Hong-Kong;10
+BNP;2014-12-31;Total filiales;Hong-Kong;10
+BNP;2014-12-31;resultats/effectifs;Hong-Kong;143253
+BNP;2014-12-31;resultats/pnb;Hong-Kong;0.0559567
+BNP;2014-12-31;Produit Net Bancaire;Hongrie;800000000
+BNP;2014-12-31;Resultat avant impot;Hongrie;230000000
+BNP;2014-12-31;impot courant;Hongrie;-90000000
+BNP;2014-12-31;impot différé;Hongrie;60000000
+BNP;2014-12-31;impot sur bénéfice;Hongrie;-30000000
+BNP;2014-12-31;Effectif;Hongrie;503
+BNP;2014-12-31;NB filiales CBCR;Hongrie;11
+BNP;2014-12-31;Total filiales;Hongrie;11
+BNP;2014-12-31;resultats/effectifs;Hongrie;457256
+BNP;2014-12-31;resultats/pnb;Hongrie;0.2875
+BNP;2014-12-31;Produit Net Bancaire;Ile de Man;10000000
+BNP;2014-12-31;NB filiales CBCR;Ile de Man;1
+BNP;2014-12-31;Total filiales;Ile de Man;1
+BNP;2014-12-31;Produit Net Bancaire;Iles Caïmans;30000000
+BNP;2014-12-31;Resultat avant impot;Iles Caïmans;40000000
+BNP;2014-12-31;NB filiales CBCR;Iles Caïmans;7
+BNP;2014-12-31;Total filiales;Iles Caïmans;7
+BNP;2014-12-31;resultats/pnb;Iles Caïmans;1.33333
+BNP;2014-12-31;Produit Net Bancaire;Inde;1380000000
+BNP;2014-12-31;Resultat avant impot;Inde;960000000
+BNP;2014-12-31;impot courant;Inde;-430000000
+BNP;2014-12-31;impot différé;Inde;-30000000
+BNP;2014-12-31;impot sur bénéfice;Inde;-460000000
+BNP;2014-12-31;Effectif;Inde;2467
+BNP;2014-12-31;NB filiales CBCR;Inde;12
+BNP;2014-12-31;Total filiales;Inde;12
+BNP;2014-12-31;resultats/effectifs;Inde;389137
+BNP;2014-12-31;resultats/pnb;Inde;0.695652
+BNP;2014-12-31;Produit Net Bancaire;Indonésie;500000000
+BNP;2014-12-31;Resultat avant impot;Indonésie;320000000
+BNP;2014-12-31;impot courant;Indonésie;-110000000
+BNP;2014-12-31;impot différé;Indonésie;20000000
+BNP;2014-12-31;impot sur bénéfice;Indonésie;-90000000
+BNP;2014-12-31;Effectif;Indonésie;126
+BNP;2014-12-31;NB filiales CBCR;Indonésie;3
+BNP;2014-12-31;Total filiales;Indonésie;3
+BNP;2014-12-31;resultats/effectifs;Indonésie;2.53968e+06
+BNP;2014-12-31;resultats/pnb;Indonésie;0.64
+BNP;2014-12-31;Produit Net Bancaire;Irlande;1790000000
+BNP;2014-12-31;Resultat avant impot;Irlande;1470000000
+BNP;2014-12-31;impot courant;Irlande;-160000000
+BNP;2014-12-31;impot différé;Irlande;-20000000
+BNP;2014-12-31;impot sur bénéfice;Irlande;-180000000
+BNP;2014-12-31;Effectif;Irlande;174
+BNP;2014-12-31;NB filiales CBCR;Irlande;20
+BNP;2014-12-31;Total filiales;Irlande;20
+BNP;2014-12-31;resultats/effectifs;Irlande;8.44828e+06
+BNP;2014-12-31;resultats/pnb;Irlande;0.821229
+BNP;2014-12-31;Produit Net Bancaire;Italie;48830000000
+BNP;2014-12-31;Resultat avant impot;Italie;4940000000
+BNP;2014-12-31;impot courant;Italie;-3990000000
+BNP;2014-12-31;impot différé;Italie;1960000000
+BNP;2014-12-31;impot sur bénéfice;Italie;-2030000000
+BNP;2014-12-31;Effectif;Italie;18056
+BNP;2014-12-31;NB filiales CBCR;Italie;41
+BNP;2014-12-31;Total filiales;Italie;41
+BNP;2014-12-31;resultats/effectifs;Italie;273593
+BNP;2014-12-31;resultats/pnb;Italie;0.101167
+BNP;2014-12-31;Produit Net Bancaire;Japon;3510000000
+BNP;2014-12-31;Resultat avant impot;Japon;1450000000
+BNP;2014-12-31;impot courant;Japon;-440000000
+BNP;2014-12-31;impot différé;Japon;10000000
+BNP;2014-12-31;impot sur bénéfice;Japon;-430000000
+BNP;2014-12-31;Effectif;Japon;710
+BNP;2014-12-31;NB filiales CBCR;Japon;8
+BNP;2014-12-31;Total filiales;Japon;8
+BNP;2014-12-31;resultats/effectifs;Japon;2.04225e+06
+BNP;2014-12-31;resultats/pnb;Japon;0.413105
+BNP;2014-12-31;Produit Net Bancaire;Jersey;610000000
+BNP;2014-12-31;Resultat avant impot;Jersey;390000000
+BNP;2014-12-31;Effectif;Jersey;212
+BNP;2014-12-31;NB filiales CBCR;Jersey;5
+BNP;2014-12-31;Total filiales;Jersey;5
+BNP;2014-12-31;resultats/effectifs;Jersey;1.83962e+06
+BNP;2014-12-31;resultats/pnb;Jersey;0.639344
+BNP;2014-12-31;Produit Net Bancaire;Koweït;70000000
+BNP;2014-12-31;Resultat avant impot;Koweït;30000000
+BNP;2014-12-31;Effectif;Koweït;27
+BNP;2014-12-31;NB filiales CBCR;Koweït;1
+BNP;2014-12-31;Total filiales;Koweït;1
+BNP;2014-12-31;resultats/effectifs;Koweït;1.11111e+06
+BNP;2014-12-31;resultats/pnb;Koweït;0.428571
+BNP;2014-12-31;Produit Net Bancaire;Luxembourg;11860000000
+BNP;2014-12-31;Resultat avant impot;Luxembourg;5660000000
+BNP;2014-12-31;impot courant;Luxembourg;-980000000
+BNP;2014-12-31;impot différé;Luxembourg;-320000000
+BNP;2014-12-31;impot sur bénéfice;Luxembourg;-1300000000
+BNP;2014-12-31;Effectif;Luxembourg;3664
+BNP;2014-12-31;NB filiales CBCR;Luxembourg;35
+BNP;2014-12-31;Total filiales;Luxembourg;35
+BNP;2014-12-31;resultats/effectifs;Luxembourg;1.54476e+06
+BNP;2014-12-31;resultats/pnb;Luxembourg;0.477234
+BNP;2014-12-31;Produit Net Bancaire;Malaisie;210000000
+BNP;2014-12-31;Resultat avant impot;Malaisie;100000000
+BNP;2014-12-31;impot courant;Malaisie;-30000000
+BNP;2014-12-31;impot sur bénéfice;Malaisie;-30000000
+BNP;2014-12-31;Effectif;Malaisie;63
+BNP;2014-12-31;NB filiales CBCR;Malaisie;2
+BNP;2014-12-31;Total filiales;Malaisie;2
+BNP;2014-12-31;resultats/effectifs;Malaisie;1.5873e+06
+BNP;2014-12-31;resultats/pnb;Malaisie;0.47619
+BNP;2014-12-31;Produit Net Bancaire;Mali;140000000
+BNP;2014-12-31;Resultat avant impot;Mali;40000000
+BNP;2014-12-31;impot courant;Mali;-10000000
+BNP;2014-12-31;impot sur bénéfice;Mali;-10000000
+BNP;2014-12-31;Effectif;Mali;102
+BNP;2014-12-31;NB filiales CBCR;Mali;1
+BNP;2014-12-31;Total filiales;Mali;1
+BNP;2014-12-31;resultats/effectifs;Mali;392157
+BNP;2014-12-31;resultats/pnb;Mali;0.285714
+BNP;2014-12-31;Produit Net Bancaire;Maroc;3030000000
+BNP;2014-12-31;Resultat avant impot;Maroc;680000000
+BNP;2014-12-31;impot courant;Maroc;-340000000
+BNP;2014-12-31;impot différé;Maroc;-20000000
+BNP;2014-12-31;impot sur bénéfice;Maroc;-360000000
+BNP;2014-12-31;Effectif;Maroc;3630
+BNP;2014-12-31;NB filiales CBCR;Maroc;8
+BNP;2014-12-31;Total filiales;Maroc;8
+BNP;2014-12-31;resultats/effectifs;Maroc;187328
+BNP;2014-12-31;resultats/pnb;Maroc;0.224422
+BNP;2014-12-31;Produit Net Bancaire;Mexique;140000000
+BNP;2014-12-31;Resultat avant impot;Mexique;10000000
+BNP;2014-12-31;Effectif;Mexique;181
+BNP;2014-12-31;NB filiales CBCR;Mexique;4
+BNP;2014-12-31;Total filiales;Mexique;4
+BNP;2014-12-31;resultats/effectifs;Mexique;55248.6
+BNP;2014-12-31;resultats/pnb;Mexique;0.0714286
+BNP;2014-12-31;Produit Net Bancaire;Monaco;620000000
+BNP;2014-12-31;Resultat avant impot;Monaco;220000000
+BNP;2014-12-31;Effectif;Monaco;212
+BNP;2014-12-31;NB filiales CBCR;Monaco;2
+BNP;2014-12-31;Total filiales;Monaco;2
+BNP;2014-12-31;resultats/effectifs;Monaco;1.03774e+06
+BNP;2014-12-31;resultats/pnb;Monaco;0.354839
+BNP;2014-12-31;Effectif;Namibie;9
+BNP;2014-12-31;NB filiales CBCR;Namibie;1
+BNP;2014-12-31;Total filiales;Namibie;1
+BNP;2014-12-31;Produit Net Bancaire;Norvège;320000000
+BNP;2014-12-31;Resultat avant impot;Norvège;20000000
+BNP;2014-12-31;impot courant;Norvège;-40000000
+BNP;2014-12-31;impot différé;Norvège;20000000
+BNP;2014-12-31;impot sur bénéfice;Norvège;-20000000
+BNP;2014-12-31;Effectif;Norvège;100
+BNP;2014-12-31;NB filiales CBCR;Norvège;7
+BNP;2014-12-31;Total filiales;Norvège;7
+BNP;2014-12-31;resultats/effectifs;Norvège;200000
+BNP;2014-12-31;resultats/pnb;Norvège;0.0625
+BNP;2014-12-31;Produit Net Bancaire;Nouvelle-Zélande;50000000
+BNP;2014-12-31;Resultat avant impot;Nouvelle-Zélande;10000000
+BNP;2014-12-31;Effectif;Nouvelle-Zélande;36
+BNP;2014-12-31;NB filiales CBCR;Nouvelle-Zélande;1
+BNP;2014-12-31;Total filiales;Nouvelle-Zélande;1
+BNP;2014-12-31;resultats/effectifs;Nouvelle-Zélande;277778
+BNP;2014-12-31;resultats/pnb;Nouvelle-Zélande;0.2
+BNP;2014-12-31;NB filiales CBCR;Panama;1
+BNP;2014-12-31;Total filiales;Panama;1
+BNP;2014-12-31;Produit Net Bancaire;Pays-Bas;3710000000
+BNP;2014-12-31;Resultat avant impot;Pays-Bas;1390000000
+BNP;2014-12-31;impot courant;Pays-Bas;-400000000
+BNP;2014-12-31;impot différé;Pays-Bas;60000000
+BNP;2014-12-31;impot sur bénéfice;Pays-Bas;-340000000
+BNP;2014-12-31;Effectif;Pays-Bas;967
+BNP;2014-12-31;NB filiales CBCR;Pays-Bas;37
+BNP;2014-12-31;Total filiales;Pays-Bas;37
+BNP;2014-12-31;resultats/effectifs;Pays-Bas;1.43744e+06
+BNP;2014-12-31;resultats/pnb;Pays-Bas;0.374663
+BNP;2014-12-31;NB filiales CBCR;Pérou;1
+BNP;2014-12-31;Total filiales;Pérou;1
+BNP;2014-12-31;Produit Net Bancaire;Philippines;10000000
+BNP;2014-12-31;Effectif;Philippines;12
+BNP;2014-12-31;NB filiales CBCR;Philippines;1
+BNP;2014-12-31;Total filiales;Philippines;1
+BNP;2014-12-31;Produit Net Bancaire;Pologne;3770000000
+BNP;2014-12-31;Resultat avant impot;Pologne;950000000
+BNP;2014-12-31;impot courant;Pologne;-250000000
+BNP;2014-12-31;impot différé;Pologne;-10000000
+BNP;2014-12-31;impot sur bénéfice;Pologne;-260000000
+BNP;2014-12-31;Effectif;Pologne;9372
+BNP;2014-12-31;NB filiales CBCR;Pologne;15
+BNP;2014-12-31;Total filiales;Pologne;15
+BNP;2014-12-31;resultats/effectifs;Pologne;101366
+BNP;2014-12-31;resultats/pnb;Pologne;0.251989
+BNP;2014-12-31;Produit Net Bancaire;Portugal;1570000000
+BNP;2014-12-31;Resultat avant impot;Portugal;930000000
+BNP;2014-12-31;impot courant;Portugal;-300000000
+BNP;2014-12-31;impot différé;Portugal;10000000
+BNP;2014-12-31;impot sur bénéfice;Portugal;-290000000
+BNP;2014-12-31;Effectif;Portugal;1586
+BNP;2014-12-31;NB filiales CBCR;Portugal;9
+BNP;2014-12-31;Total filiales;Portugal;9
+BNP;2014-12-31;resultats/effectifs;Portugal;586381
+BNP;2014-12-31;resultats/pnb;Portugal;0.592357
+BNP;2014-12-31;Produit Net Bancaire;Qatar;150000000
+BNP;2014-12-31;Resultat avant impot;Qatar;30000000
+BNP;2014-12-31;Effectif;Qatar;37
+BNP;2014-12-31;NB filiales CBCR;Qatar;1
+BNP;2014-12-31;Total filiales;Qatar;1
+BNP;2014-12-31;resultats/effectifs;Qatar;810811
+BNP;2014-12-31;resultats/pnb;Qatar;0.2
+BNP;2014-12-31;Produit Net Bancaire;République Tchèque;1310000000
+BNP;2014-12-31;Resultat avant impot;République Tchèque;690000000
+BNP;2014-12-31;impot courant;République Tchèque;-140000000
+BNP;2014-12-31;impot différé;République Tchèque;-20000000
+BNP;2014-12-31;impot sur bénéfice;République Tchèque;-160000000
+BNP;2014-12-31;Effectif;République Tchèque;610
+BNP;2014-12-31;NB filiales CBCR;République Tchèque;5
+BNP;2014-12-31;Total filiales;République Tchèque;5
+BNP;2014-12-31;resultats/effectifs;République Tchèque;1.13115e+06
+BNP;2014-12-31;resultats/pnb;République Tchèque;0.526718
+BNP;2014-12-31;Produit Net Bancaire;Roumanie;500000000
+BNP;2014-12-31;Resultat avant impot;Roumanie;120000000
+BNP;2014-12-31;impot courant;Roumanie;-20000000
+BNP;2014-12-31;impot sur bénéfice;Roumanie;-20000000
+BNP;2014-12-31;Effectif;Roumanie;814
+BNP;2014-12-31;NB filiales CBCR;Roumanie;9
+BNP;2014-12-31;Total filiales;Roumanie;9
+BNP;2014-12-31;resultats/effectifs;Roumanie;147420
+BNP;2014-12-31;resultats/pnb;Roumanie;0.24
+BNP;2014-12-31;Produit Net Bancaire;Royaume-Uni;23660000000
+BNP;2014-12-31;Resultat avant impot;Royaume-Uni;7170000000
+BNP;2014-12-31;impot courant;Royaume-Uni;-590000000
+BNP;2014-12-31;impot différé;Royaume-Uni;-720000000
+BNP;2014-12-31;impot sur bénéfice;Royaume-Uni;-1310000000
+BNP;2014-12-31;Effectif;Royaume-Uni;6505
+BNP;2014-12-31;NB filiales CBCR;Royaume-Uni;58
+BNP;2014-12-31;Total filiales;Royaume-Uni;58
+BNP;2014-12-31;resultats/effectifs;Royaume-Uni;1.10223e+06
+BNP;2014-12-31;resultats/pnb;Royaume-Uni;0.303043
+BNP;2014-12-31;Produit Net Bancaire;Russie;1080000000
+BNP;2014-12-31;Resultat avant impot;Russie;460000000
+BNP;2014-12-31;impot courant;Russie;-130000000
+BNP;2014-12-31;impot différé;Russie;-50000000
+BNP;2014-12-31;impot sur bénéfice;Russie;-180000000
+BNP;2014-12-31;Effectif;Russie;437
+BNP;2014-12-31;NB filiales CBCR;Russie;4
+BNP;2014-12-31;Total filiales;Russie;4
+BNP;2014-12-31;resultats/effectifs;Russie;1.05263e+06
+BNP;2014-12-31;resultats/pnb;Russie;0.425926
+BNP;2014-12-31;Produit Net Bancaire;Sénégal;480000000
+BNP;2014-12-31;Resultat avant impot;Sénégal;130000000
+BNP;2014-12-31;impot courant;Sénégal;-20000000
+BNP;2014-12-31;impot sur bénéfice;Sénégal;-20000000
+BNP;2014-12-31;Effectif;Sénégal;440
+BNP;2014-12-31;NB filiales CBCR;Sénégal;1
+BNP;2014-12-31;Total filiales;Sénégal;1
+BNP;2014-12-31;resultats/effectifs;Sénégal;295455
+BNP;2014-12-31;resultats/pnb;Sénégal;0.270833
+BNP;2014-12-31;Produit Net Bancaire;Serbie;460000000
+BNP;2014-12-31;Resultat avant impot;Serbie;110000000
+BNP;2014-12-31;impot courant;Serbie;-10000000
+BNP;2014-12-31;impot sur bénéfice;Serbie;-10000000
+BNP;2014-12-31;Effectif;Serbie;869
+BNP;2014-12-31;NB filiales CBCR;Serbie;2
+BNP;2014-12-31;Total filiales;Serbie;2
+BNP;2014-12-31;resultats/effectifs;Serbie;126582
+BNP;2014-12-31;resultats/pnb;Serbie;0.23913
+BNP;2014-12-31;Produit Net Bancaire;Singapour;4170000000
+BNP;2014-12-31;Resultat avant impot;Singapour;1220000000
+BNP;2014-12-31;impot courant;Singapour;-190000000
+BNP;2014-12-31;impot sur bénéfice;Singapour;-190000000
+BNP;2014-12-31;Effectif;Singapour;1861
+BNP;2014-12-31;NB filiales CBCR;Singapour;7
+BNP;2014-12-31;Total filiales;Singapour;7
+BNP;2014-12-31;resultats/effectifs;Singapour;655562
+BNP;2014-12-31;resultats/pnb;Singapour;0.292566
+BNP;2014-12-31;Produit Net Bancaire;Slovaquie;270000000
+BNP;2014-12-31;Resultat avant impot;Slovaquie;120000000
+BNP;2014-12-31;impot courant;Slovaquie;-30000000
+BNP;2014-12-31;impot sur bénéfice;Slovaquie;-30000000
+BNP;2014-12-31;Effectif;Slovaquie;162
+BNP;2014-12-31;NB filiales CBCR;Slovaquie;3
+BNP;2014-12-31;Total filiales;Slovaquie;3
+BNP;2014-12-31;resultats/effectifs;Slovaquie;740741
+BNP;2014-12-31;resultats/pnb;Slovaquie;0.444444
+BNP;2014-12-31;Produit Net Bancaire;Suède;240000000
+BNP;2014-12-31;Resultat avant impot;Suède;10000000
+BNP;2014-12-31;Effectif;Suède;154
+BNP;2014-12-31;NB filiales CBCR;Suède;7
+BNP;2014-12-31;Total filiales;Suède;7
+BNP;2014-12-31;resultats/effectifs;Suède;64935.1
+BNP;2014-12-31;resultats/pnb;Suède;0.0416667
+BNP;2014-12-31;Produit Net Bancaire;Suisse;4110000000
+BNP;2014-12-31;Resultat avant impot;Suisse;-450000000
+BNP;2014-12-31;impot courant;Suisse;-490000000
+BNP;2014-12-31;impot différé;Suisse;2470000000
+BNP;2014-12-31;impot sur bénéfice;Suisse;1980000000
+BNP;2014-12-31;Effectif;Suisse;1500
+BNP;2014-12-31;NB filiales CBCR;Suisse;7
+BNP;2014-12-31;Total filiales;Suisse;7
+BNP;2014-12-31;resultats/effectifs;Suisse;-300000
+BNP;2014-12-31;resultats/pnb;Suisse;-0.109489
+BNP;2014-12-31;Produit Net Bancaire;Taïwan;1350000000
+BNP;2014-12-31;Resultat avant impot;Taïwan;800000000
+BNP;2014-12-31;impot courant;Taïwan;-60000000
+BNP;2014-12-31;impot différé;Taïwan;-20000000
+BNP;2014-12-31;impot sur bénéfice;Taïwan;-80000000
+BNP;2014-12-31;Effectif;Taïwan;441
+BNP;2014-12-31;NB filiales CBCR;Taïwan;5
+BNP;2014-12-31;Total filiales;Taïwan;5
+BNP;2014-12-31;resultats/effectifs;Taïwan;1.81406e+06
+BNP;2014-12-31;resultats/pnb;Taïwan;0.592593
+BNP;2014-12-31;Produit Net Bancaire;Thaïlande;240000000
+BNP;2014-12-31;Resultat avant impot;Thaïlande;140000000
+BNP;2014-12-31;impot courant;Thaïlande;-30000000
+BNP;2014-12-31;impot sur bénéfice;Thaïlande;-30000000
+BNP;2014-12-31;Effectif;Thaïlande;63
+BNP;2014-12-31;NB filiales CBCR;Thaïlande;1
+BNP;2014-12-31;Total filiales;Thaïlande;1
+BNP;2014-12-31;resultats/effectifs;Thaïlande;2.22222e+06
+BNP;2014-12-31;resultats/pnb;Thaïlande;0.583333
+BNP;2014-12-31;Produit Net Bancaire;Tunisie;690000000
+BNP;2014-12-31;Resultat avant impot;Tunisie;280000000
+BNP;2014-12-31;impot courant;Tunisie;-70000000
+BNP;2014-12-31;impot différé;Tunisie;-10000000
+BNP;2014-12-31;impot sur bénéfice;Tunisie;-80000000
+BNP;2014-12-31;Effectif;Tunisie;1229
+BNP;2014-12-31;NB filiales CBCR;Tunisie;1
+BNP;2014-12-31;Total filiales;Tunisie;1
+BNP;2014-12-31;resultats/effectifs;Tunisie;227828
+BNP;2014-12-31;resultats/pnb;Tunisie;0.405797
+BNP;2014-12-31;Produit Net Bancaire;Turquie;11590000000
+BNP;2014-12-31;Resultat avant impot;Turquie;3720000000
+BNP;2014-12-31;impot courant;Turquie;-890000000
+BNP;2014-12-31;impot différé;Turquie;130000000
+BNP;2014-12-31;impot sur bénéfice;Turquie;-760000000
+BNP;2014-12-31;Effectif;Turquie;10766
+BNP;2014-12-31;NB filiales CBCR;Turquie;12
+BNP;2014-12-31;Total filiales;Turquie;12
+BNP;2014-12-31;resultats/effectifs;Turquie;345532
+BNP;2014-12-31;resultats/pnb;Turquie;0.320966
+BNP;2014-12-31;Produit Net Bancaire;Ukraine;1200000000
+BNP;2014-12-31;Resultat avant impot;Ukraine;-1120000000
+BNP;2014-12-31;Effectif;Ukraine;5900
+BNP;2014-12-31;NB filiales CBCR;Ukraine;2
+BNP;2014-12-31;Total filiales;Ukraine;2
+BNP;2014-12-31;resultats/effectifs;Ukraine;-189831
+BNP;2014-12-31;resultats/pnb;Ukraine;-0.933333
+BNP;2014-12-31;Produit Net Bancaire;Vietnam;220000000
+BNP;2014-12-31;Resultat avant impot;Vietnam;180000000
+BNP;2014-12-31;impot courant;Vietnam;-30000000
+BNP;2014-12-31;impot différé;Vietnam;-10000000
+BNP;2014-12-31;impot sur bénéfice;Vietnam;-40000000
+BNP;2014-12-31;Effectif;Vietnam;50
+BNP;2014-12-31;NB filiales CBCR;Vietnam;2
+BNP;2014-12-31;Total filiales;Vietnam;2
+BNP;2014-12-31;resultats/effectifs;Vietnam;3600000
+BNP;2014-12-31;resultats/pnb;Vietnam;0.818182
+BPCE;2014-12-31;Produit Net Bancaire;Afrique du Sud;40000000
+BPCE;2014-12-31;Effectif;Afrique du Sud;66
+BPCE;2014-12-31;NB filiales CBCR;Afrique du Sud;2
+BPCE;2014-12-31;Total filiales;Afrique du Sud;2
+BPCE;2014-12-31;Produit Net Bancaire;Algérie;690000000
+BPCE;2014-12-31;Resultat avant impot;Algérie;400000000
+BPCE;2014-12-31;impot sur bénéfice;Algérie;-90000000
+BPCE;2014-12-31;Effectif;Algérie;693
+BPCE;2014-12-31;NB filiales CBCR;Algérie;1
+BPCE;2014-12-31;Total filiales;Algérie;1
+BPCE;2014-12-31;resultats/effectifs;Algérie;577201
+BPCE;2014-12-31;resultats/pnb;Algérie;0.57971
+BPCE;2014-12-31;Produit Net Bancaire;Allemagne;1890000000
+BPCE;2014-12-31;Resultat avant impot;Allemagne;440000000
+BPCE;2014-12-31;impot sur bénéfice;Allemagne;-120000000
+BPCE;2014-12-31;Effectif;Allemagne;715
+BPCE;2014-12-31;NB filiales CBCR;Allemagne;12
+BPCE;2014-12-31;Total filiales;Allemagne;12
+BPCE;2014-12-31;resultats/effectifs;Allemagne;615385
+BPCE;2014-12-31;resultats/pnb;Allemagne;0.232804
+BPCE;2014-12-31;Produit Net Bancaire;Argentine;50000000
+BPCE;2014-12-31;Resultat avant impot;Argentine;20000000
+BPCE;2014-12-31;Effectif;Argentine;51
+BPCE;2014-12-31;NB filiales CBCR;Argentine;1
+BPCE;2014-12-31;Total filiales;Argentine;1
+BPCE;2014-12-31;resultats/effectifs;Argentine;392157
+BPCE;2014-12-31;resultats/pnb;Argentine;0.4
+BPCE;2014-12-31;Produit Net Bancaire;Australie;80000000
+BPCE;2014-12-31;Resultat avant impot;Australie;10000000
+BPCE;2014-12-31;impot sur bénéfice;Australie;-10000000
+BPCE;2014-12-31;Effectif;Australie;18
+BPCE;2014-12-31;NB filiales CBCR;Australie;3
+BPCE;2014-12-31;Total filiales;Australie;3
+BPCE;2014-12-31;resultats/effectifs;Australie;555556
+BPCE;2014-12-31;resultats/pnb;Australie;0.125
+BPCE;2014-12-31;Produit Net Bancaire;Autriche;260000000
+BPCE;2014-12-31;Resultat avant impot;Autriche;-700000000
+BPCE;2014-12-31;impot sur bénéfice;Autriche;-20000000
+BPCE;2014-12-31;Effectif;Autriche;106
+BPCE;2014-12-31;NB filiales CBCR;Autriche;4
+BPCE;2014-12-31;Total filiales;Autriche;4
+BPCE;2014-12-31;resultats/effectifs;Autriche;-6.60377e+06
+BPCE;2014-12-31;resultats/pnb;Autriche;-2.69231
+BPCE;2014-12-31;Produit Net Bancaire;Belgique;210000000
+BPCE;2014-12-31;Resultat avant impot;Belgique;150000000
+BPCE;2014-12-31;impot sur bénéfice;Belgique;-10000000
+BPCE;2014-12-31;Effectif;Belgique;72
+BPCE;2014-12-31;NB filiales CBCR;Belgique;10
+BPCE;2014-12-31;Total filiales;Belgique;10
+BPCE;2014-12-31;resultats/effectifs;Belgique;2.08333e+06
+BPCE;2014-12-31;resultats/pnb;Belgique;0.714286
+BPCE;2014-12-31;Produit Net Bancaire;Brésil;200000000
+BPCE;2014-12-31;Resultat avant impot;Brésil;110000000
+BPCE;2014-12-31;impot sur bénéfice;Brésil;-20000000
+BPCE;2014-12-31;Effectif;Brésil;83
+BPCE;2014-12-31;NB filiales CBCR;Brésil;3
+BPCE;2014-12-31;Total filiales;Brésil;3
+BPCE;2014-12-31;resultats/effectifs;Brésil;1.3253e+06
+BPCE;2014-12-31;resultats/pnb;Brésil;0.55
+BPCE;2014-12-31;Produit Net Bancaire;Bulgarie;10000000
+BPCE;2014-12-31;Resultat avant impot;Bulgarie;10000000
+BPCE;2014-12-31;Effectif;Bulgarie;8
+BPCE;2014-12-31;NB filiales CBCR;Bulgarie;1
+BPCE;2014-12-31;Total filiales;Bulgarie;1
+BPCE;2014-12-31;resultats/effectifs;Bulgarie;1250000
+BPCE;2014-12-31;resultats/pnb;Bulgarie;1
+BPCE;2014-12-31;Resultat avant impot;Cambodge;70000000
+BPCE;2014-12-31;NB filiales CBCR;Cambodge;1
+BPCE;2014-12-31;Total filiales;Cambodge;1
+BPCE;2014-12-31;Produit Net Bancaire;Cameroun;820000000
+BPCE;2014-12-31;Resultat avant impot;Cameroun;370000000
+BPCE;2014-12-31;impot sur bénéfice;Cameroun;-90000000
+BPCE;2014-12-31;Effectif;Cameroun;620
+BPCE;2014-12-31;NB filiales CBCR;Cameroun;1
+BPCE;2014-12-31;Total filiales;Cameroun;1
+BPCE;2014-12-31;resultats/effectifs;Cameroun;596774
+BPCE;2014-12-31;resultats/pnb;Cameroun;0.45122
+BPCE;2014-12-31;Produit Net Bancaire;Canada;130000000
+BPCE;2014-12-31;Resultat avant impot;Canada;90000000
+BPCE;2014-12-31;impot sur bénéfice;Canada;-20000000
+BPCE;2014-12-31;Effectif;Canada;38
+BPCE;2014-12-31;NB filiales CBCR;Canada;7
+BPCE;2014-12-31;Total filiales;Canada;7
+BPCE;2014-12-31;resultats/effectifs;Canada;2.36842e+06
+BPCE;2014-12-31;resultats/pnb;Canada;0.692308
+BPCE;2014-12-31;Produit Net Bancaire;Chili;40000000
+BPCE;2014-12-31;Effectif;Chili;42
+BPCE;2014-12-31;NB filiales CBCR;Chili;2
+BPCE;2014-12-31;Total filiales;Chili;2
+BPCE;2014-12-31;Produit Net Bancaire;Chine;150000000
+BPCE;2014-12-31;Resultat avant impot;Chine;60000000
+BPCE;2014-12-31;impot sur bénéfice;Chine;-10000000
+BPCE;2014-12-31;Effectif;Chine;65
+BPCE;2014-12-31;NB filiales CBCR;Chine;2
+BPCE;2014-12-31;Total filiales;Chine;2
+BPCE;2014-12-31;resultats/effectifs;Chine;923077
+BPCE;2014-12-31;resultats/pnb;Chine;0.4
+BPCE;2014-12-31;Produit Net Bancaire;Congo;210000000
+BPCE;2014-12-31;Resultat avant impot;Congo;80000000
+BPCE;2014-12-31;impot sur bénéfice;Congo;-30000000
+BPCE;2014-12-31;Effectif;Congo;224
+BPCE;2014-12-31;NB filiales CBCR;Congo;1
+BPCE;2014-12-31;Total filiales;Congo;1
+BPCE;2014-12-31;resultats/effectifs;Congo;357143
+BPCE;2014-12-31;resultats/pnb;Congo;0.380952
+BPCE;2014-12-31;Produit Net Bancaire;Danemark;170000000
+BPCE;2014-12-31;Resultat avant impot;Danemark;10000000
+BPCE;2014-12-31;impot sur bénéfice;Danemark;-10000000
+BPCE;2014-12-31;Effectif;Danemark;79
+BPCE;2014-12-31;NB filiales CBCR;Danemark;2
+BPCE;2014-12-31;Total filiales;Danemark;2
+BPCE;2014-12-31;resultats/effectifs;Danemark;126582
+BPCE;2014-12-31;resultats/pnb;Danemark;0.0588235
+BPCE;2014-12-31;Produit Net Bancaire;Djibouti;200000000
+BPCE;2014-12-31;Resultat avant impot;Djibouti;30000000
+BPCE;2014-12-31;impot sur bénéfice;Djibouti;-10000000
+BPCE;2014-12-31;Effectif;Djibouti;277
+BPCE;2014-12-31;NB filiales CBCR;Djibouti;1
+BPCE;2014-12-31;Total filiales;Djibouti;1
+BPCE;2014-12-31;resultats/effectifs;Djibouti;108303
+BPCE;2014-12-31;resultats/pnb;Djibouti;0.15
+BPCE;2014-12-31;Produit Net Bancaire;Émirats Arabes Unis;100000000
+BPCE;2014-12-31;Resultat avant impot;Émirats Arabes Unis;10000000
+BPCE;2014-12-31;Effectif;Émirats Arabes Unis;40
+BPCE;2014-12-31;NB filiales CBCR;Émirats Arabes Unis;2
+BPCE;2014-12-31;Total filiales;Émirats Arabes Unis;2
+BPCE;2014-12-31;resultats/effectifs;Émirats Arabes Unis;250000
+BPCE;2014-12-31;resultats/pnb;Émirats Arabes Unis;0.1
+BPCE;2014-12-31;Produit Net Bancaire;Equateur;30000000
+BPCE;2014-12-31;Resultat avant impot;Equateur;20000000
+BPCE;2014-12-31;impot sur bénéfice;Equateur;-10000000
+BPCE;2014-12-31;Effectif;Equateur;20
+BPCE;2014-12-31;NB filiales CBCR;Equateur;1
+BPCE;2014-12-31;Total filiales;Equateur;1
+BPCE;2014-12-31;resultats/effectifs;Equateur;1000000
+BPCE;2014-12-31;resultats/pnb;Equateur;0.666667
+BPCE;2014-12-31;Produit Net Bancaire;Espagne;1390000000
+BPCE;2014-12-31;Resultat avant impot;Espagne;930000000
+BPCE;2014-12-31;impot sur bénéfice;Espagne;-240000000
+BPCE;2014-12-31;Effectif;Espagne;263
+BPCE;2014-12-31;NB filiales CBCR;Espagne;5
+BPCE;2014-12-31;Total filiales;Espagne;5
+BPCE;2014-12-31;resultats/effectifs;Espagne;3.53612e+06
+BPCE;2014-12-31;resultats/pnb;Espagne;0.669065
+BPCE;2014-12-31;Produit Net Bancaire;États-Unis;21100000000
+BPCE;2014-12-31;Resultat avant impot;États-Unis;6950000000
+BPCE;2014-12-31;impot sur bénéfice;États-Unis;-2270000000
+BPCE;2014-12-31;Effectif;États-Unis;2816
+BPCE;2014-12-31;NB filiales CBCR;États-Unis;90
+BPCE;2014-12-31;Total filiales;États-Unis;90
+BPCE;2014-12-31;resultats/effectifs;États-Unis;2.46804e+06
+BPCE;2014-12-31;resultats/pnb;États-Unis;0.329384
+BPCE;2014-12-31;Produit Net Bancaire;Fidji;20000000
+BPCE;2014-12-31;Resultat avant impot;Fidji;-20000000
+BPCE;2014-12-31;Effectif;Fidji;59
+BPCE;2014-12-31;NB filiales CBCR;Fidji;1
+BPCE;2014-12-31;Total filiales;Fidji;1
+BPCE;2014-12-31;resultats/effectifs;Fidji;-338983
+BPCE;2014-12-31;resultats/pnb;Fidji;-1
+BPCE;2014-12-31;Produit Net Bancaire;France;192490000000
+BPCE;2014-12-31;Resultat avant impot;France;45270000000
+BPCE;2014-12-31;impot sur bénéfice;France;-14470000000
+BPCE;2014-12-31;Effectif;France;91682
+BPCE;2014-12-31;NB filiales CBCR;France;413
+BPCE;2014-12-31;Total filiales;France;413
+BPCE;2014-12-31;resultats/effectifs;France;493772
+BPCE;2014-12-31;resultats/pnb;France;0.235181
+BPCE;2014-12-31;Produit Net Bancaire;Grande-Bretagne;2600000000
+BPCE;2014-12-31;Resultat avant impot;Grande-Bretagne;1260000000
+BPCE;2014-12-31;impot sur bénéfice;Grande-Bretagne;-910000000
+BPCE;2014-12-31;Effectif;Grande-Bretagne;499
+BPCE;2014-12-31;NB filiales CBCR;Grande-Bretagne;19
+BPCE;2014-12-31;Total filiales;Grande-Bretagne;19
+BPCE;2014-12-31;resultats/effectifs;Grande-Bretagne;2.52505e+06
+BPCE;2014-12-31;resultats/pnb;Grande-Bretagne;0.484615
+BPCE;2014-12-31;Produit Net Bancaire;Hong-Kong;1240000000
+BPCE;2014-12-31;Resultat avant impot;Hong-Kong;250000000
+BPCE;2014-12-31;impot sur bénéfice;Hong-Kong;-10000000
+BPCE;2014-12-31;Effectif;Hong-Kong;298
+BPCE;2014-12-31;NB filiales CBCR;Hong-Kong;5
+BPCE;2014-12-31;Total filiales;Hong-Kong;5
+BPCE;2014-12-31;resultats/effectifs;Hong-Kong;838926
+BPCE;2014-12-31;resultats/pnb;Hong-Kong;0.201613
+BPCE;2014-12-31;Produit Net Bancaire;Hongrie;20000000
+BPCE;2014-12-31;Resultat avant impot;Hongrie;10000000
+BPCE;2014-12-31;Effectif;Hongrie;37
+BPCE;2014-12-31;NB filiales CBCR;Hongrie;2
+BPCE;2014-12-31;Total filiales;Hongrie;2
+BPCE;2014-12-31;resultats/effectifs;Hongrie;270270
+BPCE;2014-12-31;resultats/pnb;Hongrie;0.5
+BPCE;2014-12-31;Produit Net Bancaire;Iles Caïmans;50000000
+BPCE;2014-12-31;Resultat avant impot;Iles Caïmans;50000000
+BPCE;2014-12-31;NB filiales CBCR;Iles Caïmans;2
+BPCE;2014-12-31;Total filiales;Iles Caïmans;2
+BPCE;2014-12-31;resultats/pnb;Iles Caïmans;1
+BPCE;2014-12-31;Effectif;Inde;7
+BPCE;2014-12-31;NB filiales CBCR;Inde;2
+BPCE;2014-12-31;Total filiales;Inde;2
+BPCE;2014-12-31;Produit Net Bancaire;Irlande;200000000
+BPCE;2014-12-31;Resultat avant impot;Irlande;160000000
+BPCE;2014-12-31;impot sur bénéfice;Irlande;-10000000
+BPCE;2014-12-31;Effectif;Irlande;9
+BPCE;2014-12-31;NB filiales CBCR;Irlande;6
+BPCE;2014-12-31;Total filiales;Irlande;6
+BPCE;2014-12-31;resultats/effectifs;Irlande;1.77778e+07
+BPCE;2014-12-31;resultats/pnb;Irlande;0.8
+BPCE;2014-12-31;Produit Net Bancaire;Israël;80000000
+BPCE;2014-12-31;Effectif;Israël;101
+BPCE;2014-12-31;NB filiales CBCR;Israël;3
+BPCE;2014-12-31;Total filiales;Israël;3
+BPCE;2014-12-31;Produit Net Bancaire;Italie;1670000000
+BPCE;2014-12-31;Resultat avant impot;Italie;750000000
+BPCE;2014-12-31;impot sur bénéfice;Italie;-260000000
+BPCE;2014-12-31;Effectif;Italie;274
+BPCE;2014-12-31;NB filiales CBCR;Italie;6
+BPCE;2014-12-31;Total filiales;Italie;6
+BPCE;2014-12-31;resultats/effectifs;Italie;2.73723e+06
+BPCE;2014-12-31;resultats/pnb;Italie;0.449102
+BPCE;2014-12-31;Produit Net Bancaire;Japon;280000000
+BPCE;2014-12-31;Resultat avant impot;Japon;-60000000
+BPCE;2014-12-31;Effectif;Japon;111
+BPCE;2014-12-31;NB filiales CBCR;Japon;5
+BPCE;2014-12-31;Total filiales;Japon;5
+BPCE;2014-12-31;resultats/effectifs;Japon;-540541
+BPCE;2014-12-31;resultats/pnb;Japon;-0.214286
+BPCE;2014-12-31;Produit Net Bancaire;Jersey;10000000
+BPCE;2014-12-31;NB filiales CBCR;Jersey;1
+BPCE;2014-12-31;Total filiales;Jersey;1
+BPCE;2014-12-31;Produit Net Bancaire;Laos;50000000
+BPCE;2014-12-31;Resultat avant impot;Laos;20000000
+BPCE;2014-12-31;Effectif;Laos;164
+BPCE;2014-12-31;NB filiales CBCR;Laos;2
+BPCE;2014-12-31;Total filiales;Laos;2
+BPCE;2014-12-31;resultats/effectifs;Laos;121951
+BPCE;2014-12-31;resultats/pnb;Laos;0.4
+BPCE;2014-12-31;Produit Net Bancaire;Lettonie;10000000
+BPCE;2014-12-31;Effectif;Lettonie;7
+BPCE;2014-12-31;NB filiales CBCR;Lettonie;1
+BPCE;2014-12-31;Total filiales;Lettonie;1
+BPCE;2014-12-31;NB filiales CBCR;Liban;1
+BPCE;2014-12-31;Total filiales;Liban;1
+BPCE;2014-12-31;Produit Net Bancaire;Lituanie;20000000
+BPCE;2014-12-31;Resultat avant impot;Lituanie;10000000
+BPCE;2014-12-31;Effectif;Lituanie;13
+BPCE;2014-12-31;NB filiales CBCR;Lituanie;1
+BPCE;2014-12-31;Total filiales;Lituanie;1
+BPCE;2014-12-31;resultats/effectifs;Lituanie;769231
+BPCE;2014-12-31;resultats/pnb;Lituanie;0.5
+BPCE;2014-12-31;Produit Net Bancaire;Luxembourg;1960000000
+BPCE;2014-12-31;Resultat avant impot;Luxembourg;1150000000
+BPCE;2014-12-31;impot sur bénéfice;Luxembourg;-70000000
+BPCE;2014-12-31;Effectif;Luxembourg;272
+BPCE;2014-12-31;NB filiales CBCR;Luxembourg;21
+BPCE;2014-12-31;Total filiales;Luxembourg;21
+BPCE;2014-12-31;resultats/effectifs;Luxembourg;4.22794e+06
+BPCE;2014-12-31;resultats/pnb;Luxembourg;0.586735
+BPCE;2014-12-31;Produit Net Bancaire;Madagascar;290000000
+BPCE;2014-12-31;Resultat avant impot;Madagascar;170000000
+BPCE;2014-12-31;impot sur bénéfice;Madagascar;-30000000
+BPCE;2014-12-31;Effectif;Madagascar;365
+BPCE;2014-12-31;NB filiales CBCR;Madagascar;2
+BPCE;2014-12-31;Total filiales;Madagascar;2
+BPCE;2014-12-31;resultats/effectifs;Madagascar;465753
+BPCE;2014-12-31;resultats/pnb;Madagascar;0.586207
+BPCE;2014-12-31;Produit Net Bancaire;Malaisie;30000000
+BPCE;2014-12-31;Resultat avant impot;Malaisie;20000000
+BPCE;2014-12-31;Effectif;Malaisie;4
+BPCE;2014-12-31;NB filiales CBCR;Malaisie;1
+BPCE;2014-12-31;Total filiales;Malaisie;1
+BPCE;2014-12-31;resultats/effectifs;Malaisie;5000000
+BPCE;2014-12-31;resultats/pnb;Malaisie;0.666667
+BPCE;2014-12-31;Produit Net Bancaire;Malte;10000000
+BPCE;2014-12-31;Resultat avant impot;Malte;10000000
+BPCE;2014-12-31;NB filiales CBCR;Malte;1
+BPCE;2014-12-31;Total filiales;Malte;1
+BPCE;2014-12-31;resultats/pnb;Malte;1
+BPCE;2014-12-31;Produit Net Bancaire;Maroc;-70000000
+BPCE;2014-12-31;Resultat avant impot;Maroc;-80000000
+BPCE;2014-12-31;Effectif;Maroc;4
+BPCE;2014-12-31;NB filiales CBCR;Maroc;4
+BPCE;2014-12-31;Total filiales;Maroc;4
+BPCE;2014-12-31;resultats/effectifs;Maroc;-20000000
+BPCE;2014-12-31;resultats/pnb;Maroc;1.14286
+BPCE;2014-12-31;Produit Net Bancaire;Maurice;160000000
+BPCE;2014-12-31;Resultat avant impot;Maurice;20000000
+BPCE;2014-12-31;Effectif;Maurice;277
+BPCE;2014-12-31;NB filiales CBCR;Maurice;2
+BPCE;2014-12-31;Total filiales;Maurice;2
+BPCE;2014-12-31;resultats/effectifs;Maurice;72202.2
+BPCE;2014-12-31;resultats/pnb;Maurice;0.125
+BPCE;2014-12-31;Produit Net Bancaire;Mexique;30000000
+BPCE;2014-12-31;Resultat avant impot;Mexique;-30000000
+BPCE;2014-12-31;impot sur bénéfice;Mexique;10000000
+BPCE;2014-12-31;Effectif;Mexique;51
+BPCE;2014-12-31;NB filiales CBCR;Mexique;3
+BPCE;2014-12-31;Total filiales;Mexique;3
+BPCE;2014-12-31;resultats/effectifs;Mexique;-588235
+BPCE;2014-12-31;resultats/pnb;Mexique;-1
+BPCE;2014-12-31;Produit Net Bancaire;Monaco;110000000
+BPCE;2014-12-31;Resultat avant impot;Monaco;100000000
+BPCE;2014-12-31;impot sur bénéfice;Monaco;-30000000
+BPCE;2014-12-31;Effectif;Monaco;32
+BPCE;2014-12-31;resultats/effectifs;Monaco;3125000
+BPCE;2014-12-31;resultats/pnb;Monaco;0.909091
+BPCE;2014-12-31;Produit Net Bancaire;Nouvelle-Calédonie;660000000
+BPCE;2014-12-31;Resultat avant impot;Nouvelle-Calédonie;370000000
+BPCE;2014-12-31;impot sur bénéfice;Nouvelle-Calédonie;-110000000
+BPCE;2014-12-31;Effectif;Nouvelle-Calédonie;742
+BPCE;2014-12-31;NB filiales CBCR;Nouvelle-Calédonie;4
+BPCE;2014-12-31;Total filiales;Nouvelle-Calédonie;4
+BPCE;2014-12-31;resultats/effectifs;Nouvelle-Calédonie;498652
+BPCE;2014-12-31;resultats/pnb;Nouvelle-Calédonie;0.560606
+BPCE;2014-12-31;Produit Net Bancaire;Pays-Bas;210000000
+BPCE;2014-12-31;Resultat avant impot;Pays-Bas;100000000
+BPCE;2014-12-31;impot sur bénéfice;Pays-Bas;-20000000
+BPCE;2014-12-31;Effectif;Pays-Bas;71
+BPCE;2014-12-31;NB filiales CBCR;Pays-Bas;6
+BPCE;2014-12-31;Total filiales;Pays-Bas;6
+BPCE;2014-12-31;resultats/effectifs;Pays-Bas;1.40845e+06
+BPCE;2014-12-31;resultats/pnb;Pays-Bas;0.47619
+BPCE;2014-12-31;Produit Net Bancaire;Pologne;210000000
+BPCE;2014-12-31;Resultat avant impot;Pologne;70000000
+BPCE;2014-12-31;impot sur bénéfice;Pologne;-20000000
+BPCE;2014-12-31;Effectif;Pologne;212
+BPCE;2014-12-31;NB filiales CBCR;Pologne;5
+BPCE;2014-12-31;Total filiales;Pologne;5
+BPCE;2014-12-31;resultats/effectifs;Pologne;330189
+BPCE;2014-12-31;resultats/pnb;Pologne;0.333333
+BPCE;2014-12-31;Produit Net Bancaire;Polynésie Française;550000000
+BPCE;2014-12-31;Resultat avant impot;Polynésie Française;170000000
+BPCE;2014-12-31;impot sur bénéfice;Polynésie Française;-100000000
+BPCE;2014-12-31;Effectif;Polynésie Française;280
+BPCE;2014-12-31;NB filiales CBCR;Polynésie Française;3
+BPCE;2014-12-31;Total filiales;Polynésie Française;3
+BPCE;2014-12-31;resultats/effectifs;Polynésie Française;607143
+BPCE;2014-12-31;resultats/pnb;Polynésie Française;0.309091
+BPCE;2014-12-31;Produit Net Bancaire;Portugal;310000000
+BPCE;2014-12-31;Resultat avant impot;Portugal;40000000
+BPCE;2014-12-31;impot sur bénéfice;Portugal;-20000000
+BPCE;2014-12-31;Effectif;Portugal;149
+BPCE;2014-12-31;NB filiales CBCR;Portugal;2
+BPCE;2014-12-31;Total filiales;Portugal;2
+BPCE;2014-12-31;resultats/effectifs;Portugal;268456
+BPCE;2014-12-31;resultats/pnb;Portugal;0.129032
+BPCE;2014-12-31;Produit Net Bancaire;République Tchèque;20000000
+BPCE;2014-12-31;Resultat avant impot;République Tchèque;10000000
+BPCE;2014-12-31;Effectif;République Tchèque;7
+BPCE;2014-12-31;NB filiales CBCR;République Tchèque;2
+BPCE;2014-12-31;Total filiales;République Tchèque;2
+BPCE;2014-12-31;resultats/effectifs;République Tchèque;1.42857e+06
+BPCE;2014-12-31;resultats/pnb;République Tchèque;0.5
+BPCE;2014-12-31;Produit Net Bancaire;Roumanie;70000000
+BPCE;2014-12-31;Resultat avant impot;Roumanie;30000000
+BPCE;2014-12-31;impot sur bénéfice;Roumanie;-10000000
+BPCE;2014-12-31;Effectif;Roumanie;91
+BPCE;2014-12-31;NB filiales CBCR;Roumanie;3
+BPCE;2014-12-31;Total filiales;Roumanie;3
+BPCE;2014-12-31;resultats/effectifs;Roumanie;329670
+BPCE;2014-12-31;resultats/pnb;Roumanie;0.428571
+BPCE;2014-12-31;Produit Net Bancaire;Russie;160000000
+BPCE;2014-12-31;Resultat avant impot;Russie;70000000
+BPCE;2014-12-31;impot sur bénéfice;Russie;-30000000
+BPCE;2014-12-31;Effectif;Russie;70
+BPCE;2014-12-31;NB filiales CBCR;Russie;2
+BPCE;2014-12-31;Total filiales;Russie;2
+BPCE;2014-12-31;resultats/effectifs;Russie;1000000
+BPCE;2014-12-31;resultats/pnb;Russie;0.4375
+BPCE;2014-12-31;Produit Net Bancaire;Singapour;690000000
+BPCE;2014-12-31;Resultat avant impot;Singapour;390000000
+BPCE;2014-12-31;impot sur bénéfice;Singapour;-60000000
+BPCE;2014-12-31;Effectif;Singapour;166
+BPCE;2014-12-31;NB filiales CBCR;Singapour;7
+BPCE;2014-12-31;Total filiales;Singapour;7
+BPCE;2014-12-31;resultats/effectifs;Singapour;2.3494e+06
+BPCE;2014-12-31;resultats/pnb;Singapour;0.565217
+BPCE;2014-12-31;Produit Net Bancaire;Slovaquie;10000000
+BPCE;2014-12-31;Effectif;Slovaquie;8
+BPCE;2014-12-31;NB filiales CBCR;Slovaquie;1
+BPCE;2014-12-31;Total filiales;Slovaquie;1
+BPCE;2014-12-31;Produit Net Bancaire;Suède;30000000
+BPCE;2014-12-31;Resultat avant impot;Suède;10000000
+BPCE;2014-12-31;Effectif;Suède;16
+BPCE;2014-12-31;NB filiales CBCR;Suède;2
+BPCE;2014-12-31;Total filiales;Suède;2
+BPCE;2014-12-31;resultats/effectifs;Suède;625000
+BPCE;2014-12-31;resultats/pnb;Suède;0.333333
+BPCE;2014-12-31;Produit Net Bancaire;Suisse;50000000
+BPCE;2014-12-31;Resultat avant impot;Suisse;-140000000
+BPCE;2014-12-31;Effectif;Suisse;71
+BPCE;2014-12-31;NB filiales CBCR;Suisse;5
+BPCE;2014-12-31;Total filiales;Suisse;5
+BPCE;2014-12-31;resultats/effectifs;Suisse;-1.97183e+06
+BPCE;2014-12-31;resultats/pnb;Suisse;-2.8
+BPCE;2014-12-31;Produit Net Bancaire;Taïwan;20000000
+BPCE;2014-12-31;Resultat avant impot;Taïwan;20000000
+BPCE;2014-12-31;Effectif;Taïwan;20
+BPCE;2014-12-31;NB filiales CBCR;Taïwan;2
+BPCE;2014-12-31;Total filiales;Taïwan;2
+BPCE;2014-12-31;resultats/effectifs;Taïwan;1000000
+BPCE;2014-12-31;resultats/pnb;Taïwan;1
+BPCE;2014-12-31;Produit Net Bancaire;Thaïlande;50000000
+BPCE;2014-12-31;Effectif;Thaïlande;71
+BPCE;2014-12-31;NB filiales CBCR;Thaïlande;1
+BPCE;2014-12-31;Total filiales;Thaïlande;1
+BPCE;2014-12-31;Produit Net Bancaire;Tunisie;330000000
+BPCE;2014-12-31;Resultat avant impot;Tunisie;60000000
+BPCE;2014-12-31;impot sur bénéfice;Tunisie;-20000000
+BPCE;2014-12-31;Effectif;Tunisie;449
+BPCE;2014-12-31;NB filiales CBCR;Tunisie;8
+BPCE;2014-12-31;Total filiales;Tunisie;8
+BPCE;2014-12-31;resultats/effectifs;Tunisie;133630
+BPCE;2014-12-31;resultats/pnb;Tunisie;0.181818
+BPCE;2014-12-31;Produit Net Bancaire;Turquie;50000000
+BPCE;2014-12-31;Effectif;Turquie;51
+BPCE;2014-12-31;NB filiales CBCR;Turquie;1
+BPCE;2014-12-31;Total filiales;Turquie;1
+BPCE;2014-12-31;Effectif;Uruguay;1
+BPCE;2014-12-31;Produit Net Bancaire;Vanuatu;100000000
+BPCE;2014-12-31;Resultat avant impot;Vanuatu;40000000
+BPCE;2014-12-31;Effectif;Vanuatu;110
+BPCE;2014-12-31;NB filiales CBCR;Vanuatu;2
+BPCE;2014-12-31;Total filiales;Vanuatu;2
+BPCE;2014-12-31;resultats/effectifs;Vanuatu;363636
+BPCE;2014-12-31;resultats/pnb;Vanuatu;0.4
+BPCE;2014-12-31;Produit Net Bancaire;Vietnam;20000000
+BPCE;2014-12-31;Resultat avant impot;Vietnam;-110000000
+BPCE;2014-12-31;Effectif;Vietnam;52
+BPCE;2014-12-31;NB filiales CBCR;Vietnam;1
+BPCE;2014-12-31;Total filiales;Vietnam;1
+BPCE;2014-12-31;resultats/effectifs;Vietnam;-2.11538e+06
+BPCE;2014-12-31;resultats/pnb;Vietnam;-5.5
+CA;2014-12-31;Produit Net Bancaire;Albanie;80000000
+CA;2014-12-31;Resultat avant impot;Albanie;-40000000
+CA;2014-12-31;Effectif;Albanie;237
+CA;2014-12-31;NB filiales CBCR;Albanie;1
+CA;2014-12-31;Total filiales;Albanie;1
+CA;2014-12-31;resultats/effectifs;Albanie;-168776
+CA;2014-12-31;resultats/pnb;Albanie;-0.5
+CA;2014-12-31;Produit Net Bancaire;Algérie;120000000
+CA;2014-12-31;Resultat avant impot;Algérie;90000000
+CA;2014-12-31;impot courant;Algérie;-20000000
+CA;2014-12-31;impot sur bénéfice;Algérie;-20000000
+CA;2014-12-31;Effectif;Algérie;24
+CA;2014-12-31;NB filiales CBCR;Algérie;1
+CA;2014-12-31;Total filiales;Algérie;1
+CA;2014-12-31;resultats/effectifs;Algérie;3750000
+CA;2014-12-31;resultats/pnb;Algérie;0.75
+CA;2014-12-31;Produit Net Bancaire;Allemagne;2990000000
+CA;2014-12-31;Resultat avant impot;Allemagne;710000000
+CA;2014-12-31;impot courant;Allemagne;-220000000
+CA;2014-12-31;impot différé;Allemagne;20000000
+CA;2014-12-31;impot sur bénéfice;Allemagne;-200000000
+CA;2014-12-31;Effectif;Allemagne;1110
+CA;2014-12-31;NB filiales CBCR;Allemagne;6
+CA;2014-12-31;NB filiales périmètre en +;Allemagne;2
+CA;2014-12-31;Total filiales;Allemagne;8
+CA;2014-12-31;resultats/effectifs;Allemagne;639640
+CA;2014-12-31;resultats/pnb;Allemagne;0.237458
+CA;2014-12-31;NB filiales périmètre en +;Autriche;2
+CA;2014-12-31;Total filiales;Autriche;2
+CA;2014-12-31;NB filiales périmètre en +;Arabie Saoudite;1
+CA;2014-12-31;Total filiales;Arabie Saoudite;1
+CA;2014-12-31;Produit Net Bancaire;Australie;570000000
+CA;2014-12-31;Resultat avant impot;Australie;440000000
+CA;2014-12-31;impot courant;Australie;-170000000
+CA;2014-12-31;impot différé;Australie;50000000
+CA;2014-12-31;impot sur bénéfice;Australie;-120000000
+CA;2014-12-31;Effectif;Australie;29
+CA;2014-12-31;NB filiales CBCR;Australie;1
+CA;2014-12-31;NB filiales périmètre en +;Australie;1
+CA;2014-12-31;Total filiales;Australie;2
+CA;2014-12-31;resultats/effectifs;Australie;1.51724e+07
+CA;2014-12-31;resultats/pnb;Australie;0.77193
+CA;2014-12-31;Produit Net Bancaire;Bahamas;10000000
+CA;2014-12-31;Resultat avant impot;Bahamas;-10000000
+CA;2014-12-31;NB filiales CBCR;Bahamas;1
+CA;2014-12-31;Total filiales;Bahamas;1
+CA;2014-12-31;resultats/pnb;Bahamas;-1
+CA;2014-12-31;Produit Net Bancaire;Belgique;400000000
+CA;2014-12-31;Resultat avant impot;Belgique;180000000
+CA;2014-12-31;impot courant;Belgique;-50000000
+CA;2014-12-31;impot sur bénéfice;Belgique;-50000000
+CA;2014-12-31;Effectif;Belgique;111
+CA;2014-12-31;NB filiales CBCR;Belgique;13
+CA;2014-12-31;NB filiales périmètre en +;Belgique;6
+CA;2014-12-31;Total filiales;Belgique;19
+CA;2014-12-31;resultats/effectifs;Belgique;1.62162e+06
+CA;2014-12-31;resultats/pnb;Belgique;0.45
+CA;2014-12-31;Produit Net Bancaire;Bermudes;-10000000
+CA;2014-12-31;NB filiales CBCR;Bermudes;1
+CA;2014-12-31;Total filiales;Bermudes;1
+CA;2014-12-31;Produit Net Bancaire;Brésil;510000000
+CA;2014-12-31;Resultat avant impot;Brésil;120000000
+CA;2014-12-31;impot courant;Brésil;-40000000
+CA;2014-12-31;impot sur bénéfice;Brésil;-40000000
+CA;2014-12-31;Effectif;Brésil;125
+CA;2014-12-31;NB filiales CBCR;Brésil;3
+CA;2014-12-31;NB filiales périmètre en +;Brésil;1
+CA;2014-12-31;Total filiales;Brésil;4
+CA;2014-12-31;resultats/effectifs;Brésil;960000
+CA;2014-12-31;resultats/pnb;Brésil;0.235294
+CA;2014-12-31;NB filiales périmètre en +;Brunei;1
+CA;2014-12-31;Total filiales;Brunei;1
+CA;2014-12-31;NB filiales périmètre en +;Bulgarie;1
+CA;2014-12-31;Total filiales;Bulgarie;1
+CA;2014-12-31;Resultat avant impot;Canada;-20000000
+CA;2014-12-31;Effectif;Canada;76
+CA;2014-12-31;NB filiales CBCR;Canada;1
+CA;2014-12-31;NB filiales périmètre en +;Canada;1
+CA;2014-12-31;Total filiales;Canada;2
+CA;2014-12-31;resultats/effectifs;Canada;-263158
+CA;2014-12-31;Produit Net Bancaire;Chine;460000000
+CA;2014-12-31;Resultat avant impot;Chine;250000000
+CA;2014-12-31;impot courant;Chine;-80000000
+CA;2014-12-31;impot différé;Chine;20000000
+CA;2014-12-31;impot sur bénéfice;Chine;-60000000
+CA;2014-12-31;Effectif;Chine;123
+CA;2014-12-31;NB filiales CBCR;Chine;1
+CA;2014-12-31;NB filiales périmètre en +;Chine;3
+CA;2014-12-31;Total filiales;Chine;4
+CA;2014-12-31;resultats/effectifs;Chine;2.03252e+06
+CA;2014-12-31;resultats/pnb;Chine;0.543478
+CA;2014-12-31;Produit Net Bancaire;Corée du Sud;380000000
+CA;2014-12-31;Resultat avant impot;Corée du Sud;200000000
+CA;2014-12-31;impot courant;Corée du Sud;-40000000
+CA;2014-12-31;impot différé;Corée du Sud;-10000000
+CA;2014-12-31;impot sur bénéfice;Corée du Sud;-50000000
+CA;2014-12-31;Effectif;Corée du Sud;75
+CA;2014-12-31;NB filiales CBCR;Corée du Sud;1
+CA;2014-12-31;NB filiales périmètre en +;Corée du Sud;2
+CA;2014-12-31;Total filiales;Corée du Sud;3
+CA;2014-12-31;resultats/effectifs;Corée du Sud;2.66667e+06
+CA;2014-12-31;resultats/pnb;Corée du Sud;0.526316
+CA;2014-12-31;NB filiales périmètre en +;Danemark;4
+CA;2014-12-31;Total filiales;Danemark;4
+CA;2014-12-31;Produit Net Bancaire;Egypte;1900000000
+CA;2014-12-31;Resultat avant impot;Egypte;1160000000
+CA;2014-12-31;impot courant;Egypte;-320000000
+CA;2014-12-31;impot différé;Egypte;-10000000
+CA;2014-12-31;impot sur bénéfice;Egypte;-330000000
+CA;2014-12-31;Effectif;Egypte;2282
+CA;2014-12-31;NB filiales CBCR;Egypte;1
+CA;2014-12-31;Total filiales;Egypte;1
+CA;2014-12-31;resultats/effectifs;Egypte;508326
+CA;2014-12-31;resultats/pnb;Egypte;0.610526
+CA;2014-12-31;Produit Net Bancaire;Émirats Arabes Unis;400000000
+CA;2014-12-31;Resultat avant impot;Émirats Arabes Unis;140000000
+CA;2014-12-31;impot courant;Émirats Arabes Unis;-10000000
+CA;2014-12-31;impot sur bénéfice;Émirats Arabes Unis;-10000000
+CA;2014-12-31;Effectif;Émirats Arabes Unis;82
+CA;2014-12-31;NB filiales CBCR;Émirats Arabes Unis;3
+CA;2014-12-31;NB filiales périmètre en +;Émirats Arabes Unis;1
+CA;2014-12-31;Total filiales;Émirats Arabes Unis;4
+CA;2014-12-31;resultats/effectifs;Émirats Arabes Unis;1.70732e+06
+CA;2014-12-31;resultats/pnb;Émirats Arabes Unis;0.35
+CA;2014-12-31;Produit Net Bancaire;Espagne;1900000000
+CA;2014-12-31;Resultat avant impot;Espagne;1090000000
+CA;2014-12-31;impot courant;Espagne;-340000000
+CA;2014-12-31;impot différé;Espagne;-30000000
+CA;2014-12-31;impot sur bénéfice;Espagne;-370000000
+CA;2014-12-31;Effectif;Espagne;235
+CA;2014-12-31;NB filiales CBCR;Espagne;6
+CA;2014-12-31;NB filiales périmètre en +;Espagne;6
+CA;2014-12-31;Total filiales;Espagne;12
+CA;2014-12-31;resultats/effectifs;Espagne;4.6383e+06
+CA;2014-12-31;resultats/pnb;Espagne;0.573684
+CA;2014-12-31;Produit Net Bancaire;États-Unis;8540000000
+CA;2014-12-31;Resultat avant impot;États-Unis;4400000000
+CA;2014-12-31;impot courant;États-Unis;-310000000
+CA;2014-12-31;impot différé;États-Unis;-110000000
+CA;2014-12-31;impot sur bénéfice;États-Unis;-420000000
+CA;2014-12-31;Effectif;États-Unis;793
+CA;2014-12-31;NB filiales CBCR;États-Unis;20
+CA;2014-12-31;NB filiales périmètre en +;États-Unis;2
+CA;2014-12-31;Total filiales;États-Unis;22
+CA;2014-12-31;resultats/effectifs;États-Unis;5.54855e+06
+CA;2014-12-31;resultats/pnb;États-Unis;0.515222
+CA;2014-12-31;Produit Net Bancaire;Finlande;120000000
+CA;2014-12-31;Resultat avant impot;Finlande;90000000
+CA;2014-12-31;impot courant;Finlande;-20000000
+CA;2014-12-31;impot différé;Finlande;10000000
+CA;2014-12-31;impot sur bénéfice;Finlande;-10000000
+CA;2014-12-31;Effectif;Finlande;11
+CA;2014-12-31;NB filiales CBCR;Finlande;1
+CA;2014-12-31;NB filiales périmètre en +;Finlande;2
+CA;2014-12-31;Total filiales;Finlande;3
+CA;2014-12-31;resultats/effectifs;Finlande;8.18182e+06
+CA;2014-12-31;resultats/pnb;Finlande;0.75
+CA;2014-12-31;Produit Net Bancaire;France;75870000000
+CA;2014-12-31;Resultat avant impot;France;1540000000
+CA;2014-12-31;impot courant;France;4540000000
+CA;2014-12-31;impot différé;France;-2530000000
+CA;2014-12-31;impot sur bénéfice;France;2010000000
+CA;2014-12-31;Effectif;France;38053
+CA;2014-12-31;NB filiales CBCR;France;422
+CA;2014-12-31;NB filiales périmètre en +;France;200
+CA;2014-12-31;Total filiales;France;622
+CA;2014-12-31;resultats/effectifs;France;40469.9
+CA;2014-12-31;resultats/pnb;France;0.0202979
+CA;2014-12-31;Produit Net Bancaire;Grèce;180000000
+CA;2014-12-31;Resultat avant impot;Grèce;-30000000
+CA;2014-12-31;impot courant;Grèce;-30000000
+CA;2014-12-31;impot différé;Grèce;-140000000
+CA;2014-12-31;impot sur bénéfice;Grèce;-170000000
+CA;2014-12-31;Effectif;Grèce;132
+CA;2014-12-31;NB filiales CBCR;Grèce;4
+CA;2014-12-31;NB filiales périmètre en +;Grèce;3
+CA;2014-12-31;Total filiales;Grèce;7
+CA;2014-12-31;resultats/effectifs;Grèce;-227273
+CA;2014-12-31;resultats/pnb;Grèce;-0.166667
+CA;2014-12-31;Produit Net Bancaire;Guernesey;10000000
+CA;2014-12-31;NB filiales CBCR;Guernesey;2
+CA;2014-12-31;Total filiales;Guernesey;2
+CA;2014-12-31;Produit Net Bancaire;Hong-Kong;1890000000
+CA;2014-12-31;Resultat avant impot;Hong-Kong;380000000
+CA;2014-12-31;impot courant;Hong-Kong;-60000000
+CA;2014-12-31;impot sur bénéfice;Hong-Kong;-60000000
+CA;2014-12-31;Effectif;Hong-Kong;595
+CA;2014-12-31;NB filiales CBCR;Hong-Kong;6
+CA;2014-12-31;NB filiales périmètre en +;Hong-Kong;3
+CA;2014-12-31;Total filiales;Hong-Kong;9
+CA;2014-12-31;resultats/effectifs;Hong-Kong;638655
+CA;2014-12-31;resultats/pnb;Hong-Kong;0.201058
+CA;2014-12-31;Produit Net Bancaire;Iles Caïmans;350000000
+CA;2014-12-31;Resultat avant impot;Iles Caïmans;350000000
+CA;2014-12-31;NB filiales CBCR;Iles Caïmans;1
+CA;2014-12-31;NB filiales périmètre en +;Iles Caïmans;1
+CA;2014-12-31;Total filiales;Iles Caïmans;2
+CA;2014-12-31;resultats/pnb;Iles Caïmans;1
+CA;2014-12-31;Produit Net Bancaire;Inde;460000000
+CA;2014-12-31;Resultat avant impot;Inde;310000000
+CA;2014-12-31;impot courant;Inde;-110000000
+CA;2014-12-31;impot sur bénéfice;Inde;-110000000
+CA;2014-12-31;Effectif;Inde;127
+CA;2014-12-31;NB filiales CBCR;Inde;2
+CA;2014-12-31;NB filiales périmètre en +;Inde;2
+CA;2014-12-31;Total filiales;Inde;4
+CA;2014-12-31;resultats/effectifs;Inde;2.44094e+06
+CA;2014-12-31;resultats/pnb;Inde;0.673913
+CA;2014-12-31;Produit Net Bancaire;Irlande;1320000000
+CA;2014-12-31;Resultat avant impot;Irlande;960000000
+CA;2014-12-31;impot courant;Irlande;-50000000
+CA;2014-12-31;impot différé;Irlande;10000000
+CA;2014-12-31;impot sur bénéfice;Irlande;-40000000
+CA;2014-12-31;Effectif;Irlande;161
+CA;2014-12-31;NB filiales CBCR;Irlande;28
+CA;2014-12-31;NB filiales périmètre en +;Irlande;2
+CA;2014-12-31;Total filiales;Irlande;30
+CA;2014-12-31;resultats/effectifs;Irlande;5.96273e+06
+CA;2014-12-31;resultats/pnb;Irlande;0.727273
+CA;2014-12-31;Produit Net Bancaire;Italie;28740000000
+CA;2014-12-31;Resultat avant impot;Italie;3230000000
+CA;2014-12-31;impot courant;Italie;900000000
+CA;2014-12-31;impot différé;Italie;-1990000000
+CA;2014-12-31;impot sur bénéfice;Italie;-1090000000
+CA;2014-12-31;Effectif;Italie;10463
+CA;2014-12-31;NB filiales CBCR;Italie;19
+CA;2014-12-31;NB filiales périmètre en +;Italie;4
+CA;2014-12-31;Total filiales;Italie;23
+CA;2014-12-31;resultats/effectifs;Italie;308707
+CA;2014-12-31;resultats/pnb;Italie;0.112387
+CA;2014-12-31;Produit Net Bancaire;Japon;1680000000
+CA;2014-12-31;Resultat avant impot;Japon;580000000
+CA;2014-12-31;impot courant;Japon;-50000000
+CA;2014-12-31;impot différé;Japon;-1020000000
+CA;2014-12-31;impot sur bénéfice;Japon;-1070000000
+CA;2014-12-31;Effectif;Japon;447
+CA;2014-12-31;NB filiales CBCR;Japon;6
+CA;2014-12-31;NB filiales périmètre en +;Japon;2
+CA;2014-12-31;Total filiales;Japon;8
+CA;2014-12-31;resultats/effectifs;Japon;1.29754e+06
+CA;2014-12-31;resultats/pnb;Japon;0.345238
+CA;2014-12-31;Produit Net Bancaire;Luxembourg;5690000000
+CA;2014-12-31;Resultat avant impot;Luxembourg;3110000000
+CA;2014-12-31;impot courant;Luxembourg;-530000000
+CA;2014-12-31;impot sur bénéfice;Luxembourg;-530000000
+CA;2014-12-31;Effectif;Luxembourg;1315
+CA;2014-12-31;NB filiales CBCR;Luxembourg;37
+CA;2014-12-31;Total filiales;Luxembourg;37
+CA;2014-12-31;resultats/effectifs;Luxembourg;2.36502e+06
+CA;2014-12-31;resultats/pnb;Luxembourg;0.546573
+CA;2014-12-31;NB filiales périmètre en +;Madagascar;1
+CA;2014-12-31;Total filiales;Madagascar;1
+CA;2014-12-31;Produit Net Bancaire;Malaisie;50000000
+CA;2014-12-31;Resultat avant impot;Malaisie;30000000
+CA;2014-12-31;impot courant;Malaisie;-10000000
+CA;2014-12-31;impot sur bénéfice;Malaisie;-10000000
+CA;2014-12-31;Effectif;Malaisie;20
+CA;2014-12-31;NB filiales CBCR;Malaisie;1
+CA;2014-12-31;Total filiales;Malaisie;1
+CA;2014-12-31;resultats/effectifs;Malaisie;1500000
+CA;2014-12-31;resultats/pnb;Malaisie;0.6
+CA;2014-12-31;Produit Net Bancaire;Maroc;1850000000
+CA;2014-12-31;Resultat avant impot;Maroc;340000000
+CA;2014-12-31;impot courant;Maroc;-110000000
+CA;2014-12-31;impot différé;Maroc;-10000000
+CA;2014-12-31;impot sur bénéfice;Maroc;-120000000
+CA;2014-12-31;Effectif;Maroc;2522
+CA;2014-12-31;NB filiales CBCR;Maroc;2
+CA;2014-12-31;NB filiales périmètre en +;Maroc;2
+CA;2014-12-31;Total filiales;Maroc;4
+CA;2014-12-31;resultats/effectifs;Maroc;134814
+CA;2014-12-31;resultats/pnb;Maroc;0.183784
+CA;2014-12-31;Produit Net Bancaire;Maurice;30000000
+CA;2014-12-31;Effectif;Maurice;181
+CA;2014-12-31;NB filiales CBCR;Maurice;1
+CA;2014-12-31;Total filiales;Maurice;1
+CA;2014-12-31;Produit Net Bancaire;Monaco;1280000000
+CA;2014-12-31;Resultat avant impot;Monaco;480000000
+CA;2014-12-31;impot courant;Monaco;-20000000
+CA;2014-12-31;impot sur bénéfice;Monaco;-20000000
+CA;2014-12-31;Effectif;Monaco;421
+CA;2014-12-31;NB filiales CBCR;Monaco;2
+CA;2014-12-31;Total filiales;Monaco;2
+CA;2014-12-31;resultats/effectifs;Monaco;1.14014e+06
+CA;2014-12-31;resultats/pnb;Monaco;0.375
+CA;2014-12-31;NB filiales périmètre en +;Norvège;2
+CA;2014-12-31;Total filiales;Norvège;2
+CA;2014-12-31;Produit Net Bancaire;Pays-Bas;1190000000
+CA;2014-12-31;Resultat avant impot;Pays-Bas;330000000
+CA;2014-12-31;impot courant;Pays-Bas;-50000000
+CA;2014-12-31;impot différé;Pays-Bas;-30000000
+CA;2014-12-31;impot sur bénéfice;Pays-Bas;-80000000
+CA;2014-12-31;Effectif;Pays-Bas;339
+CA;2014-12-31;NB filiales CBCR;Pays-Bas;32
+CA;2014-12-31;NB filiales périmètre en +;Pays-Bas;2
+CA;2014-12-31;Total filiales;Pays-Bas;34
+CA;2014-12-31;resultats/effectifs;Pays-Bas;973451
+CA;2014-12-31;resultats/pnb;Pays-Bas;0.277311
+CA;2014-12-31;Produit Net Bancaire;Pologne;4060000000
+CA;2014-12-31;Resultat avant impot;Pologne;860000000
+CA;2014-12-31;impot courant;Pologne;-380000000
+CA;2014-12-31;impot différé;Pologne;120000000
+CA;2014-12-31;impot sur bénéfice;Pologne;-260000000
+CA;2014-12-31;Effectif;Pologne;5623
+CA;2014-12-31;NB filiales CBCR;Pologne;11
+CA;2014-12-31;NB filiales périmètre en +;Pologne;2
+CA;2014-12-31;Total filiales;Pologne;13
+CA;2014-12-31;resultats/effectifs;Pologne;152943
+CA;2014-12-31;resultats/pnb;Pologne;0.211823
+CA;2014-12-31;Produit Net Bancaire;Portugal;1090000000
+CA;2014-12-31;Resultat avant impot;Portugal;560000000
+CA;2014-12-31;impot courant;Portugal;-160000000
+CA;2014-12-31;impot différé;Portugal;-10000000
+CA;2014-12-31;impot sur bénéfice;Portugal;-170000000
+CA;2014-12-31;Effectif;Portugal;424
+CA;2014-12-31;NB filiales CBCR;Portugal;3
+CA;2014-12-31;NB filiales périmètre en +;Portugal;4
+CA;2014-12-31;Total filiales;Portugal;7
+CA;2014-12-31;resultats/effectifs;Portugal;1.32075e+06
+CA;2014-12-31;resultats/pnb;Portugal;0.513761
+CA;2014-12-31;Produit Net Bancaire;République Tchèque;160000000
+CA;2014-12-31;Resultat avant impot;République Tchèque;-20000000
+CA;2014-12-31;impot courant;République Tchèque;-20000000
+CA;2014-12-31;impot sur bénéfice;République Tchèque;-20000000
+CA;2014-12-31;Effectif;République Tchèque;96
+CA;2014-12-31;NB filiales CBCR;République Tchèque;2
+CA;2014-12-31;Total filiales;République Tchèque;2
+CA;2014-12-31;resultats/effectifs;République Tchèque;-208333
+CA;2014-12-31;resultats/pnb;République Tchèque;-0.125
+CA;2014-12-31;Produit Net Bancaire;Roumanie;100000000
+CA;2014-12-31;Resultat avant impot;Roumanie;-90000000
+CA;2014-12-31;Effectif;Roumanie;274
+CA;2014-12-31;NB filiales CBCR;Roumanie;1
+CA;2014-12-31;Total filiales;Roumanie;1
+CA;2014-12-31;resultats/effectifs;Roumanie;-328467
+CA;2014-12-31;resultats/pnb;Roumanie;-0.9
+CA;2014-12-31;Produit Net Bancaire;Royaume-Uni;6510000000
+CA;2014-12-31;Resultat avant impot;Royaume-Uni;2910000000
+CA;2014-12-31;impot courant;Royaume-Uni;-510000000
+CA;2014-12-31;impot différé;Royaume-Uni;-310000000
+CA;2014-12-31;impot sur bénéfice;Royaume-Uni;-820000000
+CA;2014-12-31;Effectif;Royaume-Uni;819
+CA;2014-12-31;NB filiales CBCR;Royaume-Uni;9
+CA;2014-12-31;NB filiales périmètre en +;Royaume-Uni;6
+CA;2014-12-31;Total filiales;Royaume-Uni;15
+CA;2014-12-31;resultats/effectifs;Royaume-Uni;3.55311e+06
+CA;2014-12-31;resultats/pnb;Royaume-Uni;0.447005
+CA;2014-12-31;Produit Net Bancaire;Russie;310000000
+CA;2014-12-31;Resultat avant impot;Russie;110000000
+CA;2014-12-31;impot courant;Russie;-20000000
+CA;2014-12-31;impot sur bénéfice;Russie;-20000000
+CA;2014-12-31;Effectif;Russie;155
+CA;2014-12-31;NB filiales CBCR;Russie;1
+CA;2014-12-31;Total filiales;Russie;1
+CA;2014-12-31;resultats/effectifs;Russie;709677
+CA;2014-12-31;resultats/pnb;Russie;0.354839
+CA;2014-12-31;Produit Net Bancaire;Serbie;310000000
+CA;2014-12-31;Resultat avant impot;Serbie;10000000
+CA;2014-12-31;Effectif;Serbie;863
+CA;2014-12-31;NB filiales CBCR;Serbie;1
+CA;2014-12-31;Total filiales;Serbie;1
+CA;2014-12-31;resultats/effectifs;Serbie;11587.5
+CA;2014-12-31;resultats/pnb;Serbie;0.0322581
+CA;2014-12-31;Produit Net Bancaire;Singapour;1510000000
+CA;2014-12-31;Resultat avant impot;Singapour;560000000
+CA;2014-12-31;impot courant;Singapour;-80000000
+CA;2014-12-31;impot sur bénéfice;Singapour;-80000000
+CA;2014-12-31;Effectif;Singapour;417
+CA;2014-12-31;NB filiales CBCR;Singapour;3
+CA;2014-12-31;NB filiales périmètre en +;Singapour;1
+CA;2014-12-31;Total filiales;Singapour;4
+CA;2014-12-31;resultats/effectifs;Singapour;1.34293e+06
+CA;2014-12-31;resultats/pnb;Singapour;0.370861
+CA;2014-12-31;Produit Net Bancaire;Slovaquie;20000000
+CA;2014-12-31;Resultat avant impot;Slovaquie;10000000
+CA;2014-12-31;Effectif;Slovaquie;11
+CA;2014-12-31;NB filiales CBCR;Slovaquie;1
+CA;2014-12-31;Total filiales;Slovaquie;1
+CA;2014-12-31;resultats/effectifs;Slovaquie;909091
+CA;2014-12-31;resultats/pnb;Slovaquie;0.5
+CA;2014-12-31;Produit Net Bancaire;Suède;210000000
+CA;2014-12-31;Resultat avant impot;Suède;80000000
+CA;2014-12-31;impot courant;Suède;-20000000
+CA;2014-12-31;impot sur bénéfice;Suède;-20000000
+CA;2014-12-31;Effectif;Suède;38
+CA;2014-12-31;NB filiales CBCR;Suède;1
+CA;2014-12-31;NB filiales périmètre en +;Suède;3
+CA;2014-12-31;Total filiales;Suède;4
+CA;2014-12-31;resultats/effectifs;Suède;2.10526e+06
+CA;2014-12-31;resultats/pnb;Suède;0.380952
+CA;2014-12-31;Produit Net Bancaire;Suisse;3700000000
+CA;2014-12-31;Resultat avant impot;Suisse;530000000
+CA;2014-12-31;impot courant;Suisse;-260000000
+CA;2014-12-31;impot différé;Suisse;-10000000
+CA;2014-12-31;impot sur bénéfice;Suisse;-270000000
+CA;2014-12-31;Effectif;Suisse;1180
+CA;2014-12-31;NB filiales CBCR;Suisse;5
+CA;2014-12-31;NB filiales périmètre en +;Suisse;4
+CA;2014-12-31;Total filiales;Suisse;9
+CA;2014-12-31;resultats/effectifs;Suisse;449153
+CA;2014-12-31;resultats/pnb;Suisse;0.143243
+CA;2014-12-31;Produit Net Bancaire;Taïwan;330000000
+CA;2014-12-31;Resultat avant impot;Taïwan;110000000
+CA;2014-12-31;impot courant;Taïwan;-10000000
+CA;2014-12-31;impot différé;Taïwan;-10000000
+CA;2014-12-31;impot sur bénéfice;Taïwan;-20000000
+CA;2014-12-31;Effectif;Taïwan;106
+CA;2014-12-31;NB filiales CBCR;Taïwan;2
+CA;2014-12-31;Total filiales;Taïwan;2
+CA;2014-12-31;resultats/effectifs;Taïwan;1.03774e+06
+CA;2014-12-31;resultats/pnb;Taïwan;0.333333
+CA;2014-12-31;NB filiales périmètre en +;Tunisie;1
+CA;2014-12-31;Total filiales;Tunisie;1
+CA;2014-12-31;Produit Net Bancaire;Ukraine;1250000000
+CA;2014-12-31;Resultat avant impot;Ukraine;40000000
+CA;2014-12-31;impot courant;Ukraine;-10000000
+CA;2014-12-31;impot différé;Ukraine;-30000000
+CA;2014-12-31;impot sur bénéfice;Ukraine;-40000000
+CA;2014-12-31;Effectif;Ukraine;2450
+CA;2014-12-31;NB filiales CBCR;Ukraine;1
+CA;2014-12-31;Total filiales;Ukraine;1
+CA;2014-12-31;resultats/effectifs;Ukraine;16326.5
+CA;2014-12-31;resultats/pnb;Ukraine;0.032
+CA;2014-12-31;Produit Net Bancaire;Uruguay;10000000
+CA;2014-12-31;Effectif;Uruguay;22
+CA;2014-12-31;NB filiales CBCR;Uruguay;1
+CA;2014-12-31;Total filiales;Uruguay;1
+CA;2014-12-31;Resultat avant impot;Vietnam;-30000000
+CA;2014-12-31;NB filiales CBCR;Vietnam;1
+CA;2014-12-31;Total filiales;Vietnam;1
+SG;2014-12-31;Produit Net Bancaire;Afrique du Sud;110000000
+SG;2014-12-31;Resultat avant impot;Afrique du Sud;60000000
+SG;2014-12-31;impot courant;Afrique du Sud;-20000000
+SG;2014-12-31;impot sur bénéfice;Afrique du Sud;-20000000
+SG;2014-12-31;Effectif;Afrique du Sud;80
+SG;2014-12-31;NB filiales CBCR;Afrique du Sud;1
+SG;2014-12-31;Total filiales;Afrique du Sud;1
+SG;2014-12-31;resultats/effectifs;Afrique du Sud;750000
+SG;2014-12-31;resultats/pnb;Afrique du Sud;0.545455
+SG;2014-12-31;Produit Net Bancaire;Albanie;210000000
+SG;2014-12-31;Resultat avant impot;Albanie;50000000
+SG;2014-12-31;Effectif;Albanie;400
+SG;2014-12-31;NB filiales CBCR;Albanie;1
+SG;2014-12-31;Total filiales;Albanie;1
+SG;2014-12-31;resultats/effectifs;Albanie;125000
+SG;2014-12-31;resultats/pnb;Albanie;0.238095
+SG;2014-12-31;Produit Net Bancaire;Algérie;1340000000
+SG;2014-12-31;Resultat avant impot;Algérie;630000000
+SG;2014-12-31;impot courant;Algérie;-150000000
+SG;2014-12-31;impot différé;Algérie;-30000000
+SG;2014-12-31;impot sur bénéfice;Algérie;-180000000
+SG;2014-12-31;Effectif;Algérie;1412
+SG;2014-12-31;NB filiales CBCR;Algérie;2
+SG;2014-12-31;Total filiales;Algérie;2
+SG;2014-12-31;resultats/effectifs;Algérie;446176
+SG;2014-12-31;resultats/pnb;Algérie;0.470149
+SG;2014-12-31;Produit Net Bancaire;Allemagne;7440000000
+SG;2014-12-31;Resultat avant impot;Allemagne;1910000000
+SG;2014-12-31;impot courant;Allemagne;-290000000
+SG;2014-12-31;impot différé;Allemagne;-80000000
+SG;2014-12-31;impot sur bénéfice;Allemagne;-370000000
+SG;2014-12-31;Effectif;Allemagne;3115
+SG;2014-12-31;NB filiales CBCR;Allemagne;45
+SG;2014-12-31;Total filiales;Allemagne;45
+SG;2014-12-31;resultats/effectifs;Allemagne;613162
+SG;2014-12-31;resultats/pnb;Allemagne;0.25672
+SG;2014-12-31;Produit Net Bancaire;Australie;90000000
+SG;2014-12-31;Resultat avant impot;Australie;-20000000
+SG;2014-12-31;impot différé;Australie;10000000
+SG;2014-12-31;impot sur bénéfice;Australie;10000000
+SG;2014-12-31;Effectif;Australie;26
+SG;2014-12-31;NB filiales CBCR;Australie;1
+SG;2014-12-31;Total filiales;Australie;1
+SG;2014-12-31;resultats/effectifs;Australie;-769231
+SG;2014-12-31;resultats/pnb;Australie;-0.222222
+SG;2014-12-31;Produit Net Bancaire;Autriche;110000000
+SG;2014-12-31;Resultat avant impot;Autriche;40000000
+SG;2014-12-31;impot courant;Autriche;-10000000
+SG;2014-12-31;impot sur bénéfice;Autriche;-10000000
+SG;2014-12-31;Effectif;Autriche;54
+SG;2014-12-31;NB filiales CBCR;Autriche;3
+SG;2014-12-31;Total filiales;Autriche;3
+SG;2014-12-31;resultats/effectifs;Autriche;740741
+SG;2014-12-31;resultats/pnb;Autriche;0.363636
+SG;2014-12-31;Produit Net Bancaire;Bahamas;150000000
+SG;2014-12-31;Resultat avant impot;Bahamas;40000000
+SG;2014-12-31;Effectif;Bahamas;44
+SG;2014-12-31;NB filiales CBCR;Bahamas;1
+SG;2014-12-31;Total filiales;Bahamas;1
+SG;2014-12-31;resultats/effectifs;Bahamas;909091
+SG;2014-12-31;resultats/pnb;Bahamas;0.266667
+SG;2014-12-31;Produit Net Bancaire;Belgique;1930000000
+SG;2014-12-31;Resultat avant impot;Belgique;1020000000
+SG;2014-12-31;impot courant;Belgique;-150000000
+SG;2014-12-31;impot sur bénéfice;Belgique;-150000000
+SG;2014-12-31;Effectif;Belgique;471
+SG;2014-12-31;NB filiales CBCR;Belgique;8
+SG;2014-12-31;Total filiales;Belgique;8
+SG;2014-12-31;resultats/effectifs;Belgique;2.16561e+06
+SG;2014-12-31;resultats/pnb;Belgique;0.528497
+SG;2014-12-31;Produit Net Bancaire;Bénin;190000000
+SG;2014-12-31;Resultat avant impot;Bénin;10000000
+SG;2014-12-31;impot différé;Bénin;10000000
+SG;2014-12-31;impot sur bénéfice;Bénin;10000000
+SG;2014-12-31;Effectif;Bénin;218
+SG;2014-12-31;NB filiales CBCR;Bénin;1
+SG;2014-12-31;Total filiales;Bénin;1
+SG;2014-12-31;resultats/effectifs;Bénin;45871.6
+SG;2014-12-31;resultats/pnb;Bénin;0.0526316
+SG;2014-12-31;Produit Net Bancaire;Bermudes;120000000
+SG;2014-12-31;Resultat avant impot;Bermudes;120000000
+SG;2014-12-31;NB filiales CBCR;Bermudes;2
+SG;2014-12-31;Total filiales;Bermudes;2
+SG;2014-12-31;resultats/pnb;Bermudes;1
+SG;2014-12-31;Produit Net Bancaire;Brésil;1950000000
+SG;2014-12-31;Resultat avant impot;Brésil;-1670000000
+SG;2014-12-31;impot courant;Brésil;-290000000
+SG;2014-12-31;impot différé;Brésil;250000000
+SG;2014-12-31;impot sur bénéfice;Brésil;-40000000
+SG;2014-12-31;Effectif;Brésil;1182
+SG;2014-12-31;NB filiales CBCR;Brésil;12
+SG;2014-12-31;Total filiales;Brésil;12
+SG;2014-12-31;resultats/effectifs;Brésil;-1.41286e+06
+SG;2014-12-31;resultats/pnb;Brésil;-0.85641
+SG;2014-12-31;Produit Net Bancaire;Bulgarie;930000000
+SG;2014-12-31;Resultat avant impot;Bulgarie;350000000
+SG;2014-12-31;impot courant;Bulgarie;-30000000
+SG;2014-12-31;impot sur bénéfice;Bulgarie;-30000000
+SG;2014-12-31;Effectif;Bulgarie;1506
+SG;2014-12-31;NB filiales CBCR;Bulgarie;4
+SG;2014-12-31;Total filiales;Bulgarie;4
+SG;2014-12-31;resultats/effectifs;Bulgarie;232404
+SG;2014-12-31;resultats/pnb;Bulgarie;0.376344
+SG;2014-12-31;Produit Net Bancaire;Burkina Faso;290000000
+SG;2014-12-31;Resultat avant impot;Burkina Faso;90000000
+SG;2014-12-31;impot courant;Burkina Faso;-10000000
+SG;2014-12-31;impot sur bénéfice;Burkina Faso;-10000000
+SG;2014-12-31;Effectif;Burkina Faso;246
+SG;2014-12-31;NB filiales CBCR;Burkina Faso;1
+SG;2014-12-31;Total filiales;Burkina Faso;1
+SG;2014-12-31;resultats/effectifs;Burkina Faso;365854
+SG;2014-12-31;resultats/pnb;Burkina Faso;0.310345
+SG;2014-12-31;Produit Net Bancaire;Cameroun;720000000
+SG;2014-12-31;Resultat avant impot;Cameroun;190000000
+SG;2014-12-31;impot courant;Cameroun;-90000000
+SG;2014-12-31;impot sur bénéfice;Cameroun;-90000000
+SG;2014-12-31;Effectif;Cameroun;625
+SG;2014-12-31;NB filiales CBCR;Cameroun;1
+SG;2014-12-31;Total filiales;Cameroun;1
+SG;2014-12-31;resultats/effectifs;Cameroun;304000
+SG;2014-12-31;resultats/pnb;Cameroun;0.263889
+SG;2014-12-31;Produit Net Bancaire;Canada;490000000
+SG;2014-12-31;Resultat avant impot;Canada;120000000
+SG;2014-12-31;impot courant;Canada;-60000000
+SG;2014-12-31;impot différé;Canada;10000000
+SG;2014-12-31;impot sur bénéfice;Canada;-50000000
+SG;2014-12-31;Effectif;Canada;108
+SG;2014-12-31;NB filiales CBCR;Canada;5
+SG;2014-12-31;NB filiales périmètre en +;Canada;1
+SG;2014-12-31;Total filiales;Canada;6
+SG;2014-12-31;resultats/effectifs;Canada;1.11111e+06
+SG;2014-12-31;resultats/pnb;Canada;0.244898
+SG;2014-12-31;Produit Net Bancaire;Chine;840000000
+SG;2014-12-31;Resultat avant impot;Chine;120000000
+SG;2014-12-31;impot différé;Chine;10000000
+SG;2014-12-31;impot sur bénéfice;Chine;10000000
+SG;2014-12-31;Effectif;Chine;537
+SG;2014-12-31;NB filiales CBCR;Chine;4
+SG;2014-12-31;Total filiales;Chine;4
+SG;2014-12-31;resultats/effectifs;Chine;223464
+SG;2014-12-31;resultats/pnb;Chine;0.142857
+SG;2014-12-31;Produit Net Bancaire;Chypre;10000000
+SG;2014-12-31;Resultat avant impot;Chypre;10000000
+SG;2014-12-31;NB filiales CBCR;Chypre;1
+SG;2014-12-31;Total filiales;Chypre;1
+SG;2014-12-31;resultats/pnb;Chypre;1
+SG;2014-12-31;Produit Net Bancaire;Corée du Sud;1170000000
+SG;2014-12-31;Resultat avant impot;Corée du Sud;390000000
+SG;2014-12-31;impot courant;Corée du Sud;-90000000
+SG;2014-12-31;impot différé;Corée du Sud;20000000
+SG;2014-12-31;impot sur bénéfice;Corée du Sud;-70000000
+SG;2014-12-31;Effectif;Corée du Sud;136
+SG;2014-12-31;NB filiales CBCR;Corée du Sud;4
+SG;2014-12-31;Total filiales;Corée du Sud;4
+SG;2014-12-31;resultats/effectifs;Corée du Sud;2.86765e+06
+SG;2014-12-31;resultats/pnb;Corée du Sud;0.333333
+SG;2014-12-31;Produit Net Bancaire;Côte d'Ivoire;1110000000
+SG;2014-12-31;Resultat avant impot;Côte d'Ivoire;480000000
+SG;2014-12-31;impot courant;Côte d'Ivoire;-100000000
+SG;2014-12-31;impot différé;Côte d'Ivoire;10000000
+SG;2014-12-31;impot sur bénéfice;Côte d'Ivoire;-90000000
+SG;2014-12-31;Effectif;Côte d'Ivoire;1147
+SG;2014-12-31;NB filiales CBCR;Côte d'Ivoire;2
+SG;2014-12-31;Total filiales;Côte d'Ivoire;2
+SG;2014-12-31;resultats/effectifs;Côte d'Ivoire;418483
+SG;2014-12-31;resultats/pnb;Côte d'Ivoire;0.432432
+SG;2014-12-31;Produit Net Bancaire;Croatie;1380000000
+SG;2014-12-31;Resultat avant impot;Croatie;320000000
+SG;2014-12-31;impot courant;Croatie;-40000000
+SG;2014-12-31;impot différé;Croatie;10000000
+SG;2014-12-31;impot sur bénéfice;Croatie;-30000000
+SG;2014-12-31;Effectif;Croatie;1459
+SG;2014-12-31;NB filiales CBCR;Croatie;3
+SG;2014-12-31;Total filiales;Croatie;3
+SG;2014-12-31;resultats/effectifs;Croatie;219328
+SG;2014-12-31;resultats/pnb;Croatie;0.231884
+SG;2014-12-31;Produit Net Bancaire;Curaçao;10000000
+SG;2014-12-31;Resultat avant impot;Curaçao;10000000
+SG;2014-12-31;NB filiales CBCR;Curaçao;1
+SG;2014-12-31;Total filiales;Curaçao;1
+SG;2014-12-31;resultats/pnb;Curaçao;1
+SG;2014-12-31;Produit Net Bancaire;Danemark;570000000
+SG;2014-12-31;Resultat avant impot;Danemark;330000000
+SG;2014-12-31;impot courant;Danemark;-90000000
+SG;2014-12-31;impot différé;Danemark;20000000
+SG;2014-12-31;impot sur bénéfice;Danemark;-70000000
+SG;2014-12-31;Effectif;Danemark;146
+SG;2014-12-31;NB filiales CBCR;Danemark;4
+SG;2014-12-31;Total filiales;Danemark;4
+SG;2014-12-31;resultats/effectifs;Danemark;2.26027e+06
+SG;2014-12-31;resultats/pnb;Danemark;0.578947
+SG;2014-12-31;Produit Net Bancaire;Émirats Arabes Unis;170000000
+SG;2014-12-31;Resultat avant impot;Émirats Arabes Unis;40000000
+SG;2014-12-31;Effectif;Émirats Arabes Unis;79
+SG;2014-12-31;NB filiales CBCR;Émirats Arabes Unis;3
+SG;2014-12-31;Total filiales;Émirats Arabes Unis;3
+SG;2014-12-31;resultats/effectifs;Émirats Arabes Unis;506329
+SG;2014-12-31;resultats/pnb;Émirats Arabes Unis;0.235294
+SG;2014-12-31;Produit Net Bancaire;Espagne;4000000000
+SG;2014-12-31;Resultat avant impot;Espagne;2330000000
+SG;2014-12-31;impot courant;Espagne;-460000000
+SG;2014-12-31;impot différé;Espagne;-70000000
+SG;2014-12-31;impot sur bénéfice;Espagne;-530000000
+SG;2014-12-31;Effectif;Espagne;562
+SG;2014-12-31;NB filiales CBCR;Espagne;8
+SG;2014-12-31;NB filiales périmètre en +;Espagne;1
+SG;2014-12-31;Total filiales;Espagne;9
+SG;2014-12-31;resultats/effectifs;Espagne;4.14591e+06
+SG;2014-12-31;resultats/pnb;Espagne;0.5825
+SG;2014-12-31;NB filiales CBCR;Estonie;1
+SG;2014-12-31;Total filiales;Estonie;1
+SG;2014-12-31;Produit Net Bancaire;États-Unis;12050000000
+SG;2014-12-31;Resultat avant impot;États-Unis;2190000000
+SG;2014-12-31;impot courant;États-Unis;-350000000
+SG;2014-12-31;impot différé;États-Unis;-1870000000
+SG;2014-12-31;impot sur bénéfice;États-Unis;-2220000000
+SG;2014-12-31;Effectif;États-Unis;2455
+SG;2014-12-31;NB filiales CBCR;États-Unis;30
+SG;2014-12-31;NB filiales périmètre en +;États-Unis;1
+SG;2014-12-31;Total filiales;États-Unis;31
+SG;2014-12-31;resultats/effectifs;États-Unis;892057
+SG;2014-12-31;resultats/pnb;États-Unis;0.181743
+SG;2014-12-31;Produit Net Bancaire;Finlande;590000000
+SG;2014-12-31;Resultat avant impot;Finlande;430000000
+SG;2014-12-31;impot courant;Finlande;-70000000
+SG;2014-12-31;impot différé;Finlande;-30000000
+SG;2014-12-31;impot sur bénéfice;Finlande;-100000000
+SG;2014-12-31;Effectif;Finlande;86
+SG;2014-12-31;NB filiales CBCR;Finlande;2
+SG;2014-12-31;Total filiales;Finlande;2
+SG;2014-12-31;resultats/effectifs;Finlande;5000000
+SG;2014-12-31;resultats/pnb;Finlande;0.728814
+SG;2014-12-31;Produit Net Bancaire;France;105760000000
+SG;2014-12-31;Resultat avant impot;France;3210000000
+SG;2014-12-31;impot courant;France;-3470000000
+SG;2014-12-31;impot différé;France;330000000
+SG;2014-12-31;impot sur bénéfice;France;-3140000000
+SG;2014-12-31;Effectif;France;51794
+SG;2014-12-31;NB filiales CBCR;France;301
+SG;2014-12-31;NB filiales périmètre en +;France;7
+SG;2014-12-31;Total filiales;France;308
+SG;2014-12-31;resultats/effectifs;France;61976.3
+SG;2014-12-31;resultats/pnb;France;0.0303517
+SG;2014-12-31;Produit Net Bancaire;Géorgie;410000000
+SG;2014-12-31;Resultat avant impot;Géorgie;150000000
+SG;2014-12-31;impot courant;Géorgie;-20000000
+SG;2014-12-31;impot différé;Géorgie;-10000000
+SG;2014-12-31;impot sur bénéfice;Géorgie;-30000000
+SG;2014-12-31;Effectif;Géorgie;956
+SG;2014-12-31;NB filiales CBCR;Géorgie;3
+SG;2014-12-31;Total filiales;Géorgie;3
+SG;2014-12-31;resultats/effectifs;Géorgie;156904
+SG;2014-12-31;resultats/pnb;Géorgie;0.365854
+SG;2014-12-31;Produit Net Bancaire;Ghana;620000000
+SG;2014-12-31;Resultat avant impot;Ghana;110000000
+SG;2014-12-31;impot courant;Ghana;-50000000
+SG;2014-12-31;impot sur bénéfice;Ghana;-50000000
+SG;2014-12-31;Effectif;Ghana;709
+SG;2014-12-31;NB filiales CBCR;Ghana;1
+SG;2014-12-31;Total filiales;Ghana;1
+SG;2014-12-31;resultats/effectifs;Ghana;155148
+SG;2014-12-31;resultats/pnb;Ghana;0.177419
+SG;2014-12-31;Produit Net Bancaire;Gibraltar;160000000
+SG;2014-12-31;Effectif;Gibraltar;50
+SG;2014-12-31;NB filiales CBCR;Gibraltar;2
+SG;2014-12-31;Total filiales;Gibraltar;2
+SG;2014-12-31;Produit Net Bancaire;Grèce;40000000
+SG;2014-12-31;Resultat avant impot;Grèce;10000000
+SG;2014-12-31;Effectif;Grèce;38
+SG;2014-12-31;NB filiales CBCR;Grèce;2
+SG;2014-12-31;NB filiales périmètre en +;Grèce;1
+SG;2014-12-31;Total filiales;Grèce;3
+SG;2014-12-31;resultats/effectifs;Grèce;263158
+SG;2014-12-31;resultats/pnb;Grèce;0.25
+SG;2014-12-31;NB filiales CBCR;Guernesey;6
+SG;2014-12-31;Total filiales;Guernesey;6
+SG;2014-12-31;Produit Net Bancaire;Guinée;280000000
+SG;2014-12-31;Resultat avant impot;Guinée;120000000
+SG;2014-12-31;impot courant;Guinée;-50000000
+SG;2014-12-31;impot sur bénéfice;Guinée;-50000000
+SG;2014-12-31;Effectif;Guinée;290
+SG;2014-12-31;NB filiales CBCR;Guinée;1
+SG;2014-12-31;Total filiales;Guinée;1
+SG;2014-12-31;resultats/effectifs;Guinée;413793
+SG;2014-12-31;resultats/pnb;Guinée;0.428571
+SG;2014-12-31;Produit Net Bancaire;Guinée Équatoriale;270000000
+SG;2014-12-31;Resultat avant impot;Guinée Équatoriale;120000000
+SG;2014-12-31;impot courant;Guinée Équatoriale;-40000000
+SG;2014-12-31;impot différé;Guinée Équatoriale;-10000000
+SG;2014-12-31;impot sur bénéfice;Guinée Équatoriale;-50000000
+SG;2014-12-31;Effectif;Guinée Équatoriale;289
+SG;2014-12-31;NB filiales CBCR;Guinée Équatoriale;1
+SG;2014-12-31;Total filiales;Guinée Équatoriale;1
+SG;2014-12-31;resultats/effectifs;Guinée Équatoriale;415225
+SG;2014-12-31;resultats/pnb;Guinée Équatoriale;0.444444
+SG;2014-12-31;Produit Net Bancaire;Hong-Kong;6730000000
+SG;2014-12-31;Resultat avant impot;Hong-Kong;3420000000
+SG;2014-12-31;impot courant;Hong-Kong;-310000000
+SG;2014-12-31;impot différé;Hong-Kong;30000000
+SG;2014-12-31;impot sur bénéfice;Hong-Kong;-280000000
+SG;2014-12-31;Effectif;Hong-Kong;1038
+SG;2014-12-31;NB filiales CBCR;Hong-Kong;12
+SG;2014-12-31;Total filiales;Hong-Kong;12
+SG;2014-12-31;resultats/effectifs;Hong-Kong;3.2948e+06
+SG;2014-12-31;resultats/pnb;Hong-Kong;0.508172
+SG;2014-12-31;Resultat avant impot;Hongrie;30000000
+SG;2014-12-31;NB filiales CBCR;Hongrie;3
+SG;2014-12-31;Total filiales;Hongrie;3
+SG;2014-12-31;NB filiales CBCR;Iles Caïmans;3
+SG;2014-12-31;Total filiales;Iles Caïmans;3
+SG;2014-12-31;NB filiales CBCR;Iles Vierges Britanniques;1
+SG;2014-12-31;Total filiales;Iles Vierges Britanniques;1
+SG;2014-12-31;Produit Net Bancaire;Inde;610000000
+SG;2014-12-31;Resultat avant impot;Inde;560000000
+SG;2014-12-31;impot courant;Inde;-190000000
+SG;2014-12-31;impot différé;Inde;10000000
+SG;2014-12-31;impot sur bénéfice;Inde;-180000000
+SG;2014-12-31;Effectif;Inde;3968
+SG;2014-12-31;NB filiales CBCR;Inde;5
+SG;2014-12-31;Total filiales;Inde;5
+SG;2014-12-31;resultats/effectifs;Inde;141129
+SG;2014-12-31;resultats/pnb;Inde;0.918033
+SG;2014-12-31;Produit Net Bancaire;Irlande;50000000
+SG;2014-12-31;Resultat avant impot;Irlande;130000000
+SG;2014-12-31;Effectif;Irlande;53
+SG;2014-12-31;NB filiales CBCR;Irlande;10
+SG;2014-12-31;NB filiales périmètre en +;Irlande;3
+SG;2014-12-31;Total filiales;Irlande;13
+SG;2014-12-31;resultats/effectifs;Irlande;2.45283e+06
+SG;2014-12-31;resultats/pnb;Irlande;2.6
+SG;2014-12-31;Produit Net Bancaire;Italie;6190000000
+SG;2014-12-31;Resultat avant impot;Italie;1140000000
+SG;2014-12-31;impot courant;Italie;-700000000
+SG;2014-12-31;impot différé;Italie;320000000
+SG;2014-12-31;impot sur bénéfice;Italie;-380000000
+SG;2014-12-31;Effectif;Italie;1938
+SG;2014-12-31;NB filiales CBCR;Italie;13
+SG;2014-12-31;Total filiales;Italie;13
+SG;2014-12-31;resultats/effectifs;Italie;588235
+SG;2014-12-31;resultats/pnb;Italie;0.184168
+SG;2014-12-31;Produit Net Bancaire;Japon;3060000000
+SG;2014-12-31;Resultat avant impot;Japon;1790000000
+SG;2014-12-31;impot courant;Japon;-420000000
+SG;2014-12-31;impot différé;Japon;-40000000
+SG;2014-12-31;impot sur bénéfice;Japon;-460000000
+SG;2014-12-31;Effectif;Japon;284
+SG;2014-12-31;NB filiales CBCR;Japon;4
+SG;2014-12-31;Total filiales;Japon;4
+SG;2014-12-31;resultats/effectifs;Japon;6.30282e+06
+SG;2014-12-31;resultats/pnb;Japon;0.584967
+SG;2014-12-31;Produit Net Bancaire;Jersey;600000000
+SG;2014-12-31;Resultat avant impot;Jersey;200000000
+SG;2014-12-31;impot courant;Jersey;-20000000
+SG;2014-12-31;impot sur bénéfice;Jersey;-20000000
+SG;2014-12-31;Effectif;Jersey;219
+SG;2014-12-31;NB filiales CBCR;Jersey;16
+SG;2014-12-31;Total filiales;Jersey;16
+SG;2014-12-31;resultats/effectifs;Jersey;913242
+SG;2014-12-31;resultats/pnb;Jersey;0.333333
+SG;2014-12-31;Resultat avant impot;Lettonie;10000000
+SG;2014-12-31;NB filiales CBCR;Lettonie;1
+SG;2014-12-31;Total filiales;Lettonie;1
+SG;2014-12-31;Resultat avant impot;Liban;150000000
+SG;2014-12-31;NB filiales CBCR;Liban;1
+SG;2014-12-31;Total filiales;Liban;1
+SG;2014-12-31;Resultat avant impot;Lituanie;10000000
+SG;2014-12-31;NB filiales CBCR;Lituanie;1
+SG;2014-12-31;Total filiales;Lituanie;1
+SG;2014-12-31;Produit Net Bancaire;Luxembourg;8340000000
+SG;2014-12-31;Resultat avant impot;Luxembourg;5900000000
+SG;2014-12-31;impot courant;Luxembourg;-960000000
+SG;2014-12-31;impot différé;Luxembourg;-260000000
+SG;2014-12-31;impot sur bénéfice;Luxembourg;-1220000000
+SG;2014-12-31;Effectif;Luxembourg;1275
+SG;2014-12-31;NB filiales CBCR;Luxembourg;24
+SG;2014-12-31;NB filiales périmètre en +;Luxembourg;3
+SG;2014-12-31;Total filiales;Luxembourg;27
+SG;2014-12-31;resultats/effectifs;Luxembourg;4.62745e+06
+SG;2014-12-31;resultats/pnb;Luxembourg;0.707434
+SG;2014-12-31;Produit Net Bancaire;Macédoine;190000000
+SG;2014-12-31;Resultat avant impot;Macédoine;40000000
+SG;2014-12-31;Effectif;Macédoine;375
+SG;2014-12-31;NB filiales CBCR;Macédoine;1
+SG;2014-12-31;Total filiales;Macédoine;1
+SG;2014-12-31;resultats/effectifs;Macédoine;106667
+SG;2014-12-31;resultats/pnb;Macédoine;0.210526
+SG;2014-12-31;Produit Net Bancaire;Madagascar;440000000
+SG;2014-12-31;Resultat avant impot;Madagascar;190000000
+SG;2014-12-31;impot courant;Madagascar;-40000000
+SG;2014-12-31;impot sur bénéfice;Madagascar;-40000000
+SG;2014-12-31;Effectif;Madagascar;805
+SG;2014-12-31;NB filiales CBCR;Madagascar;1
+SG;2014-12-31;Total filiales;Madagascar;1
+SG;2014-12-31;resultats/effectifs;Madagascar;236025
+SG;2014-12-31;resultats/pnb;Madagascar;0.431818
+SG;2014-12-31;NB filiales CBCR;Malte;2
+SG;2014-12-31;Total filiales;Malte;2
+SG;2014-12-31;Produit Net Bancaire;Maroc;4360000000
+SG;2014-12-31;Resultat avant impot;Maroc;1300000000
+SG;2014-12-31;impot courant;Maroc;-590000000
+SG;2014-12-31;impot différé;Maroc;100000000
+SG;2014-12-31;impot sur bénéfice;Maroc;-490000000
+SG;2014-12-31;Effectif;Maroc;3778
+SG;2014-12-31;NB filiales CBCR;Maroc;10
+SG;2014-12-31;Total filiales;Maroc;10
+SG;2014-12-31;resultats/effectifs;Maroc;344097
+SG;2014-12-31;resultats/pnb;Maroc;0.298165
+SG;2014-12-31;NB filiales CBCR;Maurice;1
+SG;2014-12-31;Total filiales;Maurice;1
+SG;2014-12-31;Produit Net Bancaire;Mexique;80000000
+SG;2014-12-31;Resultat avant impot;Mexique;20000000
+SG;2014-12-31;impot courant;Mexique;10000000
+SG;2014-12-31;impot sur bénéfice;Mexique;10000000
+SG;2014-12-31;Effectif;Mexique;90
+SG;2014-12-31;NB filiales CBCR;Mexique;3
+SG;2014-12-31;resultats/effectifs;Mexique;222222
+SG;2014-12-31;resultats/pnb;Mexique;0.25
+SG;2014-12-31;Produit Net Bancaire;Moldavie;220000000
+SG;2014-12-31;Resultat avant impot;Moldavie;60000000
+SG;2014-12-31;impot courant;Moldavie;-10000000
+SG;2014-12-31;impot sur bénéfice;Moldavie;-10000000
+SG;2014-12-31;Effectif;Moldavie;736
+SG;2014-12-31;NB filiales CBCR;Moldavie;1
+SG;2014-12-31;Total filiales;Moldavie;1
+SG;2014-12-31;resultats/effectifs;Moldavie;81521.7
+SG;2014-12-31;resultats/pnb;Moldavie;0.272727
+SG;2014-12-31;Produit Net Bancaire;Monaco;1400000000
+SG;2014-12-31;Resultat avant impot;Monaco;630000000
+SG;2014-12-31;impot courant;Monaco;-210000000
+SG;2014-12-31;impot sur bénéfice;Monaco;-210000000
+SG;2014-12-31;Effectif;Monaco;315
+SG;2014-12-31;NB filiales CBCR;Monaco;4
+SG;2014-12-31;Total filiales;Monaco;4
+SG;2014-12-31;resultats/effectifs;Monaco;2000000
+SG;2014-12-31;resultats/pnb;Monaco;0.45
+SG;2014-12-31;Produit Net Bancaire;Monténégro;210000000
+SG;2014-12-31;Resultat avant impot;Monténégro;60000000
+SG;2014-12-31;impot courant;Monténégro;-10000000
+SG;2014-12-31;impot sur bénéfice;Monténégro;-10000000
+SG;2014-12-31;Effectif;Monténégro;258
+SG;2014-12-31;NB filiales CBCR;Monténégro;1
+SG;2014-12-31;Total filiales;Monténégro;1
+SG;2014-12-31;resultats/effectifs;Monténégro;232558
+SG;2014-12-31;resultats/pnb;Monténégro;0.285714
+SG;2014-12-31;Produit Net Bancaire;Norvège;1290000000
+SG;2014-12-31;Resultat avant impot;Norvège;610000000
+SG;2014-12-31;impot courant;Norvège;-70000000
+SG;2014-12-31;impot différé;Norvège;-60000000
+SG;2014-12-31;impot sur bénéfice;Norvège;-130000000
+SG;2014-12-31;Effectif;Norvège;328
+SG;2014-12-31;NB filiales CBCR;Norvège;3
+SG;2014-12-31;Total filiales;Norvège;3
+SG;2014-12-31;resultats/effectifs;Norvège;1.85976e+06
+SG;2014-12-31;resultats/pnb;Norvège;0.472868
+SG;2014-12-31;Produit Net Bancaire;Nouvelle-Calédonie;790000000
+SG;2014-12-31;Resultat avant impot;Nouvelle-Calédonie;420000000
+SG;2014-12-31;impot courant;Nouvelle-Calédonie;-170000000
+SG;2014-12-31;impot différé;Nouvelle-Calédonie;10000000
+SG;2014-12-31;impot sur bénéfice;Nouvelle-Calédonie;-160000000
+SG;2014-12-31;Effectif;Nouvelle-Calédonie;312
+SG;2014-12-31;NB filiales CBCR;Nouvelle-Calédonie;2
+SG;2014-12-31;Total filiales;Nouvelle-Calédonie;2
+SG;2014-12-31;resultats/effectifs;Nouvelle-Calédonie;1.34615e+06
+SG;2014-12-31;resultats/pnb;Nouvelle-Calédonie;0.531646
+SG;2014-12-31;NB filiales CBCR;Nouvelle-Zélande;1
+SG;2014-12-31;Total filiales;Nouvelle-Zélande;1
+SG;2014-12-31;Produit Net Bancaire;Pays-Bas;320000000
+SG;2014-12-31;Resultat avant impot;Pays-Bas;70000000
+SG;2014-12-31;impot courant;Pays-Bas;-30000000
+SG;2014-12-31;impot sur bénéfice;Pays-Bas;-30000000
+SG;2014-12-31;Effectif;Pays-Bas;164
+SG;2014-12-31;NB filiales CBCR;Pays-Bas;12
+SG;2014-12-31;NB filiales périmètre en +;Pays-Bas;1
+SG;2014-12-31;Total filiales;Pays-Bas;13
+SG;2014-12-31;resultats/effectifs;Pays-Bas;426829
+SG;2014-12-31;resultats/pnb;Pays-Bas;0.21875
+SG;2014-12-31;NB filiales CBCR;Philippines;1
+SG;2014-12-31;Total filiales;Philippines;1
+SG;2014-12-31;Produit Net Bancaire;Pologne;1950000000
+SG;2014-12-31;Resultat avant impot;Pologne;430000000
+SG;2014-12-31;impot différé;Pologne;-90000000
+SG;2014-12-31;impot sur bénéfice;Pologne;-90000000
+SG;2014-12-31;Effectif;Pologne;3328
+SG;2014-12-31;NB filiales CBCR;Pologne;7
+SG;2014-12-31;Total filiales;Pologne;7
+SG;2014-12-31;resultats/effectifs;Pologne;129207
+SG;2014-12-31;resultats/pnb;Pologne;0.220513
+SG;2014-12-31;Produit Net Bancaire;Polynésie Française;520000000
+SG;2014-12-31;Resultat avant impot;Polynésie Française;30000000
+SG;2014-12-31;impot courant;Polynésie Française;-60000000
+SG;2014-12-31;impot différé;Polynésie Française;40000000
+SG;2014-12-31;impot sur bénéfice;Polynésie Française;-20000000
+SG;2014-12-31;Effectif;Polynésie Française;283
+SG;2014-12-31;NB filiales CBCR;Polynésie Française;2
+SG;2014-12-31;Total filiales;Polynésie Française;2
+SG;2014-12-31;resultats/effectifs;Polynésie Française;106007
+SG;2014-12-31;resultats/pnb;Polynésie Française;0.0576923
+SG;2014-12-31;Produit Net Bancaire;Portugal;160000000
+SG;2014-12-31;Resultat avant impot;Portugal;110000000
+SG;2014-12-31;impot courant;Portugal;-20000000
+SG;2014-12-31;impot sur bénéfice;Portugal;-20000000
+SG;2014-12-31;Effectif;Portugal;85
+SG;2014-12-31;NB filiales CBCR;Portugal;1
+SG;2014-12-31;Total filiales;Portugal;1
+SG;2014-12-31;resultats/effectifs;Portugal;1.29412e+06
+SG;2014-12-31;resultats/pnb;Portugal;0.6875
+SG;2014-12-31;Produit Net Bancaire;République Tchèque;11180000000
+SG;2014-12-31;Resultat avant impot;République Tchèque;5860000000
+SG;2014-12-31;impot courant;République Tchèque;-970000000
+SG;2014-12-31;impot différé;République Tchèque;-50000000
+SG;2014-12-31;impot sur bénéfice;République Tchèque;-1020000000
+SG;2014-12-31;Effectif;République Tchèque;8436
+SG;2014-12-31;NB filiales CBCR;République Tchèque;16
+SG;2014-12-31;Total filiales;République Tchèque;16
+SG;2014-12-31;resultats/effectifs;République Tchèque;694642
+SG;2014-12-31;resultats/pnb;République Tchèque;0.52415
+SG;2014-12-31;Produit Net Bancaire;Roumanie;5960000000
+SG;2014-12-31;Resultat avant impot;Roumanie;240000000
+SG;2014-12-31;impot courant;Roumanie;-20000000
+SG;2014-12-31;impot différé;Roumanie;-100000000
+SG;2014-12-31;impot sur bénéfice;Roumanie;-120000000
+SG;2014-12-31;Effectif;Roumanie;8250
+SG;2014-12-31;NB filiales CBCR;Roumanie;7
+SG;2014-12-31;Total filiales;Roumanie;7
+SG;2014-12-31;resultats/effectifs;Roumanie;29090.9
+SG;2014-12-31;resultats/pnb;Roumanie;0.0402685
+SG;2014-12-31;Produit Net Bancaire;Royaume-Uni;14520000000
+SG;2014-12-31;Resultat avant impot;Royaume-Uni;2430000000
+SG;2014-12-31;impot courant;Royaume-Uni;-500000000
+SG;2014-12-31;impot différé;Royaume-Uni;-450000000
+SG;2014-12-31;impot sur bénéfice;Royaume-Uni;-950000000
+SG;2014-12-31;Effectif;Royaume-Uni;2934
+SG;2014-12-31;NB filiales CBCR;Royaume-Uni;52
+SG;2014-12-31;Total filiales;Royaume-Uni;52
+SG;2014-12-31;resultats/effectifs;Royaume-Uni;828221
+SG;2014-12-31;resultats/pnb;Royaume-Uni;0.167355
+SG;2014-12-31;Produit Net Bancaire;Russie;12340000000
+SG;2014-12-31;Resultat avant impot;Russie;1870000000
+SG;2014-12-31;impot courant;Russie;-410000000
+SG;2014-12-31;impot différé;Russie;-100000000
+SG;2014-12-31;impot sur bénéfice;Russie;-510000000
+SG;2014-12-31;Effectif;Russie;20966
+SG;2014-12-31;NB filiales CBCR;Russie;21
+SG;2014-12-31;Total filiales;Russie;21
+SG;2014-12-31;resultats/effectifs;Russie;89192
+SG;2014-12-31;resultats/pnb;Russie;0.15154
+SG;2014-12-31;Produit Net Bancaire;Sénégal;510000000
+SG;2014-12-31;Resultat avant impot;Sénégal;-340000000
+SG;2014-12-31;impot différé;Sénégal;80000000
+SG;2014-12-31;impot sur bénéfice;Sénégal;80000000
+SG;2014-12-31;Effectif;Sénégal;756
+SG;2014-12-31;NB filiales CBCR;Sénégal;1
+SG;2014-12-31;Total filiales;Sénégal;1
+SG;2014-12-31;resultats/effectifs;Sénégal;-449735
+SG;2014-12-31;resultats/pnb;Sénégal;-0.666667
+SG;2014-12-31;Produit Net Bancaire;Serbie;930000000
+SG;2014-12-31;Resultat avant impot;Serbie;90000000
+SG;2014-12-31;impot différé;Serbie;30000000
+SG;2014-12-31;impot sur bénéfice;Serbie;30000000
+SG;2014-12-31;Effectif;Serbie;1301
+SG;2014-12-31;NB filiales CBCR;Serbie;2
+SG;2014-12-31;Total filiales;Serbie;2
+SG;2014-12-31;resultats/effectifs;Serbie;69177.6
+SG;2014-12-31;resultats/pnb;Serbie;0.0967742
+SG;2014-12-31;Produit Net Bancaire;Singapour;1420000000
+SG;2014-12-31;Resultat avant impot;Singapour;1100000000
+SG;2014-12-31;impot différé;Singapour;150000000
+SG;2014-12-31;impot sur bénéfice;Singapour;150000000
+SG;2014-12-31;Effectif;Singapour;376
+SG;2014-12-31;NB filiales CBCR;Singapour;4
+SG;2014-12-31;Total filiales;Singapour;4
+SG;2014-12-31;resultats/effectifs;Singapour;2.92553e+06
+SG;2014-12-31;resultats/pnb;Singapour;0.774648
+SG;2014-12-31;Produit Net Bancaire;Slovaquie;150000000
+SG;2014-12-31;Resultat avant impot;Slovaquie;110000000
+SG;2014-12-31;impot courant;Slovaquie;-30000000
+SG;2014-12-31;impot différé;Slovaquie;20000000
+SG;2014-12-31;impot sur bénéfice;Slovaquie;-10000000
+SG;2014-12-31;Effectif;Slovaquie;103
+SG;2014-12-31;NB filiales CBCR;Slovaquie;5
+SG;2014-12-31;Total filiales;Slovaquie;5
+SG;2014-12-31;resultats/effectifs;Slovaquie;1.06796e+06
+SG;2014-12-31;resultats/pnb;Slovaquie;0.733333
+SG;2014-12-31;Produit Net Bancaire;Slovénie;1080000000
+SG;2014-12-31;Resultat avant impot;Slovénie;440000000
+SG;2014-12-31;impot courant;Slovénie;-40000000
+SG;2014-12-31;impot différé;Slovénie;-40000000
+SG;2014-12-31;impot sur bénéfice;Slovénie;-80000000
+SG;2014-12-31;Effectif;Slovénie;837
+SG;2014-12-31;NB filiales CBCR;Slovénie;3
+SG;2014-12-31;Total filiales;Slovénie;3
+SG;2014-12-31;resultats/effectifs;Slovénie;525687
+SG;2014-12-31;resultats/pnb;Slovénie;0.407407
+SG;2014-12-31;Produit Net Bancaire;Suède;540000000
+SG;2014-12-31;Resultat avant impot;Suède;300000000
+SG;2014-12-31;impot courant;Suède;-30000000
+SG;2014-12-31;impot différé;Suède;-40000000
+SG;2014-12-31;impot sur bénéfice;Suède;-70000000
+SG;2014-12-31;Effectif;Suède;124
+SG;2014-12-31;NB filiales CBCR;Suède;4
+SG;2014-12-31;Total filiales;Suède;4
+SG;2014-12-31;resultats/effectifs;Suède;2.41935e+06
+SG;2014-12-31;resultats/pnb;Suède;0.555556
+SG;2014-12-31;Produit Net Bancaire;Suisse;2320000000
+SG;2014-12-31;Resultat avant impot;Suisse;360000000
+SG;2014-12-31;impot courant;Suisse;-30000000
+SG;2014-12-31;impot sur bénéfice;Suisse;-30000000
+SG;2014-12-31;Effectif;Suisse;709
+SG;2014-12-31;NB filiales CBCR;Suisse;8
+SG;2014-12-31;Total filiales;Suisse;8
+SG;2014-12-31;resultats/effectifs;Suisse;507757
+SG;2014-12-31;resultats/pnb;Suisse;0.155172
+SG;2014-12-31;Produit Net Bancaire;Taïwan;320000000
+SG;2014-12-31;Resultat avant impot;Taïwan;210000000
+SG;2014-12-31;impot courant;Taïwan;-30000000
+SG;2014-12-31;impot différé;Taïwan;-10000000
+SG;2014-12-31;impot sur bénéfice;Taïwan;-40000000
+SG;2014-12-31;Effectif;Taïwan;31
+SG;2014-12-31;NB filiales CBCR;Taïwan;2
+SG;2014-12-31;Total filiales;Taïwan;2
+SG;2014-12-31;resultats/effectifs;Taïwan;6.77419e+06
+SG;2014-12-31;resultats/pnb;Taïwan;0.65625
+SG;2014-12-31;Produit Net Bancaire;Tchad;210000000
+SG;2014-12-31;Resultat avant impot;Tchad;60000000
+SG;2014-12-31;impot courant;Tchad;-10000000
+SG;2014-12-31;impot sur bénéfice;Tchad;-10000000
+SG;2014-12-31;Effectif;Tchad;195
+SG;2014-12-31;NB filiales CBCR;Tchad;1
+SG;2014-12-31;Total filiales;Tchad;1
+SG;2014-12-31;resultats/effectifs;Tchad;307692
+SG;2014-12-31;resultats/pnb;Tchad;0.285714
+SG;2014-12-31;NB filiales CBCR;Thaïlande;1
+SG;2014-12-31;Total filiales;Thaïlande;1
+SG;2014-12-31;Produit Net Bancaire;Tunisie;910000000
+SG;2014-12-31;Resultat avant impot;Tunisie;340000000
+SG;2014-12-31;impot courant;Tunisie;-120000000
+SG;2014-12-31;impot différé;Tunisie;-20000000
+SG;2014-12-31;impot sur bénéfice;Tunisie;-140000000
+SG;2014-12-31;Effectif;Tunisie;1229
+SG;2014-12-31;NB filiales CBCR;Tunisie;1
+SG;2014-12-31;Total filiales;Tunisie;1
+SG;2014-12-31;resultats/effectifs;Tunisie;276648
+SG;2014-12-31;resultats/pnb;Tunisie;0.373626
+SG;2014-12-31;Produit Net Bancaire;Turquie;220000000
+SG;2014-12-31;Resultat avant impot;Turquie;30000000
+SG;2014-12-31;Effectif;Turquie;125
+SG;2014-12-31;NB filiales CBCR;Turquie;2
+SG;2014-12-31;Total filiales;Turquie;2
+SG;2014-12-31;resultats/effectifs;Turquie;240000
+SG;2014-12-31;resultats/pnb;Turquie;0.136364
+SG;2014-12-31;Resultat avant impot;Ukraine;40000000
+SG;2014-12-31;NB filiales CBCR;Ukraine;1
+SG;2014-12-31;Total filiales;Ukraine;1
+CM;2014-12-31;Produit Net Bancaire;Allemagne;9370000000
+CM;2014-12-31;Resultat avant impot;Allemagne;300000000
+CM;2014-12-31;impot courant;Allemagne;-40000000
+CM;2014-12-31;impot différé;Allemagne;60000000
+CM;2014-12-31;impot sur bénéfice;Allemagne;20000000
+CM;2014-12-31;Effectif;Allemagne;6
+CM;2014-12-31;NB filiales CBCR;Allemagne;12
+CM;2014-12-31;Total filiales;Allemagne;12
+CM;2014-12-31;NB filiales périmètre en +;Argentine;1
+CM;2014-12-31;Total filiales;Argentine;1
+CM;2014-12-31;Effectif;Bahamas;9
+CM;2014-12-31;NB filiales périmètre en +;Bahamas;3
+CM;2014-12-31;Total filiales;Bahamas;3
+CM;2014-12-31;Produit Net Bancaire;Belgique;4200000000
+CM;2014-12-31;Resultat avant impot;Belgique;1320000000
+CM;2014-12-31;impot courant;Belgique;-70000000
+CM;2014-12-31;impot différé;Belgique;-80000000
+CM;2014-12-31;impot sur bénéfice;Belgique;-150000000
+CM;2014-12-31;Effectif;Belgique;1
+CM;2014-12-31;NB filiales CBCR;Belgique;15
+CM;2014-12-31;NB filiales périmètre en +;Belgique;1
+CM;2014-12-31;Total filiales;Belgique;16
+CM;2014-12-31;Produit Net Bancaire;Brésil;10000000
+CM;2014-12-31;Effectif;Brésil;2
+CM;2014-12-31;NB filiales CBCR;Brésil;2
+CM;2014-12-31;Total filiales;Brésil;2
+CM;2014-12-31;NB filiales CBCR;Canada;1
+CM;2014-12-31;Total filiales;Canada;1
+CM;2014-12-31;Produit Net Bancaire;Espagne;2360000000
+CM;2014-12-31;Resultat avant impot;Espagne;1050000000
+CM;2014-12-31;impot courant;Espagne;-250000000
+CM;2014-12-31;impot différé;Espagne;20000000
+CM;2014-12-31;impot sur bénéfice;Espagne;-230000000
+CM;2014-12-31;Effectif;Espagne;1
+CM;2014-12-31;NB filiales CBCR;Espagne;12
+CM;2014-12-31;Total filiales;Espagne;12
+CM;2014-12-31;Produit Net Bancaire;États-Unis;1280000000
+CM;2014-12-31;Resultat avant impot;États-Unis;1690000000
+CM;2014-12-31;impot courant;États-Unis;-90000000
+CM;2014-12-31;impot différé;États-Unis;-290000000
+CM;2014-12-31;impot sur bénéfice;États-Unis;-380000000
+CM;2014-12-31;Effectif;États-Unis;84
+CM;2014-12-31;NB filiales CBCR;États-Unis;2
+CM;2014-12-31;Total filiales;États-Unis;2
+CM;2014-12-31;Produit Net Bancaire;France;130000000
+CM;2014-12-31;Resultat avant impot;France;60000000
+CM;2014-12-31;impot courant;France;-10000000
+CM;2014-12-31;impot différé;France;-1060000000
+CM;2014-12-31;impot sur bénéfice;France;-10000000
+CM;2014-12-31;Effectif;France;65
+CM;2014-12-31;NB filiales CBCR;France;300
+CM;2014-12-31;NB filiales périmètre en +;France;54
+CM;2014-12-31;Total filiales;France;354
+CM;2014-12-31;NB filiales CBCR;Hong-Kong;1
+CM;2014-12-31;Total filiales;Hong-Kong;1
+CM;2014-12-31;Produit Net Bancaire;Hongrie;170000000
+CM;2014-12-31;Resultat avant impot;Hongrie;20000000
+CM;2014-12-31;Effectif;Hongrie;153
+CM;2014-12-31;NB filiales CBCR;Hongrie;1
+CM;2014-12-31;Total filiales;Hongrie;1
+CM;2014-12-31;Produit Net Bancaire;Iles Caïmans;10000000
+CM;2014-12-31;Resultat avant impot;Iles Caïmans;10000000
+CM;2014-12-31;NB filiales périmètre en +;Iles Caïmans;2
+CM;2014-12-31;Total filiales;Iles Caïmans;2
+CM;2014-12-31;Produit Net Bancaire;Italie;260000000
+CM;2014-12-31;Resultat avant impot;Italie;-110000000
+CM;2014-12-31;Effectif;Italie;138
+CM;2014-12-31;NB filiales CBCR;Italie;1
+CM;2014-12-31;NB filiales périmètre en +;Italie;1
+CM;2014-12-31;Total filiales;Italie;2
+CM;2014-12-31;Effectif;Liechtenstein;13
+CM;2014-12-31;NB filiales périmètre en +;Liechtenstein;1
+CM;2014-12-31;Total filiales;Liechtenstein;1
+CM;2014-12-31;Produit Net Bancaire;Luxembourg;2920000000
+CM;2014-12-31;Resultat avant impot;Luxembourg;1290000000
+CM;2014-12-31;impot courant;Luxembourg;-180000000
+CM;2014-12-31;impot différé;Luxembourg;-30000000
+CM;2014-12-31;impot sur bénéfice;Luxembourg;-210000000
+CM;2014-12-31;Effectif;Luxembourg;831
+CM;2014-12-31;NB filiales CBCR;Luxembourg;25
+CM;2014-12-31;NB filiales périmètre en +;Luxembourg;4
+CM;2014-12-31;Total filiales;Luxembourg;29
+CM;2014-12-31;Resultat avant impot;Maroc;-330000000
+CM;2014-12-31;NB filiales CBCR;Maroc;2
+CM;2014-12-31;Total filiales;Maroc;2
+CM;2014-12-31;Produit Net Bancaire;Monaco;20000000
+CM;2014-12-31;Resultat avant impot;Monaco;10000000
+CM;2014-12-31;Effectif;Monaco;9
+CM;2014-12-31;NB filiales CBCR;Monaco;2
+CM;2014-12-31;Total filiales;Monaco;2
+CM;2014-12-31;NB filiales CBCR;Pays-Bas;1
+CM;2014-12-31;Total filiales;Pays-Bas;1
+CM;2014-12-31;Produit Net Bancaire;Portugal;1090000000
+CM;2014-12-31;Resultat avant impot;Portugal;530000000
+CM;2014-12-31;impot courant;Portugal;-150000000
+CM;2014-12-31;impot sur bénéfice;Portugal;-150000000
+CM;2014-12-31;Effectif;Portugal;399
+CM;2014-12-31;NB filiales CBCR;Portugal;1
+CM;2014-12-31;Total filiales;Portugal;1
+CM;2014-12-31;Produit Net Bancaire;République Tchèque;80000000
+CM;2014-12-31;Resultat avant impot;République Tchèque;-10000000
+CM;2014-12-31;Effectif;République Tchèque;152
+CM;2014-12-31;NB filiales CBCR;République Tchèque;1
+CM;2014-12-31;Total filiales;République Tchèque;1
+CM;2014-12-31;Produit Net Bancaire;Royaume-Uni;430000000
+CM;2014-12-31;Resultat avant impot;Royaume-Uni;390000000
+CM;2014-12-31;impot courant;Royaume-Uni;-90000000
+CM;2014-12-31;impot différé;Royaume-Uni;10000000
+CM;2014-12-31;impot sur bénéfice;Royaume-Uni;-80000000
+CM;2014-12-31;Effectif;Royaume-Uni;50
+CM;2014-12-31;NB filiales CBCR;Royaume-Uni;6
+CM;2014-12-31;NB filiales périmètre en +;Royaume-Uni;1
+CM;2014-12-31;Total filiales;Royaume-Uni;7
+CM;2014-12-31;Produit Net Bancaire;Saint Martin (Antilles Néerlandaises);20000000
+CM;2014-12-31;Effectif;Saint Martin (Antilles Néerlandaises);7
+CM;2014-12-31;NB filiales CBCR;Saint Martin (Antilles Néerlandaises);1
+CM;2014-12-31;Total filiales;Saint Martin (Antilles Néerlandaises);1
+CM;2014-12-31;Produit Net Bancaire;Singapour;650000000
+CM;2014-12-31;Resultat avant impot;Singapour;190000000
+CM;2014-12-31;impot courant;Singapour;-20000000
+CM;2014-12-31;impot sur bénéfice;Singapour;-20000000
+CM;2014-12-31;Effectif;Singapour;214
+CM;2014-12-31;NB filiales CBCR;Singapour;3
+CM;2014-12-31;Total filiales;Singapour;3
+CM;2014-12-31;Resultat avant impot;Slovaquie;-10000000
+CM;2014-12-31;Effectif;Slovaquie;2
+CM;2014-12-31;NB filiales CBCR;Slovaquie;1
+CM;2014-12-31;Total filiales;Slovaquie;1
+CM;2014-12-31;Produit Net Bancaire;Suisse;870000000
+CM;2014-12-31;Resultat avant impot;Suisse;30000000
+CM;2014-12-31;impot courant;Suisse;-10000000
+CM;2014-12-31;impot sur bénéfice;Suisse;-10000000
+CM;2014-12-31;Effectif;Suisse;350
+CM;2014-12-31;NB filiales CBCR;Suisse;4
+CM;2014-12-31;NB filiales périmètre en +;Suisse;1
+CM;2014-12-31;Total filiales;Suisse;5
+CM;2014-12-31;Resultat avant impot;Tunisie;150000000
+CM;2014-12-31;NB filiales CBCR;Tunisie;2
+CM;2014-12-31;Total filiales;Tunisie;2
