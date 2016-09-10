@@ -90,7 +90,6 @@ sed -i 's/;Personal investors;/;Personal Investors;/' data/csv/filiales.csv data
 sed -i 's/;services company;/;Services company;/' data/csv/filiales.csv data/csv/indicateurs.csv data/csv/tout.csv
 sed -i 's/;real estate leasing;/;Real estate leasing;/' data/csv/filiales.csv data/csv/indicateurs.csv data/csv/tout.csv
 sed -i 's/;Real estate and non real estate Leasing;/;Real estate and non real estate leasing;/' data/csv/filiales.csv data/csv/indicateurs.csv data/csv/tout.csv
-sed -i 's/;Services Financiers Spécialisés;/;Services Financiers Spécialisés;/' data/csv/filiales.csv data/csv/indicateurs.csv data/csv/tout.csv
 sed -i 's/;investment Partners;/;Investment Partners;/' data/csv/filiales.csv data/csv/indicateurs.csv data/csv/tout.csv
 sed -i 's/;Personal Finance ;/;Personal Finance;/' data/csv/filiales.csv data/csv/indicateurs.csv data/csv/tout.csv
 sed -i 's/;bank;/;Bank;/' data/csv/filiales.csv data/csv/indicateurs.csv data/csv/tout.csv
