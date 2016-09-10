@@ -74,7 +74,6 @@ sed -i "s/IlesCaimans/Iles Caïmans/" data/csv/filiales.csv data/csv/indicateurs
 sed -i "s/Mac_doine/Macédoine/" data/csv/filiales.csv data/csv/indicateurs.csv data/csv/tout.csv
 sed -i "s/Mont_n_gro/Monténégro/" data/csv/filiales.csv data/csv/indicateurs.csv data/csv/tout.csv
 sed -i "s/Nouvelle Calédonie/Nouvelle-Calédonie/" data/csv/filiales.csv data/csv/indicateurs.csv data/csv/tout.csv
-sed -i "s/pays/reecriture/" data/csv/filiales.csv data/csv/indicateurs.csv data/csv/tout.csv
 sed -i "s/Republiquetcheque/République Tchèque/" data/csv/filiales.csv data/csv/indicateurs.csv data/csv/tout.csv
 sed -i "s/République Tcheque/République Tchèque/" data/csv/filiales.csv data/csv/indicateurs.csv data/csv/tout.csv
 sed -i "s/R_publiqueTcheque/République Tchèque/" data/csv/filiales.csv data/csv/indicateurs.csv data/csv/tout.csv
