@@ -142,7 +142,7 @@ sed -i 's/^\([0-9][0-9][0-9][0-9]\)\([0-9][0-9]\)/\1-\2-/' data/csv/filiales.csv
 
 tail -n +2 data/csv/indicateurs.csv | awk -F ';' '{table[$3][$1";"$2";"$4] = $5}
 END{ 
-	for ( a in table ) { head = head ";" a}  ; print "banque;date;pays"head ; 
+	for ( a in table ) { head = head ";" a}  ; print "date;banque;pays"head ; 
 	for ( a in table ) { for ( b in table[a] ) { lines[b] = 1}  }
 	for ( line in lines ) { l = line ; for ( a in table ) { l = l ";" table[a][line] ; } print l ;}
 }' > data/csv/indicateurs.pivot.csv

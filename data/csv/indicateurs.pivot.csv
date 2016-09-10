@@ -1,4 +1,4 @@
-banque;date;pays;Effectif;impot courant;impot différé;Produit Net Bancaire;NB filiales périmètre en +;NB filiales CBCR;impot sur bénéfice;Resultat avant impot;resultats/effectifs;Total filiales;resultats/pnb
+date;banque;pays;Effectif;impot courant;impot différé;Produit Net Bancaire;NB filiales périmètre en +;NB filiales CBCR;impot sur bénéfice;Resultat avant impot;resultats/effectifs;Total filiales;resultats/pnb
 2014-12-31;BPCE;Algérie;693;;;690000000;;1;-90000000;400000000;577201;1;0.57971
 2015-12-31;SG;Norvège;125;20000000;-100000000;3330000000;;;;640000000;5120000;;0.192192
 2014-12-31;CA;Bermudes;;;;-10000000;;1;;;;1;
