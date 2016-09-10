@@ -122,16 +122,19 @@ sed -i "s|; Services Financiers Spécialisés;|;Services Financiers Spécialisé
 sed -i "s|;Specialist financing;|;Specialist Financing;|" data/csv/filiales.csv data/csv/indicateurs.csv data/csv/tout.csv 
 sed -i "s|;Sructured finance;|;Structured finance;|" data/csv/filiales.csv data/csv/indicateurs.csv data/csv/tout.csv 
 
-
-
 sed -i 's/;$//' data/csv/filiales.csv data/csv/indicateurs.csv data/csv/tout.csv
 sed -i 's/ *$//' data/csv/filiales.csv data/csv/indicateurs.csv data/csv/tout.csv
  
 sed -i 's/^\([0-9][0-9][0-9][0-9]\)\([0-9][0-9]\)/\1-\2-/' data/csv/filiales.csv data/csv/indicateurs.csv data/csv/tout.csv
+awk -F ';' '{print "s/;"$1";/;"$1";"$2";/"}' data/pays2iso.csv > /tmp/$$.sed
+sed -i -f /tmp/$$.sed data/csv/filiales.csv data/csv/indicateurs.csv data/csv/tout.csv
+sed -i 's/;pays;/;pays;iso;/' data/csv/filiales.csv data/csv/indicateurs.csv data/csv/tout.csv
+rm /tmp/$$.sed
 
-tail -n +2 data/csv/indicateurs.csv | awk -F ';' '{table[$3][$1";"$2";"$4] = $5}
+
+tail -n +2 data/csv/indicateurs.csv | awk -F ';' '{table[$3][$1";"$2";"$4";"$5] = $6}
 END{ 
-	for ( a in table ) { head = head ";" a}  ; print "date;banque;pays"head ; 
+	for ( a in table ) { head = head ";" a}  ; print "date;banque;pays;iso"head ; 
 	for ( a in table ) { for ( b in table[a] ) { lines[b] = 1}  }
 	for ( line in lines ) { l = line ; for ( a in table ) { l = l ";" table[a][line] ; } print l ;}
 }' > data/csv/indicateurs.pivot.csv
