@@ -1,16 +1,16 @@
 Pays;ProduitNetBancaire;Resultatavantimpot;impotcourant;impotdiffere;impotsurlesbenefices;Effectif
-Allemagne;1;203;277;-113;37;-76;7;071
-Belgique;446;136;-13;-3;-16;1;713
-Espagne;256;106;-23;0;-23;1;512
-Etats-Unis;136;75;-8;-39;-47;84
-France;13;535;6;390;-1;612;-4;-1616;65;828
+Allemagne;1 203;277;-113;37;-76;7 071
+Belgique;446;136;-13;-3;-16;1 713
+Espagne;256;106;-23;0;-23;1 512
+ÉtatsUnisd’Amérique;136;75;-8;-39;-47;84
+France;13 535;6 390;-1 612;-4;-1616;65 828
 Hongrie;18;7;0;0;0;172
 Italie;32;0;0;0;0;190
 Luxembourg;324;151;-36;4;-32;863
 Maroc;0;65;0;0;0;0
 Monaco;3;2;0;0;0;9
 Portugal;136;79;-21;0;-21;596
-RepubliqueTcheque;7;-2;0;0;0;154
+RépubliqueTchèque;7;-2;0;0;0;154
 Royaume-Uni;46;32;-7;1;-6;58
 SaintMartin;2;1;0;0;0;8
 Singapour;71;13;-1;0;-1;232

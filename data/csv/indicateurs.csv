@@ -320,9 +320,9 @@ date;banque;indicateur;pays;valeur
 2015-12-31;BNP;Effectif;Brésil;1394
 2015-12-31;BNP;resultats/effectifs;Brésil;1.61406e+06
 2015-12-31;BNP;resultats/pnb;Brésil;0.329912
-2015-12-31;BNP;Produit Net Bancaire;Iles Cayman;390000000
-2015-12-31;BNP;Resultat avant impot;Iles Cayman;1340000000
-2015-12-31;BNP;resultats/pnb;Iles Cayman;3.4359
+2015-12-31;BNP;Produit Net Bancaire;Îles Caïmans;390000000
+2015-12-31;BNP;Resultat avant impot;Îles Caïmans;1340000000
+2015-12-31;BNP;resultats/pnb;Îles Caïmans;3.4359
 2015-12-31;BNP;Produit Net Bancaire;Canada;530000000
 2015-12-31;BNP;Resultat avant impot;Canada;190000000
 2015-12-31;BNP;impot courant;Canada;-100000000
@@ -375,14 +375,14 @@ date;banque;indicateur;pays;valeur
 2015-12-31;BNP;Effectif;Chine;404
 2015-12-31;BNP;resultats/effectifs;Chine;2.79703e+06
 2015-12-31;BNP;resultats/pnb;Chine;0.545894
-2015-12-31;BNP;Produit Net Bancaire;République de Corée;970000000
-2015-12-31;BNP;Resultat avant impot;République de Corée;130000000
-2015-12-31;BNP;impot courant;République de Corée;-20000000
-2015-12-31;BNP;impot différé;République de Corée;-20000000
-2015-12-31;BNP;impot sur bénéfice;République de Corée;-40000000
-2015-12-31;BNP;Effectif;République de Corée;352
-2015-12-31;BNP;resultats/effectifs;République de Corée;369318
-2015-12-31;BNP;resultats/pnb;République de Corée;0.134021
+2015-12-31;BNP;Produit Net Bancaire;Corée du Sud;970000000
+2015-12-31;BNP;Resultat avant impot;Corée du Sud;130000000
+2015-12-31;BNP;impot courant;Corée du Sud;-20000000
+2015-12-31;BNP;impot différé;Corée du Sud;-20000000
+2015-12-31;BNP;impot sur bénéfice;Corée du Sud;-40000000
+2015-12-31;BNP;Effectif;Corée du Sud;352
+2015-12-31;BNP;resultats/effectifs;Corée du Sud;369318
+2015-12-31;BNP;resultats/pnb;Corée du Sud;0.134021
 2015-12-31;BNP;Produit Net Bancaire;Hong-Kong;6740000000
 2015-12-31;BNP;Resultat avant impot;Hong-Kong;-100000000
 2015-12-31;BNP;impot différé;Hong-Kong;-40000000
@@ -493,12 +493,12 @@ date;banque;indicateur;pays;valeur
 2015-12-31;BPCE;Effectif;France;91232
 2015-12-31;BPCE;resultats/effectifs;France;534571
 2015-12-31;BPCE;resultats/pnb;France;0.2551
-2015-12-31;BPCE;Produit Net Bancaire;Grande-Bretagne;4520000000
-2015-12-31;BPCE;Resultat avant impot;Grande-Bretagne;2570000000
-2015-12-31;BPCE;impot sur bénéfice;Grande-Bretagne;-470000000
-2015-12-31;BPCE;Effectif;Grande-Bretagne;586
-2015-12-31;BPCE;resultats/effectifs;Grande-Bretagne;4.38567e+06
-2015-12-31;BPCE;resultats/pnb;Grande-Bretagne;0.568584
+2015-12-31;BPCE;Produit Net Bancaire;Royaume-Uni;4520000000
+2015-12-31;BPCE;Resultat avant impot;Royaume-Uni;2570000000
+2015-12-31;BPCE;impot sur bénéfice;Royaume-Uni;-470000000
+2015-12-31;BPCE;Effectif;Royaume-Uni;586
+2015-12-31;BPCE;resultats/effectifs;Royaume-Uni;4.38567e+06
+2015-12-31;BPCE;resultats/pnb;Royaume-Uni;0.568584
 2015-12-31;BPCE;Produit Net Bancaire;Hongrie;10000000
 2015-12-31;BPCE;Effectif;Hongrie;34
 2015-12-31;BPCE;Produit Net Bancaire;Irlande;50000000
@@ -609,11 +609,11 @@ date;banque;indicateur;pays;valeur
 2015-12-31;BPCE;Effectif;Émirats Arabes Unis;56
 2015-12-31;BPCE;resultats/effectifs;Émirats Arabes Unis;357143
 2015-12-31;BPCE;resultats/pnb;Émirats Arabes Unis;0.2
-2015-12-31;BPCE;Produit Net Bancaire;ile Maurice;160000000
-2015-12-31;BPCE;Resultat avant impot;ile Maurice;20000000
-2015-12-31;BPCE;Effectif;ile Maurice;275
-2015-12-31;BPCE;resultats/effectifs;ile Maurice;72727.3
-2015-12-31;BPCE;resultats/pnb;ile Maurice;0.125
+2015-12-31;BPCE;Produit Net Bancaire;Île Maurice;160000000
+2015-12-31;BPCE;Resultat avant impot;Île Maurice;20000000
+2015-12-31;BPCE;Effectif;Île Maurice;275
+2015-12-31;BPCE;resultats/effectifs;Île Maurice;72727.3
+2015-12-31;BPCE;resultats/pnb;Île Maurice;0.125
 2015-12-31;BPCE;Produit Net Bancaire;Israël;120000000
 2015-12-31;BPCE;Resultat avant impot;Israël;20000000
 2015-12-31;BPCE;impot sur bénéfice;Israël;-10000000
@@ -671,9 +671,9 @@ date;banque;indicateur;pays;valeur
 2015-12-31;BPCE;Effectif;États-Unis;2796
 2015-12-31;BPCE;resultats/effectifs;États-Unis;3.00787e+06
 2015-12-31;BPCE;resultats/pnb;États-Unis;0.330063
-2015-12-31;BPCE;Produit Net Bancaire;Iles Caïmans;20000000
-2015-12-31;BPCE;Resultat avant impot;Iles Caïmans;20000000
-2015-12-31;BPCE;resultats/pnb;Iles Caïmans;1
+2015-12-31;BPCE;Produit Net Bancaire;Îles Caïmans;20000000
+2015-12-31;BPCE;Resultat avant impot;Îles Caïmans;20000000
+2015-12-31;BPCE;resultats/pnb;Îles Caïmans;1
 2015-12-31;BPCE;Resultat avant impot;Mexique;-40000000
 2015-12-31;BPCE;impot sur bénéfice;Mexique;-30000000
 2015-12-31;BPCE;Effectif;Mexique;52
@@ -752,137 +752,6 @@ date;banque;indicateur;pays;valeur
 2015-12-31;BPCE;Effectif;Vietnam;53
 2015-12-31;BPCE;resultats/effectifs;Vietnam;377358
 2015-12-31;BPCE;resultats/pnb;Vietnam;1
-2015-12-31;BPCE;Produit Net Bancaire;Polynésie Française;2880000000
-2015-12-31;BPCE;Resultat avant impot;Polynésie Française;30000000
-2015-12-31;BPCE;impot courant;Polynésie Française;-30000000
-2015-12-31;BPCE;impot différé;Polynésie Française;10000000
-2015-12-31;BPCE;impot sur bénéfice;Polynésie Française;-10000000
-2015-12-31;BPCE;Effectif;Polynésie Française;46
-2015-12-31;BPCE;resultats/effectifs;Polynésie Française;652174
-2015-12-31;BPCE;resultats/pnb;Polynésie Française;0.0104167
-2015-12-31;BPCE;Produit Net Bancaire;Portugal;910000000
-2015-12-31;BPCE;Resultat avant impot;Portugal;100000000
-2015-12-31;BPCE;impot courant;Portugal;-20000000
-2015-12-31;BPCE;impot différé;Portugal;-10000000
-2015-12-31;BPCE;Effectif;Portugal;16
-2015-12-31;BPCE;resultats/effectifs;Portugal;6250000
-2015-12-31;BPCE;resultats/pnb;Portugal;0.10989
-2015-12-31;BPCE;Produit Net Bancaire;République Tchèque;85670000000
-2015-12-31;BPCE;Resultat avant impot;République Tchèque;5930000000
-2015-12-31;BPCE;impot courant;République Tchèque;-910000000
-2015-12-31;BPCE;impot différé;République Tchèque;-70000000
-2015-12-31;BPCE;impot sur bénéfice;République Tchèque;-330000000
-2015-12-31;BPCE;Effectif;République Tchèque;1142
-2015-12-31;BPCE;resultats/effectifs;République Tchèque;5.19264e+06
-2015-12-31;BPCE;resultats/pnb;République Tchèque;0.0692191
-2015-12-31;BPCE;Produit Net Bancaire;Roumanie;84050000000
-2015-12-31;BPCE;Resultat avant impot;Roumanie;1440000000
-2015-12-31;BPCE;impot courant;Roumanie;-60000000
-2015-12-31;BPCE;impot différé;Roumanie;-150000000
-2015-12-31;BPCE;impot sur bénéfice;Roumanie;-250000000
-2015-12-31;BPCE;Effectif;Roumanie;595
-2015-12-31;BPCE;resultats/effectifs;Roumanie;2.42017e+06
-2015-12-31;BPCE;resultats/pnb;Roumanie;0.0171327
-2015-12-31;BPCE;Produit Net Bancaire;Royaume-Uni;33440000000
-2015-12-31;BPCE;Resultat avant impot;Royaume-Uni;3920000000
-2015-12-31;BPCE;impot courant;Royaume-Uni;-570000000
-2015-12-31;BPCE;impot différé;Royaume-Uni;-10000000
-2015-12-31;BPCE;impot sur bénéfice;Royaume-Uni;-2230000000
-2015-12-31;BPCE;Effectif;Royaume-Uni;1618
-2015-12-31;BPCE;resultats/effectifs;Royaume-Uni;2.42274e+06
-2015-12-31;BPCE;resultats/pnb;Royaume-Uni;0.117225
-2015-12-31;BPCE;Produit Net Bancaire;Russie;7410000000
-2015-12-31;BPCE;Resultat avant impot;Russie;-1050000000
-2015-12-31;BPCE;impot courant;Russie;-150000000
-2015-12-31;BPCE;impot différé;Russie;160000000
-2015-12-31;BPCE;impot sur bénéfice;Russie;160050000000
-2015-12-31;BPCE;resultats/pnb;Russie;-0.1417
-2015-12-31;BPCE;Produit Net Bancaire;Sénégal;7860000000
-2015-12-31;BPCE;Resultat avant impot;Sénégal;30000000
-2015-12-31;BPCE;impot courant;Sénégal;-20000000
-2015-12-31;BPCE;impot différé;Sénégal;-120000000
-2015-12-31;BPCE;impot sur bénéfice;Sénégal;-10000000
-2015-12-31;BPCE;Effectif;Sénégal;71
-2015-12-31;BPCE;resultats/effectifs;Sénégal;422535
-2015-12-31;BPCE;resultats/pnb;Sénégal;0.00381679
-2015-12-31;BPCE;Produit Net Bancaire;Serbie;13020000000
-2015-12-31;BPCE;Resultat avant impot;Serbie;280000000
-2015-12-31;BPCE;impot différé;Serbie;-10000000
-2015-12-31;BPCE;impot sur bénéfice;Serbie;-60000000
-2015-12-31;BPCE;Effectif;Serbie;98
-2015-12-31;BPCE;resultats/effectifs;Serbie;2.85714e+06
-2015-12-31;BPCE;resultats/pnb;Serbie;0.0215054
-2015-12-31;BPCE;Produit Net Bancaire;Singapour;2800000000
-2015-12-31;BPCE;Resultat avant impot;Singapour;570000000
-2015-12-31;BPCE;Effectif;Singapour;146
-2015-12-31;BPCE;resultats/effectifs;Singapour;3.90411e+06
-2015-12-31;BPCE;resultats/pnb;Singapour;0.203571
-2015-12-31;BPCE;Produit Net Bancaire;Slovaquie;550000000
-2015-12-31;BPCE;Resultat avant impot;Slovaquie;250000000
-2015-12-31;BPCE;impot courant;Slovaquie;-50000000
-2015-12-31;BPCE;impot différé;Slovaquie;-20000000
-2015-12-31;BPCE;Effectif;Slovaquie;38
-2015-12-31;BPCE;resultats/effectifs;Slovaquie;6.57895e+06
-2015-12-31;BPCE;resultats/pnb;Slovaquie;0.454545
-2015-12-31;BPCE;Produit Net Bancaire;Slovénie;8480000000
-2015-12-31;BPCE;Resultat avant impot;Slovénie;550000000
-2015-12-31;BPCE;impot courant;Slovénie;-40000000
-2015-12-31;BPCE;impot différé;Slovénie;-30000000
-2015-12-31;BPCE;impot sur bénéfice;Slovénie;-20000000
-2015-12-31;BPCE;Effectif;Slovénie;108
-2015-12-31;BPCE;resultats/effectifs;Slovénie;5.09259e+06
-2015-12-31;BPCE;resultats/pnb;Slovénie;0.0648585
-2015-12-31;BPCE;Produit Net Bancaire;Suède;1380000000
-2015-12-31;BPCE;Resultat avant impot;Suède;290000000
-2015-12-31;BPCE;impot courant;Suède;-120000000
-2015-12-31;BPCE;impot différé;Suède;60000000
-2015-12-31;BPCE;impot sur bénéfice;Suède;-10000000
-2015-12-31;BPCE;Effectif;Suède;54
-2015-12-31;BPCE;resultats/effectifs;Suède;5.37037e+06
-2015-12-31;BPCE;resultats/pnb;Suède;0.210145
-2015-12-31;BPCE;Produit Net Bancaire;Suisse;7520000000
-2015-12-31;BPCE;Resultat avant impot;Suisse;-50000000
-2015-12-31;BPCE;impot courant;Suisse;-50000000
-2015-12-31;BPCE;impot différé;Suisse;60000000
-2015-12-31;BPCE;impot sur bénéfice;Suisse;-100000000
-2015-12-31;BPCE;Effectif;Suisse;232
-2015-12-31;BPCE;resultats/effectifs;Suisse;-215517
-2015-12-31;BPCE;resultats/pnb;Suisse;-0.00664894
-2015-12-31;BPCE;Produit Net Bancaire;Taïwan;340000000
-2015-12-31;BPCE;Resultat avant impot;Taïwan;70000000
-2015-12-31;BPCE;impot courant;Taïwan;-10000000
-2015-12-31;BPCE;Effectif;Taïwan;18
-2015-12-31;BPCE;resultats/effectifs;Taïwan;3.88889e+06
-2015-12-31;BPCE;resultats/pnb;Taïwan;0.205882
-2015-12-31;BPCE;Produit Net Bancaire;Tchad;2140000000
-2015-12-31;BPCE;Resultat avant impot;Tchad;80000000
-2015-12-31;BPCE;impot courant;Tchad;-20000000
-2015-12-31;BPCE;impot différé;Tchad;-10000000
-2015-12-31;BPCE;impot sur bénéfice;Tchad;-20000000
-2015-12-31;BPCE;Effectif;Tchad;23
-2015-12-31;BPCE;resultats/effectifs;Tchad;3.47826e+06
-2015-12-31;BPCE;resultats/pnb;Tchad;0.0373832
-2015-12-31;BPCE;Produit Net Bancaire;Togo;230000000
-2015-12-31;BPCE;Resultat avant impot;Togo;-10000000
-2015-12-31;BPCE;Effectif;Togo;1
-2015-12-31;BPCE;resultats/effectifs;Togo;-10000000
-2015-12-31;BPCE;resultats/pnb;Togo;-0.0434783
-2015-12-31;BPCE;Produit Net Bancaire;Tunisie;12490000000
-2015-12-31;BPCE;Resultat avant impot;Tunisie;420000000
-2015-12-31;BPCE;impot courant;Tunisie;-130000000
-2015-12-31;BPCE;impot différé;Tunisie;-40000000
-2015-12-31;BPCE;impot sur bénéfice;Tunisie;-10000000
-2015-12-31;BPCE;Effectif;Tunisie;102
-2015-12-31;BPCE;resultats/effectifs;Tunisie;4.11765e+06
-2015-12-31;BPCE;resultats/pnb;Tunisie;0.0336269
-2015-12-31;BPCE;Produit Net Bancaire;Turquie;1070000000
-2015-12-31;BPCE;Resultat avant impot;Turquie;-40000000
-2015-12-31;BPCE;impot différé;Turquie;20000000
-2015-12-31;BPCE;impot sur bénéfice;Turquie;-20000000
-2015-12-31;BPCE;Effectif;Turquie;11
-2015-12-31;BPCE;resultats/effectifs;Turquie;-3.63636e+06
-2015-12-31;BPCE;resultats/pnb;Turquie;-0.0373832
-2015-12-31;BPCE;Resultat avant impot;Ukraine;60000000
 2015-12-31;CA;Produit Net Bancaire;France;90210000000
 2015-12-31;CA;Resultat avant impot;France;7970000000
 2015-12-31;CA;impot courant;France;-3710000000
@@ -1059,9 +928,9 @@ date;banque;indicateur;pays;valeur
 2015-12-31;CA;Effectif;Brésil;131
 2015-12-31;CA;resultats/effectifs;Brésil;1.22137e+06
 2015-12-31;CA;resultats/pnb;Brésil;0.313725
-2015-12-31;CA;Produit Net Bancaire;Iles Caïmans;380000000
-2015-12-31;CA;Resultat avant impot;Iles Caïmans;380000000
-2015-12-31;CA;resultats/pnb;Iles Caïmans;1
+2015-12-31;CA;Produit Net Bancaire;Îles Caïmans;380000000
+2015-12-31;CA;Resultat avant impot;Îles Caïmans;380000000
+2015-12-31;CA;resultats/pnb;Îles Caïmans;1
 2015-12-31;CA;Produit Net Bancaire;Algérie;80000000
 2015-12-31;CA;Resultat avant impot;Algérie;60000000
 2015-12-31;CA;impot courant;Algérie;-10000000
@@ -1156,30 +1025,26 @@ date;banque;indicateur;pays;valeur
 2015-12-31;CA;resultats/effectifs;Japon;2.36486e+06
 2015-12-31;CA;resultats/pnb;Japon;0.456522
 2015-12-31;CM;Produit Net Bancaire;Allemagne;10000000
-2015-12-31;CM;Resultat avant impot;Allemagne;2030000000
-2015-12-31;CM;impot courant;Allemagne;2770000000
-2015-12-31;CM;impot différé;Allemagne;-1130000000
-2015-12-31;CM;impot sur bénéfice;Allemagne;370000000
-2015-12-31;CM;Effectif;Allemagne;-76
-2015-12-31;CM;NB filiales CBCR;Allemagne;7
-2015-12-31;CM;NB filiales périmètre en +;Allemagne;071
-2015-12-31;CM;resultats/effectifs;Allemagne;-2.67105e+07
-2015-12-31;CM;resultats/pnb;Allemagne;203
+2015-12-31;CM;Resultat avant impot;Allemagne;2770000000
+2015-12-31;CM;impot courant;Allemagne;-1130000000
+2015-12-31;CM;impot différé;Allemagne;370000000
+2015-12-31;CM;impot sur bénéfice;Allemagne;-760000000
+2015-12-31;CM;Effectif;Allemagne;7 071
+2015-12-31;CM;resultats/effectifs;Allemagne;3.95714e+08
+2015-12-31;CM;resultats/pnb;Allemagne;277
 2015-12-31;CM;Produit Net Bancaire;Belgique;4460000000
 2015-12-31;CM;Resultat avant impot;Belgique;1360000000
 2015-12-31;CM;impot courant;Belgique;-130000000
 2015-12-31;CM;impot différé;Belgique;-30000000
 2015-12-31;CM;impot sur bénéfice;Belgique;-160000000
-2015-12-31;CM;Effectif;Belgique;1
-2015-12-31;CM;NB filiales CBCR;Belgique;713
+2015-12-31;CM;Effectif;Belgique;1 713
 2015-12-31;CM;resultats/effectifs;Belgique;1360000000
 2015-12-31;CM;resultats/pnb;Belgique;0.304933
 2015-12-31;CM;Produit Net Bancaire;Espagne;2560000000
 2015-12-31;CM;Resultat avant impot;Espagne;1060000000
 2015-12-31;CM;impot courant;Espagne;-230000000
 2015-12-31;CM;impot sur bénéfice;Espagne;-230000000
-2015-12-31;CM;Effectif;Espagne;1
-2015-12-31;CM;NB filiales CBCR;Espagne;512
+2015-12-31;CM;Effectif;Espagne;1 512
 2015-12-31;CM;resultats/effectifs;Espagne;1060000000
 2015-12-31;CM;resultats/pnb;Espagne;0.414062
 2015-12-31;CM;Produit Net Bancaire;États-Unis;1360000000
@@ -1191,16 +1056,13 @@ date;banque;indicateur;pays;valeur
 2015-12-31;CM;resultats/effectifs;États-Unis;8.92857e+06
 2015-12-31;CM;resultats/pnb;États-Unis;0.551471
 2015-12-31;CM;Produit Net Bancaire;France;130000000
-2015-12-31;CM;Resultat avant impot;France;5350000000
-2015-12-31;CM;impot courant;France;60000000
-2015-12-31;CM;impot différé;France;3900000000
-2015-12-31;CM;impot sur bénéfice;France;-10000000
-2015-12-31;CM;Effectif;France;612
-2015-12-31;CM;NB filiales CBCR;France;-4
-2015-12-31;CM;NB filiales périmètre en +;France;-1616
-2015-12-31;CM;Total filiales;France;65
-2015-12-31;CM;resultats/effectifs;France;8.74183e+06
-2015-12-31;CM;resultats/pnb;France;41.1538
+2015-12-31;CM;Resultat avant impot;France;60000000
+2015-12-31;CM;impot courant;France;-10000000
+2015-12-31;CM;impot différé;France;-40000000
+2015-12-31;CM;impot sur bénéfice;France;-16160000000
+2015-12-31;CM;Effectif;France;65 828
+2015-12-31;CM;resultats/effectifs;France;923077
+2015-12-31;CM;resultats/pnb;France;0.461538
 2015-12-31;CM;Produit Net Bancaire;Hongrie;180000000
 2015-12-31;CM;Resultat avant impot;Hongrie;70000000
 2015-12-31;CM;Effectif;Hongrie;172
@@ -1265,328 +1127,328 @@ date;banque;indicateur;pays;valeur
 2015-12-31;CM;resultats/effectifs;Suisse;647249
 2015-12-31;CM;resultats/pnb;Suisse;0.194175
 2015-12-31;CM;Resultat avant impot;Tunisie;160000000
-2015-12-31;SG;Produit Net Bancaire;Afrique du Sud;140000000
+2015-12-31;SG;Produit Net Bancaire;Afrique du Sud;920000000
 2015-12-31;SG;Resultat avant impot;Afrique du Sud;70000000
 2015-12-31;SG;impot courant;Afrique du Sud;-20000000
 2015-12-31;SG;impot sur bénéfice;Afrique du Sud;-20000000
-2015-12-31;SG;Effectif;Afrique du Sud;92
-2015-12-31;SG;resultats/effectifs;Afrique du Sud;760870
-2015-12-31;SG;resultats/pnb;Afrique du Sud;0.5
-2015-12-31;SG;Produit Net Bancaire;Albanie;240000000
+2015-12-31;SG;Effectif;Afrique du Sud;14
+2015-12-31;SG;resultats/effectifs;Afrique du Sud;5000000
+2015-12-31;SG;resultats/pnb;Afrique du Sud;0.076087
+2015-12-31;SG;Produit Net Bancaire;Albanie;3950000000
 2015-12-31;SG;Resultat avant impot;Albanie;10000000
 2015-12-31;SG;impot courant;Albanie;-10000000
 2015-12-31;SG;impot sur bénéfice;Albanie;-10000000
-2015-12-31;SG;Effectif;Albanie;395
-2015-12-31;SG;resultats/effectifs;Albanie;25316.5
-2015-12-31;SG;resultats/pnb;Albanie;0.0416667
-2015-12-31;SG;Produit Net Bancaire;Algérie;1460000000
+2015-12-31;SG;Effectif;Albanie;24
+2015-12-31;SG;resultats/effectifs;Albanie;416667
+2015-12-31;SG;resultats/pnb;Albanie;0.00253165
+2015-12-31;SG;Produit Net Bancaire;Algérie;14270000000
 2015-12-31;SG;Resultat avant impot;Algérie;810000000
-2015-12-31;SG;impot courant;Algérie;-230000000
+2015-12-31;SG;impot courant;Algérie;-210000000
 2015-12-31;SG;impot différé;Algérie;20000000
-2015-12-31;SG;impot sur bénéfice;Algérie;-210000000
-2015-12-31;SG;Effectif;Algérie;1427
-2015-12-31;SG;resultats/effectifs;Algérie;567624
-2015-12-31;SG;resultats/pnb;Algérie;0.554795
-2015-12-31;SG;Produit Net Bancaire;Allemagne;7110000000
+2015-12-31;SG;impot sur bénéfice;Algérie;-190000000
+2015-12-31;SG;Effectif;Algérie;146
+2015-12-31;SG;resultats/effectifs;Algérie;5.54795e+06
+2015-12-31;SG;resultats/pnb;Algérie;0.0567624
+2015-12-31;SG;Produit Net Bancaire;Allemagne;31190000000
 2015-12-31;SG;Resultat avant impot;Allemagne;1350000000
-2015-12-31;SG;impot courant;Allemagne;-910000000
+2015-12-31;SG;impot courant;Allemagne;-620000000
 2015-12-31;SG;impot différé;Allemagne;290000000
-2015-12-31;SG;impot sur bénéfice;Allemagne;-620000000
-2015-12-31;SG;Effectif;Allemagne;3119
-2015-12-31;SG;resultats/effectifs;Allemagne;432831
-2015-12-31;SG;resultats/pnb;Allemagne;0.189873
-2015-12-31;SG;Produit Net Bancaire;Australie;120000000
+2015-12-31;SG;impot sur bénéfice;Allemagne;-330000000
+2015-12-31;SG;Effectif;Allemagne;711
+2015-12-31;SG;resultats/effectifs;Allemagne;1.89873e+06
+2015-12-31;SG;resultats/pnb;Allemagne;0.0432831
+2015-12-31;SG;Produit Net Bancaire;Australie;250000000
 2015-12-31;SG;Resultat avant impot;Australie;-40000000
-2015-12-31;SG;impot courant;Australie;10000000
 2015-12-31;SG;impot différé;Australie;-10000000
-2015-12-31;SG;Effectif;Australie;25
-2015-12-31;SG;resultats/effectifs;Australie;-1600000
-2015-12-31;SG;resultats/pnb;Australie;-0.333333
-2015-12-31;SG;Produit Net Bancaire;Autriche;100000000
+2015-12-31;SG;impot sur bénéfice;Australie;-10000000
+2015-12-31;SG;Effectif;Australie;12
+2015-12-31;SG;resultats/effectifs;Australie;-3.33333e+06
+2015-12-31;SG;resultats/pnb;Australie;-0.16
+2015-12-31;SG;Produit Net Bancaire;Autriche;590000000
 2015-12-31;SG;Resultat avant impot;Autriche;30000000
 2015-12-31;SG;impot courant;Autriche;-10000000
 2015-12-31;SG;impot sur bénéfice;Autriche;-10000000
-2015-12-31;SG;Effectif;Autriche;59
-2015-12-31;SG;resultats/effectifs;Autriche;508475
-2015-12-31;SG;resultats/pnb;Autriche;0.3
-2015-12-31;SG;Produit Net Bancaire;Bahamas;180000000
+2015-12-31;SG;Effectif;Autriche;10
+2015-12-31;SG;resultats/effectifs;Autriche;3000000
+2015-12-31;SG;resultats/pnb;Autriche;0.0508475
+2015-12-31;SG;Produit Net Bancaire;Bahamas;490000000
 2015-12-31;SG;Resultat avant impot;Bahamas;40000000
-2015-12-31;SG;Effectif;Bahamas;49
-2015-12-31;SG;resultats/effectifs;Bahamas;816327
-2015-12-31;SG;resultats/pnb;Bahamas;0.222222
-2015-12-31;SG;Produit Net Bancaire;Belgique;1490000000
+2015-12-31;SG;Effectif;Bahamas;18
+2015-12-31;SG;resultats/effectifs;Bahamas;2.22222e+06
+2015-12-31;SG;resultats/pnb;Bahamas;0.0816327
+2015-12-31;SG;Produit Net Bancaire;Belgique;4830000000
 2015-12-31;SG;Resultat avant impot;Belgique;670000000
-2015-12-31;SG;impot courant;Belgique;-40000000
+2015-12-31;SG;impot courant;Belgique;-80000000
 2015-12-31;SG;impot différé;Belgique;-40000000
-2015-12-31;SG;impot sur bénéfice;Belgique;-80000000
-2015-12-31;SG;Effectif;Belgique;483
-2015-12-31;SG;resultats/effectifs;Belgique;1.38716e+06
-2015-12-31;SG;resultats/pnb;Belgique;0.449664
-2015-12-31;SG;Produit Net Bancaire;Bénin;220000000
+2015-12-31;SG;impot sur bénéfice;Belgique;-120000000
+2015-12-31;SG;Effectif;Belgique;149
+2015-12-31;SG;resultats/effectifs;Belgique;4.49664e+06
+2015-12-31;SG;resultats/pnb;Belgique;0.138716
+2015-12-31;SG;Produit Net Bancaire;Bénin;2320000000
 2015-12-31;SG;Resultat avant impot;Bénin;30000000
-2015-12-31;SG;impot courant;Bénin;-60000000
 2015-12-31;SG;impot différé;Bénin;60000000
-2015-12-31;SG;Effectif;Bénin;232
-2015-12-31;SG;resultats/effectifs;Bénin;129310
-2015-12-31;SG;resultats/pnb;Bénin;0.136364
-2015-12-31;SG;Produit Net Bancaire;Bermudes;170000000
+2015-12-31;SG;impot sur bénéfice;Bénin;60000000
+2015-12-31;SG;Effectif;Bénin;22
+2015-12-31;SG;resultats/effectifs;Bénin;1.36364e+06
+2015-12-31;SG;resultats/pnb;Bénin;0.012931
 2015-12-31;SG;Resultat avant impot;Bermudes;170000000
-2015-12-31;SG;resultats/pnb;Bermudes;1
-2015-12-31;SG;Produit Net Bancaire;Brésil;1560000000
+2015-12-31;SG;Effectif;Bermudes;17
+2015-12-31;SG;resultats/effectifs;Bermudes;10000000
+2015-12-31;SG;Produit Net Bancaire;Brésil;3380000000
 2015-12-31;SG;Resultat avant impot;Brésil;-270000000
-2015-12-31;SG;impot courant;Brésil;-10000000
+2015-12-31;SG;impot courant;Brésil;-160000000
 2015-12-31;SG;impot différé;Brésil;-150000000
-2015-12-31;SG;impot sur bénéfice;Brésil;-160000000
-2015-12-31;SG;Effectif;Brésil;338
-2015-12-31;SG;resultats/effectifs;Brésil;-798817
-2015-12-31;SG;resultats/pnb;Brésil;-0.173077
-2015-12-31;SG;Produit Net Bancaire;Bulgarie;1120000000
+2015-12-31;SG;impot sur bénéfice;Brésil;-310000000
+2015-12-31;SG;Effectif;Brésil;156
+2015-12-31;SG;resultats/effectifs;Brésil;-1.73077e+06
+2015-12-31;SG;resultats/pnb;Brésil;-0.0798817
+2015-12-31;SG;Produit Net Bancaire;Bulgarie;15050000000
 2015-12-31;SG;Resultat avant impot;Bulgarie;430000000
-2015-12-31;SG;impot courant;Bulgarie;-60000000
+2015-12-31;SG;impot courant;Bulgarie;-50000000
 2015-12-31;SG;impot différé;Bulgarie;10000000
-2015-12-31;SG;impot sur bénéfice;Bulgarie;-50000000
-2015-12-31;SG;Effectif;Bulgarie;1505
-2015-12-31;SG;resultats/effectifs;Bulgarie;285714
-2015-12-31;SG;resultats/pnb;Bulgarie;0.383929
-2015-12-31;SG;Produit Net Bancaire;Burkina Faso;260000000
+2015-12-31;SG;impot sur bénéfice;Bulgarie;-40000000
+2015-12-31;SG;Effectif;Bulgarie;112
+2015-12-31;SG;resultats/effectifs;Bulgarie;3.83929e+06
+2015-12-31;SG;resultats/pnb;Bulgarie;0.0285714
+2015-12-31;SG;Produit Net Bancaire;Burkina Faso;2660000000
 2015-12-31;SG;Resultat avant impot;Burkina Faso;50000000
-2015-12-31;SG;impot courant;Burkina Faso;-30000000
+2015-12-31;SG;impot courant;Burkina Faso;-10000000
 2015-12-31;SG;impot différé;Burkina Faso;20000000
-2015-12-31;SG;impot sur bénéfice;Burkina Faso;-10000000
-2015-12-31;SG;Effectif;Burkina Faso;266
-2015-12-31;SG;resultats/effectifs;Burkina Faso;187970
-2015-12-31;SG;resultats/pnb;Burkina Faso;0.192308
-2015-12-31;SG;Produit Net Bancaire;Cameroun;800000000
+2015-12-31;SG;impot sur bénéfice;Burkina Faso;10000000
+2015-12-31;SG;Effectif;Burkina Faso;26
+2015-12-31;SG;resultats/effectifs;Burkina Faso;1.92308e+06
+2015-12-31;SG;resultats/pnb;Burkina Faso;0.018797
+2015-12-31;SG;Produit Net Bancaire;Cameroun;6260000000
 2015-12-31;SG;Resultat avant impot;Cameroun;310000000
-2015-12-31;SG;impot courant;Cameroun;-70000000
+2015-12-31;SG;impot courant;Cameroun;-100000000
 2015-12-31;SG;impot différé;Cameroun;-30000000
-2015-12-31;SG;impot sur bénéfice;Cameroun;-100000000
-2015-12-31;SG;Effectif;Cameroun;626
-2015-12-31;SG;resultats/effectifs;Cameroun;495208
-2015-12-31;SG;resultats/pnb;Cameroun;0.3875
-2015-12-31;SG;Produit Net Bancaire;Canada;530000000
+2015-12-31;SG;impot sur bénéfice;Cameroun;-130000000
+2015-12-31;SG;Effectif;Cameroun;80
+2015-12-31;SG;resultats/effectifs;Cameroun;3875000
+2015-12-31;SG;resultats/pnb;Cameroun;0.0495208
+2015-12-31;SG;Produit Net Bancaire;Canada;920000000
 2015-12-31;SG;Resultat avant impot;Canada;190000000
-2015-12-31;SG;impot courant;Canada;-10000000
+2015-12-31;SG;impot courant;Canada;-40000000
 2015-12-31;SG;impot différé;Canada;-30000000
-2015-12-31;SG;impot sur bénéfice;Canada;-40000000
-2015-12-31;SG;Effectif;Canada;92
-2015-12-31;SG;resultats/effectifs;Canada;2.06522e+06
-2015-12-31;SG;resultats/pnb;Canada;0.358491
-2015-12-31;SG;Produit Net Bancaire;Chine;820000000
+2015-12-31;SG;impot sur bénéfice;Canada;-70000000
+2015-12-31;SG;Effectif;Canada;53
+2015-12-31;SG;resultats/effectifs;Canada;3.58491e+06
+2015-12-31;SG;resultats/pnb;Canada;0.206522
+2015-12-31;SG;Produit Net Bancaire;Chine;5150000000
 2015-12-31;SG;Resultat avant impot;Chine;-130000000
-2015-12-31;SG;impot courant;Chine;-70000000
 2015-12-31;SG;impot différé;Chine;70000000
-2015-12-31;SG;Effectif;Chine;515
-2015-12-31;SG;resultats/effectifs;Chine;-252427
-2015-12-31;SG;resultats/pnb;Chine;-0.158537
-2015-12-31;SG;Produit Net Bancaire;Chypre;10000000
+2015-12-31;SG;impot sur bénéfice;Chine;70000000
+2015-12-31;SG;Effectif;Chine;82
+2015-12-31;SG;resultats/effectifs;Chine;-1.58537e+06
+2015-12-31;SG;resultats/pnb;Chine;-0.0252427
 2015-12-31;SG;Resultat avant impot;Chypre;10000000
-2015-12-31;SG;resultats/pnb;Chypre;1
-2015-12-31;SG;Produit Net Bancaire;Corée du Sud;1280000000
+2015-12-31;SG;Effectif;Chypre;1
+2015-12-31;SG;resultats/effectifs;Chypre;10000000
+2015-12-31;SG;Produit Net Bancaire;Corée du Sud;1250000000
 2015-12-31;SG;Resultat avant impot;Corée du Sud;580000000
-2015-12-31;SG;impot courant;Corée du Sud;-60000000
+2015-12-31;SG;impot courant;Corée du Sud;-80000000
 2015-12-31;SG;impot différé;Corée du Sud;-20000000
-2015-12-31;SG;impot sur bénéfice;Corée du Sud;-80000000
-2015-12-31;SG;Effectif;Corée du Sud;125
-2015-12-31;SG;resultats/effectifs;Corée du Sud;4640000
-2015-12-31;SG;resultats/pnb;Corée du Sud;0.453125
-2015-12-31;SG;Produit Net Bancaire;Côte d'Ivoire;1240000000
+2015-12-31;SG;impot sur bénéfice;Corée du Sud;-100000000
+2015-12-31;SG;Effectif;Corée du Sud;128
+2015-12-31;SG;resultats/effectifs;Corée du Sud;4531250
+2015-12-31;SG;resultats/pnb;Corée du Sud;0.464
+2015-12-31;SG;Produit Net Bancaire;Côte d'Ivoire;11340000000
 2015-12-31;SG;Resultat avant impot;Côte d'Ivoire;460000000
-2015-12-31;SG;impot courant;Côte d'Ivoire;-50000000
+2015-12-31;SG;impot courant;Côte d'Ivoire;-90000000
 2015-12-31;SG;impot différé;Côte d'Ivoire;-40000000
-2015-12-31;SG;impot sur bénéfice;Côte d'Ivoire;-90000000
-2015-12-31;SG;Effectif;Côte d'Ivoire;1134
-2015-12-31;SG;resultats/effectifs;Côte d'Ivoire;405644
-2015-12-31;SG;resultats/pnb;Côte d'Ivoire;0.370968
-2015-12-31;SG;Produit Net Bancaire;Croatie;1690000000
+2015-12-31;SG;impot sur bénéfice;Côte d'Ivoire;-130000000
+2015-12-31;SG;Effectif;Côte d'Ivoire;124
+2015-12-31;SG;resultats/effectifs;Côte d'Ivoire;3.70968e+06
+2015-12-31;SG;resultats/pnb;Côte d'Ivoire;0.0405644
+2015-12-31;SG;Produit Net Bancaire;Croatie;14220000000
 2015-12-31;SG;Resultat avant impot;Croatie;210000000
-2015-12-31;SG;impot courant;Croatie;-50000000
+2015-12-31;SG;impot courant;Croatie;-40000000
 2015-12-31;SG;impot différé;Croatie;10000000
-2015-12-31;SG;impot sur bénéfice;Croatie;-40000000
-2015-12-31;SG;Effectif;Croatie;1422
-2015-12-31;SG;resultats/effectifs;Croatie;147679
-2015-12-31;SG;resultats/pnb;Croatie;0.12426
-2015-12-31;SG;Produit Net Bancaire;Curaçao;10000000
+2015-12-31;SG;impot sur bénéfice;Croatie;-30000000
+2015-12-31;SG;Effectif;Croatie;169
+2015-12-31;SG;resultats/effectifs;Croatie;1.2426e+06
+2015-12-31;SG;resultats/pnb;Croatie;0.0147679
 2015-12-31;SG;Resultat avant impot;Curaçao;10000000
-2015-12-31;SG;resultats/pnb;Curaçao;1
-2015-12-31;SG;Produit Net Bancaire;Danemark;690000000
+2015-12-31;SG;Effectif;Curaçao;1
+2015-12-31;SG;resultats/effectifs;Curaçao;10000000
+2015-12-31;SG;Produit Net Bancaire;Danemark;1580000000
 2015-12-31;SG;Resultat avant impot;Danemark;430000000
-2015-12-31;SG;impot courant;Danemark;180000000
+2015-12-31;SG;impot courant;Danemark;40000000
 2015-12-31;SG;impot différé;Danemark;-140000000
-2015-12-31;SG;impot sur bénéfice;Danemark;40000000
-2015-12-31;SG;Effectif;Danemark;158
-2015-12-31;SG;resultats/effectifs;Danemark;2.72152e+06
-2015-12-31;SG;resultats/pnb;Danemark;0.623188
-2015-12-31;SG;Produit Net Bancaire;Émirats Arabes Unis;30000000
+2015-12-31;SG;impot sur bénéfice;Danemark;-100000000
+2015-12-31;SG;Effectif;Danemark;69
+2015-12-31;SG;resultats/effectifs;Danemark;6.23188e+06
+2015-12-31;SG;resultats/pnb;Danemark;0.272152
+2015-12-31;SG;Produit Net Bancaire;Émirats Arabes Unis;510000000
 2015-12-31;SG;Resultat avant impot;Émirats Arabes Unis;-110000000
-2015-12-31;SG;Effectif;Émirats Arabes Unis;51
-2015-12-31;SG;resultats/effectifs;Émirats Arabes Unis;-2.15686e+06
-2015-12-31;SG;resultats/pnb;Émirats Arabes Unis;-3.66667
-2015-12-31;SG;Produit Net Bancaire;Espagne;3740000000
+2015-12-31;SG;Effectif;Émirats Arabes Unis;3
+2015-12-31;SG;resultats/effectifs;Émirats Arabes Unis;-3.66667e+07
+2015-12-31;SG;resultats/pnb;Émirats Arabes Unis;-0.215686
+2015-12-31;SG;Produit Net Bancaire;Espagne;6270000000
 2015-12-31;SG;Resultat avant impot;Espagne;1630000000
-2015-12-31;SG;impot courant;Espagne;-1040000000
+2015-12-31;SG;impot courant;Espagne;-790000000
 2015-12-31;SG;impot différé;Espagne;250000000
-2015-12-31;SG;impot sur bénéfice;Espagne;-790000000
-2015-12-31;SG;Effectif;Espagne;627
-2015-12-31;SG;resultats/effectifs;Espagne;2.59968e+06
-2015-12-31;SG;resultats/pnb;Espagne;0.435829
+2015-12-31;SG;impot sur bénéfice;Espagne;-540000000
+2015-12-31;SG;Effectif;Espagne;374
+2015-12-31;SG;resultats/effectifs;Espagne;4.35829e+06
+2015-12-31;SG;resultats/pnb;Espagne;0.259968
 2015-12-31;SG;Resultat avant impot;Estonie;10000000
-2015-12-31;SG;Produit Net Bancaire;Etats-Unis d'Amerique;17100000000
-2015-12-31;SG;Resultat avant impot;Etats-Unis d'Amerique;4700000000
-2015-12-31;SG;impot courant;Etats-Unis d'Amerique;2610000000
-2015-12-31;SG;impot différé;Etats-Unis d'Amerique;-2580000000
-2015-12-31;SG;impot sur bénéfice;Etats-Unis d'Amerique;30000000
-2015-12-31;SG;Effectif;Etats-Unis d'Amerique;2357
-2015-12-31;SG;resultats/effectifs;Etats-Unis d'Amerique;1.99406e+06
-2015-12-31;SG;resultats/pnb;Etats-Unis d'Amerique;0.274854
-2015-12-31;SG;Produit Net Bancaire;Finlande;650000000
+2015-12-31;SG;Produit Net Bancaire;États-Unis;23570000000
+2015-12-31;SG;Resultat avant impot;États-Unis;4700000000
+2015-12-31;SG;impot courant;États-Unis;30000000
+2015-12-31;SG;impot différé;États-Unis;-2580000000
+2015-12-31;SG;impot sur bénéfice;États-Unis;-2550000000
+2015-12-31;SG;Effectif;États-Unis;1710
+2015-12-31;SG;resultats/effectifs;États-Unis;2.74854e+06
+2015-12-31;SG;resultats/pnb;États-Unis;0.199406
+2015-12-31;SG;Produit Net Bancaire;Finlande;1120000000
 2015-12-31;SG;Resultat avant impot;Finlande;460000000
-2015-12-31;SG;impot courant;Finlande;-50000000
+2015-12-31;SG;impot courant;Finlande;-70000000
 2015-12-31;SG;impot différé;Finlande;-20000000
-2015-12-31;SG;impot sur bénéfice;Finlande;-70000000
-2015-12-31;SG;Effectif;Finlande;112
-2015-12-31;SG;resultats/effectifs;Finlande;4.10714e+06
-2015-12-31;SG;resultats/pnb;Finlande;0.707692
-2015-12-31;SG;Produit Net Bancaire;France;120970000000
+2015-12-31;SG;impot sur bénéfice;Finlande;-90000000
+2015-12-31;SG;Effectif;Finlande;65
+2015-12-31;SG;resultats/effectifs;Finlande;7.07692e+06
+2015-12-31;SG;resultats/pnb;Finlande;0.410714
+2015-12-31;SG;Produit Net Bancaire;France;516120000000
 2015-12-31;SG;Resultat avant impot;France;16530000000
-2015-12-31;SG;impot courant;France;1880000000
+2015-12-31;SG;impot courant;France;-1960000000
 2015-12-31;SG;impot différé;France;-3840000000
-2015-12-31;SG;impot sur bénéfice;France;-1960000000
-2015-12-31;SG;Effectif;France;51612
-2015-12-31;SG;resultats/effectifs;France;320274
-2015-12-31;SG;resultats/pnb;France;0.136645
-2015-12-31;SG;Produit Net Bancaire;Géorgie;490000000
+2015-12-31;SG;impot sur bénéfice;France;-5800000000
+2015-12-31;SG;Effectif;France;12097
+2015-12-31;SG;resultats/effectifs;France;1.36645e+06
+2015-12-31;SG;resultats/pnb;France;0.0320274
+2015-12-31;SG;Produit Net Bancaire;Géorgie;9720000000
 2015-12-31;SG;Resultat avant impot;Géorgie;220000000
 2015-12-31;SG;impot courant;Géorgie;-20000000
 2015-12-31;SG;impot sur bénéfice;Géorgie;-20000000
-2015-12-31;SG;Effectif;Géorgie;972
-2015-12-31;SG;resultats/effectifs;Géorgie;226337
-2015-12-31;SG;resultats/pnb;Géorgie;0.44898
-2015-12-31;SG;Produit Net Bancaire;Ghana;680000000
+2015-12-31;SG;Effectif;Géorgie;49
+2015-12-31;SG;resultats/effectifs;Géorgie;4.4898e+06
+2015-12-31;SG;resultats/pnb;Géorgie;0.0226337
+2015-12-31;SG;Produit Net Bancaire;Ghana;6610000000
 2015-12-31;SG;Resultat avant impot;Ghana;160000000
 2015-12-31;SG;impot courant;Ghana;-50000000
 2015-12-31;SG;impot sur bénéfice;Ghana;-50000000
-2015-12-31;SG;Effectif;Ghana;661
-2015-12-31;SG;resultats/effectifs;Ghana;242057
-2015-12-31;SG;resultats/pnb;Ghana;0.235294
-2015-12-31;SG;Produit Net Bancaire;Gibraltar;190000000
+2015-12-31;SG;Effectif;Ghana;68
+2015-12-31;SG;resultats/effectifs;Ghana;2.35294e+06
+2015-12-31;SG;resultats/pnb;Ghana;0.0242057
+2015-12-31;SG;Produit Net Bancaire;Gibraltar;510000000
 2015-12-31;SG;Resultat avant impot;Gibraltar;30000000
-2015-12-31;SG;Effectif;Gibraltar;51
-2015-12-31;SG;resultats/effectifs;Gibraltar;588235
-2015-12-31;SG;resultats/pnb;Gibraltar;0.157895
-2015-12-31;SG;Produit Net Bancaire;Grèce;40000000
+2015-12-31;SG;Effectif;Gibraltar;19
+2015-12-31;SG;resultats/effectifs;Gibraltar;1.57895e+06
+2015-12-31;SG;resultats/pnb;Gibraltar;0.0588235
+2015-12-31;SG;Produit Net Bancaire;Grèce;370000000
 2015-12-31;SG;Resultat avant impot;Grèce;10000000
-2015-12-31;SG;impot courant;Grèce;-10000000
 2015-12-31;SG;impot différé;Grèce;10000000
-2015-12-31;SG;Effectif;Grèce;37
-2015-12-31;SG;resultats/effectifs;Grèce;270270
-2015-12-31;SG;resultats/pnb;Grèce;0.25
-2015-12-31;SG;Produit Net Bancaire;Guinée;370000000
+2015-12-31;SG;impot sur bénéfice;Grèce;10000000
+2015-12-31;SG;Effectif;Grèce;4
+2015-12-31;SG;resultats/effectifs;Grèce;2500000
+2015-12-31;SG;resultats/pnb;Grèce;0.027027
+2015-12-31;SG;Produit Net Bancaire;Guinée;2890000000
 2015-12-31;SG;Resultat avant impot;Guinée;150000000
-2015-12-31;SG;impot courant;Guinée;-80000000
+2015-12-31;SG;impot courant;Guinée;-70000000
 2015-12-31;SG;impot différé;Guinée;10000000
-2015-12-31;SG;impot sur bénéfice;Guinée;-70000000
-2015-12-31;SG;Effectif;Guinée;289
-2015-12-31;SG;resultats/effectifs;Guinée;519031
-2015-12-31;SG;resultats/pnb;Guinée;0.405405
-2015-12-31;SG;Produit Net Bancaire;Guinée Équatoriale;310000000
+2015-12-31;SG;impot sur bénéfice;Guinée;-60000000
+2015-12-31;SG;Effectif;Guinée;37
+2015-12-31;SG;resultats/effectifs;Guinée;4.05405e+06
+2015-12-31;SG;resultats/pnb;Guinée;0.0519031
+2015-12-31;SG;Produit Net Bancaire;Guinée Équatoriale;2920000000
 2015-12-31;SG;Resultat avant impot;Guinée Équatoriale;140000000
 2015-12-31;SG;impot courant;Guinée Équatoriale;-50000000
 2015-12-31;SG;impot sur bénéfice;Guinée Équatoriale;-50000000
-2015-12-31;SG;Effectif;Guinée Équatoriale;292
-2015-12-31;SG;resultats/effectifs;Guinée Équatoriale;479452
-2015-12-31;SG;resultats/pnb;Guinée Équatoriale;0.451613
-2015-12-31;SG;Produit Net Bancaire;Hong-Kong;7670000000
+2015-12-31;SG;Effectif;Guinée Équatoriale;31
+2015-12-31;SG;resultats/effectifs;Guinée Équatoriale;4.51613e+06
+2015-12-31;SG;resultats/pnb;Guinée Équatoriale;0.0479452
+2015-12-31;SG;Produit Net Bancaire;Hong-Kong;10710000000
 2015-12-31;SG;Resultat avant impot;Hong-Kong;3350000000
-2015-12-31;SG;impot courant;Hong-Kong;-310000000
+2015-12-31;SG;impot courant;Hong-Kong;-450000000
 2015-12-31;SG;impot différé;Hong-Kong;-140000000
-2015-12-31;SG;impot sur bénéfice;Hong-Kong;-450000000
-2015-12-31;SG;Effectif;Hong-Kong;1071
-2015-12-31;SG;resultats/effectifs;Hong-Kong;3.12792e+06
-2015-12-31;SG;resultats/pnb;Hong-Kong;0.436767
+2015-12-31;SG;impot sur bénéfice;Hong-Kong;-590000000
+2015-12-31;SG;Effectif;Hong-Kong;767
+2015-12-31;SG;resultats/effectifs;Hong-Kong;4.36767e+06
+2015-12-31;SG;resultats/pnb;Hong-Kong;0.312792
 2015-12-31;SG;Resultat avant impot;Hongrie;50000000
-2015-12-31;SG;Produit Net Bancaire;Inde;710000000
+2015-12-31;SG;Produit Net Bancaire;Inde;46050000000
 2015-12-31;SG;Resultat avant impot;Inde;760000000
-2015-12-31;SG;impot courant;Inde;-300000000
+2015-12-31;SG;impot courant;Inde;-320000000
 2015-12-31;SG;impot différé;Inde;-20000000
-2015-12-31;SG;impot sur bénéfice;Inde;-320000000
-2015-12-31;SG;Effectif;Inde;4605
-2015-12-31;SG;resultats/effectifs;Inde;165038
-2015-12-31;SG;resultats/pnb;Inde;1.07042
-2015-12-31;SG;Produit Net Bancaire;Irlande;90000000
+2015-12-31;SG;impot sur bénéfice;Inde;-340000000
+2015-12-31;SG;Effectif;Inde;71
+2015-12-31;SG;resultats/effectifs;Inde;1.07042e+07
+2015-12-31;SG;resultats/pnb;Inde;0.0165038
+2015-12-31;SG;Produit Net Bancaire;Irlande;460000000
 2015-12-31;SG;Resultat avant impot;Irlande;390000000
-2015-12-31;SG;Effectif;Irlande;46
-2015-12-31;SG;resultats/effectifs;Irlande;8.47826e+06
-2015-12-31;SG;resultats/pnb;Irlande;4.33333
-2015-12-31;SG;Produit Net Bancaire;Italie;6630000000
+2015-12-31;SG;Effectif;Irlande;9
+2015-12-31;SG;resultats/effectifs;Irlande;4.33333e+07
+2015-12-31;SG;resultats/pnb;Irlande;0.847826
+2015-12-31;SG;Produit Net Bancaire;Italie;19750000000
 2015-12-31;SG;Resultat avant impot;Italie;1680000000
-2015-12-31;SG;impot courant;Italie;-760000000
+2015-12-31;SG;impot courant;Italie;-640000000
 2015-12-31;SG;impot différé;Italie;120000000
-2015-12-31;SG;impot sur bénéfice;Italie;-640000000
-2015-12-31;SG;Effectif;Italie;1975
-2015-12-31;SG;resultats/effectifs;Italie;850633
-2015-12-31;SG;resultats/pnb;Italie;0.253394
-2015-12-31;SG;Produit Net Bancaire;Japon;2920000000
+2015-12-31;SG;impot sur bénéfice;Italie;-520000000
+2015-12-31;SG;Effectif;Italie;663
+2015-12-31;SG;resultats/effectifs;Italie;2.53394e+06
+2015-12-31;SG;resultats/pnb;Italie;0.0850633
+2015-12-31;SG;Produit Net Bancaire;Japon;3080000000
 2015-12-31;SG;Resultat avant impot;Japon;1580000000
-2015-12-31;SG;impot courant;Japon;-170000000
+2015-12-31;SG;impot courant;Japon;-310000000
 2015-12-31;SG;impot différé;Japon;-140000000
-2015-12-31;SG;impot sur bénéfice;Japon;-310000000
-2015-12-31;SG;Effectif;Japon;308
-2015-12-31;SG;resultats/effectifs;Japon;5.12987e+06
-2015-12-31;SG;resultats/pnb;Japon;0.541096
-2015-12-31;SG;Produit Net Bancaire;Jersey;690000000
+2015-12-31;SG;impot sur bénéfice;Japon;-450000000
+2015-12-31;SG;Effectif;Japon;292
+2015-12-31;SG;resultats/effectifs;Japon;5.41096e+06
+2015-12-31;SG;resultats/pnb;Japon;0.512987
+2015-12-31;SG;Produit Net Bancaire;Jersey;2490000000
 2015-12-31;SG;Resultat avant impot;Jersey;220000000
 2015-12-31;SG;impot courant;Jersey;-20000000
 2015-12-31;SG;impot sur bénéfice;Jersey;-20000000
-2015-12-31;SG;Effectif;Jersey;249
-2015-12-31;SG;resultats/effectifs;Jersey;883534
-2015-12-31;SG;resultats/pnb;Jersey;0.318841
+2015-12-31;SG;Effectif;Jersey;69
+2015-12-31;SG;resultats/effectifs;Jersey;3.18841e+06
+2015-12-31;SG;resultats/pnb;Jersey;0.0883534
 2015-12-31;SG;Resultat avant impot;Lettonie;10000000
 2015-12-31;SG;Resultat avant impot;Liban;200000000
 2015-12-31;SG;Resultat avant impot;Lituanie;10000000
-2015-12-31;SG;Produit Net Bancaire;Luxembourg;8550000000
+2015-12-31;SG;Produit Net Bancaire;Luxembourg;15700000000
 2015-12-31;SG;Resultat avant impot;Luxembourg;5870000000
-2015-12-31;SG;impot courant;Luxembourg;-1080000000
+2015-12-31;SG;impot courant;Luxembourg;-1010000000
 2015-12-31;SG;impot différé;Luxembourg;70000000
-2015-12-31;SG;impot sur bénéfice;Luxembourg;-1010000000
-2015-12-31;SG;Effectif;Luxembourg;1570
-2015-12-31;SG;resultats/effectifs;Luxembourg;3.73885e+06
-2015-12-31;SG;resultats/pnb;Luxembourg;0.68655
-2015-12-31;SG;Produit Net Bancaire;Macédoine;230000000
+2015-12-31;SG;impot sur bénéfice;Luxembourg;-940000000
+2015-12-31;SG;Effectif;Luxembourg;855
+2015-12-31;SG;resultats/effectifs;Luxembourg;6.8655e+06
+2015-12-31;SG;resultats/pnb;Luxembourg;0.373885
+2015-12-31;SG;Produit Net Bancaire;Macédoine;3760000000
 2015-12-31;SG;Resultat avant impot;Macédoine;80000000
 2015-12-31;SG;impot courant;Macédoine;-10000000
 2015-12-31;SG;impot sur bénéfice;Macédoine;-10000000
-2015-12-31;SG;Effectif;Macédoine;376
-2015-12-31;SG;resultats/effectifs;Macédoine;212766
-2015-12-31;SG;resultats/pnb;Macédoine;0.347826
-2015-12-31;SG;Produit Net Bancaire;Madagascar;540000000
+2015-12-31;SG;Effectif;Macédoine;23
+2015-12-31;SG;resultats/effectifs;Macédoine;3.47826e+06
+2015-12-31;SG;resultats/pnb;Macédoine;0.0212766
+2015-12-31;SG;Produit Net Bancaire;Madagascar;8050000000
 2015-12-31;SG;Resultat avant impot;Madagascar;290000000
 2015-12-31;SG;impot courant;Madagascar;-60000000
 2015-12-31;SG;impot sur bénéfice;Madagascar;-60000000
-2015-12-31;SG;Effectif;Madagascar;805
-2015-12-31;SG;resultats/effectifs;Madagascar;360248
-2015-12-31;SG;resultats/pnb;Madagascar;0.537037
-2015-12-31;SG;Produit Net Bancaire;Maroc;4210000000
+2015-12-31;SG;Effectif;Madagascar;54
+2015-12-31;SG;resultats/effectifs;Madagascar;5.37037e+06
+2015-12-31;SG;resultats/pnb;Madagascar;0.0360248
+2015-12-31;SG;Produit Net Bancaire;Maroc;37670000000
 2015-12-31;SG;Resultat avant impot;Maroc;950000000
-2015-12-31;SG;impot courant;Maroc;-550000000
+2015-12-31;SG;impot courant;Maroc;-460000000
 2015-12-31;SG;impot différé;Maroc;90000000
-2015-12-31;SG;impot sur bénéfice;Maroc;-460000000
-2015-12-31;SG;Effectif;Maroc;3767
-2015-12-31;SG;resultats/effectifs;Maroc;252190
-2015-12-31;SG;resultats/pnb;Maroc;0.225653
-2015-12-31;SG;Produit Net Bancaire;Mexique;100000000
+2015-12-31;SG;impot sur bénéfice;Maroc;-370000000
+2015-12-31;SG;Effectif;Maroc;421
+2015-12-31;SG;resultats/effectifs;Maroc;2.25653e+06
+2015-12-31;SG;resultats/pnb;Maroc;0.025219
+2015-12-31;SG;Produit Net Bancaire;Mexique;990000000
 2015-12-31;SG;Resultat avant impot;Mexique;30000000
-2015-12-31;SG;impot courant;Mexique;10000000
 2015-12-31;SG;impot différé;Mexique;-10000000
-2015-12-31;SG;Effectif;Mexique;99
-2015-12-31;SG;resultats/effectifs;Mexique;303030
-2015-12-31;SG;resultats/pnb;Mexique;0.3
-2015-12-31;SG;Produit Net Bancaire;Moldavie;7290000000
+2015-12-31;SG;impot sur bénéfice;Mexique;-10000000
+2015-12-31;SG;Effectif;Mexique;10
+2015-12-31;SG;resultats/effectifs;Mexique;3000000
+2015-12-31;SG;resultats/pnb;Mexique;0.030303
 2015-12-31;SG;Resultat avant impot;Moldavie;290000000
-2015-12-31;SG;impot courant;Moldavie;150000000
+2015-12-31;SG;impot courant;Moldavie;120000000
 2015-12-31;SG;impot différé;Moldavie;-30000000
-2015-12-31;SG;impot sur bénéfice;Moldavie;120000000
-2015-12-31;SG;resultats/pnb;Moldavie;0.0397805
+2015-12-31;SG;impot sur bénéfice;Moldavie;90000000
+2015-12-31;SG;Effectif;Moldavie;729
+2015-12-31;SG;resultats/effectifs;Moldavie;397805
 2015-12-31;SG;Produit Net Bancaire;Monaco;3610000000
 2015-12-31;SG;Resultat avant impot;Monaco;590000000
 2015-12-31;SG;impot courant;Monaco;-200000000
@@ -2028,14 +1890,14 @@ date;banque;indicateur;pays;valeur
 2014-12-31;BNP;Total filiales;Hongrie;11
 2014-12-31;BNP;resultats/effectifs;Hongrie;457256
 2014-12-31;BNP;resultats/pnb;Hongrie;0.2875
-2014-12-31;BNP;Produit Net Bancaire;Ile de Man;10000000
-2014-12-31;BNP;NB filiales CBCR;Ile de Man;1
-2014-12-31;BNP;Total filiales;Ile de Man;1
-2014-12-31;BNP;Produit Net Bancaire;Iles Caïmans;30000000
-2014-12-31;BNP;Resultat avant impot;Iles Caïmans;40000000
-2014-12-31;BNP;NB filiales CBCR;Iles Caïmans;7
-2014-12-31;BNP;Total filiales;Iles Caïmans;7
-2014-12-31;BNP;resultats/pnb;Iles Caïmans;1.33333
+2014-12-31;BNP;Produit Net Bancaire;Île de Man;10000000
+2014-12-31;BNP;NB filiales CBCR;Île de Man;1
+2014-12-31;BNP;Total filiales;Île de Man;1
+2014-12-31;BNP;Produit Net Bancaire;Îles Caïmans;30000000
+2014-12-31;BNP;Resultat avant impot;Îles Caïmans;40000000
+2014-12-31;BNP;NB filiales CBCR;Îles Caïmans;7
+2014-12-31;BNP;Total filiales;Îles Caïmans;7
+2014-12-31;BNP;resultats/pnb;Îles Caïmans;1.33333
 2014-12-31;BNP;Produit Net Bancaire;Inde;1380000000
 2014-12-31;BNP;Resultat avant impot;Inde;960000000
 2014-12-31;BNP;impot courant;Inde;-430000000
@@ -2532,14 +2394,14 @@ date;banque;indicateur;pays;valeur
 2014-12-31;BPCE;Total filiales;France;413
 2014-12-31;BPCE;resultats/effectifs;France;493772
 2014-12-31;BPCE;resultats/pnb;France;0.235181
-2014-12-31;BPCE;Produit Net Bancaire;Grande-Bretagne;2600000000
-2014-12-31;BPCE;Resultat avant impot;Grande-Bretagne;1260000000
-2014-12-31;BPCE;impot sur bénéfice;Grande-Bretagne;-910000000
-2014-12-31;BPCE;Effectif;Grande-Bretagne;499
-2014-12-31;BPCE;NB filiales CBCR;Grande-Bretagne;19
-2014-12-31;BPCE;Total filiales;Grande-Bretagne;19
-2014-12-31;BPCE;resultats/effectifs;Grande-Bretagne;2.52505e+06
-2014-12-31;BPCE;resultats/pnb;Grande-Bretagne;0.484615
+2014-12-31;BPCE;Produit Net Bancaire;Royaume-Uni;2600000000
+2014-12-31;BPCE;Resultat avant impot;Royaume-Uni;1260000000
+2014-12-31;BPCE;impot sur bénéfice;Royaume-Uni;-910000000
+2014-12-31;BPCE;Effectif;Royaume-Uni;499
+2014-12-31;BPCE;NB filiales CBCR;Royaume-Uni;19
+2014-12-31;BPCE;Total filiales;Royaume-Uni;19
+2014-12-31;BPCE;resultats/effectifs;Royaume-Uni;2.52505e+06
+2014-12-31;BPCE;resultats/pnb;Royaume-Uni;0.484615
 2014-12-31;BPCE;Produit Net Bancaire;Hong-Kong;1240000000
 2014-12-31;BPCE;Resultat avant impot;Hong-Kong;250000000
 2014-12-31;BPCE;impot sur bénéfice;Hong-Kong;-10000000
@@ -2555,11 +2417,11 @@ date;banque;indicateur;pays;valeur
 2014-12-31;BPCE;Total filiales;Hongrie;2
 2014-12-31;BPCE;resultats/effectifs;Hongrie;270270
 2014-12-31;BPCE;resultats/pnb;Hongrie;0.5
-2014-12-31;BPCE;Produit Net Bancaire;Iles Caïmans;50000000
-2014-12-31;BPCE;Resultat avant impot;Iles Caïmans;50000000
-2014-12-31;BPCE;NB filiales CBCR;Iles Caïmans;2
-2014-12-31;BPCE;Total filiales;Iles Caïmans;2
-2014-12-31;BPCE;resultats/pnb;Iles Caïmans;1
+2014-12-31;BPCE;Produit Net Bancaire;Îles Caïmans;50000000
+2014-12-31;BPCE;Resultat avant impot;Îles Caïmans;50000000
+2014-12-31;BPCE;NB filiales CBCR;Îles Caïmans;2
+2014-12-31;BPCE;Total filiales;Îles Caïmans;2
+2014-12-31;BPCE;resultats/pnb;Îles Caïmans;1
 2014-12-31;BPCE;Effectif;Inde;7
 2014-12-31;BPCE;NB filiales CBCR;Inde;2
 2014-12-31;BPCE;Total filiales;Inde;2
@@ -2988,12 +2850,12 @@ date;banque;indicateur;pays;valeur
 2014-12-31;CA;Total filiales;Hong-Kong;9
 2014-12-31;CA;resultats/effectifs;Hong-Kong;638655
 2014-12-31;CA;resultats/pnb;Hong-Kong;0.201058
-2014-12-31;CA;Produit Net Bancaire;Iles Caïmans;350000000
-2014-12-31;CA;Resultat avant impot;Iles Caïmans;350000000
-2014-12-31;CA;NB filiales CBCR;Iles Caïmans;1
-2014-12-31;CA;NB filiales périmètre en +;Iles Caïmans;1
-2014-12-31;CA;Total filiales;Iles Caïmans;2
-2014-12-31;CA;resultats/pnb;Iles Caïmans;1
+2014-12-31;CA;Produit Net Bancaire;Îles Caïmans;350000000
+2014-12-31;CA;Resultat avant impot;Îles Caïmans;350000000
+2014-12-31;CA;NB filiales CBCR;Îles Caïmans;1
+2014-12-31;CA;NB filiales périmètre en +;Îles Caïmans;1
+2014-12-31;CA;Total filiales;Îles Caïmans;2
+2014-12-31;CA;resultats/pnb;Îles Caïmans;1
 2014-12-31;CA;Produit Net Bancaire;Inde;460000000
 2014-12-31;CA;Resultat avant impot;Inde;310000000
 2014-12-31;CA;impot courant;Inde;-110000000
@@ -3534,8 +3396,8 @@ date;banque;indicateur;pays;valeur
 2014-12-31;SG;Resultat avant impot;Hongrie;30000000
 2014-12-31;SG;NB filiales CBCR;Hongrie;3
 2014-12-31;SG;Total filiales;Hongrie;3
-2014-12-31;SG;NB filiales CBCR;Iles Caïmans;3
-2014-12-31;SG;Total filiales;Iles Caïmans;3
+2014-12-31;SG;NB filiales CBCR;Îles Caïmans;3
+2014-12-31;SG;Total filiales;Îles Caïmans;3
 2014-12-31;SG;NB filiales CBCR;Iles Vierges Britanniques;1
 2014-12-31;SG;Total filiales;Iles Vierges Britanniques;1
 2014-12-31;SG;Produit Net Bancaire;Inde;610000000
@@ -3939,10 +3801,10 @@ date;banque;indicateur;pays;valeur
 2014-12-31;CM;Effectif;Hongrie;153
 2014-12-31;CM;NB filiales CBCR;Hongrie;1
 2014-12-31;CM;Total filiales;Hongrie;1
-2014-12-31;CM;Produit Net Bancaire;Iles Caïmans;10000000
-2014-12-31;CM;Resultat avant impot;Iles Caïmans;10000000
-2014-12-31;CM;NB filiales périmètre en +;Iles Caïmans;2
-2014-12-31;CM;Total filiales;Iles Caïmans;2
+2014-12-31;CM;Produit Net Bancaire;Îles Caïmans;10000000
+2014-12-31;CM;Resultat avant impot;Îles Caïmans;10000000
+2014-12-31;CM;NB filiales périmètre en +;Îles Caïmans;2
+2014-12-31;CM;Total filiales;Îles Caïmans;2
 2014-12-31;CM;Produit Net Bancaire;Italie;260000000
 2014-12-31;CM;Resultat avant impot;Italie;-110000000
 2014-12-31;CM;Effectif;Italie;138
