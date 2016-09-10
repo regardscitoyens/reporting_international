@@ -25,3 +25,21 @@ Des visualisations sous tableur ou via [raw du labo density](http://app.raw.dens
 Les données pour 2014 et 2015 sont disponibles [ici](data/csv).
 
 Les différentes étapes d'homogénéisation sont documentée dans ce dépot.
+
+###La profitabilité par pays pour 2014-2015
+
+![profitabilité par pays pour 2014-2015](images/20142015_ResultatsSurPBN.svg)
+
+**Résultat / Produit Net Bancaire pour les exercices 2014 2015 des 5 grandes banques françaises**
+
+###Résultat / effectif par pays pour 2014-2015
+
+![résultat effectif par pays pour 2014-2015](images/20142015_ResultatsSurEffectif.svg)
+
+###Évolution de la profitabilité par pays entre 2014 et 2015
+
+![](images/Evolution20142015_ResultatsSurPBN.svg)
+
+###Évolution du résultat/effectif par pays entre 2014 et 2015
+
+![](images/Evolution20142015_ResultatsSurEffectifs.svg)
