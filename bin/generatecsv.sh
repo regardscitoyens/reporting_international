@@ -15,8 +15,8 @@ if ($7) { NB = $7; print BANQUE";Effectif;"$1";"NB } ;
 if ($8) { NB = $8; print BANQUE";NB filiales CBCR;"$1";"NB } ;
 if ($9) { NB = $9; print BANQUE";NB filiales périmètre en +;"$1";"NB } ;
 if ($10) { NB = $10; print BANQUE";Total filiales;"$1";"NB } ;
-if ($7 && $3) {NB = ($3 * 10000000)/ ($7 * 1); print BANQUE";resultats/effectifs;"$1";"NB } ;
-if ($3 && $2) {NB = $3 / $2; print BANQUE";resultats/pnb;"$1";"NB } ;
+if ($7 && $3) {NB = ($3 * 10000000)/ ($7 * 1); printf "%s;resultats/effectifs;%s;%.02f\n",BANQUE,$1,NB } ;
+if ($3 && $2) {NB = $3 / $2; printf "%s;resultats/pnb;%s;%.02f\n",BANQUE,$1,NB } ;
 
 }' ; done | sed 's/.csv//' | sed 's|data/export/||' | sed 's/_/;/' >> data/csv/indicateurs.csv
 
@@ -31,6 +31,8 @@ if ($8) { NB = $8 * 1; print BANQUE";Effectif;"$1";"NB } ;
 if ($9) { NB = $9 * 1; print BANQUE";NB filiales CBCR;"$1";"NB } ;
 if ($10) { NB = $10 * 1; print BANQUE";NB filiales périmètre en +;"$1";"NB } ;
 if ($11) { NB = $11 * 1; print BANQUE";Total filiales;"$1";"NB } ;
+if ($7 && $3) {NB = ($3 * 10000000)/ ($8 * 1); printf "%s;resultats/effectifs;%s;%.02f\n",BANQUE,$1,NB } ;
+if ($3 && $2) {NB = $3 / $2; printf "%s;resultats/pnb;%s;%.02f\n",BANQUE,$1,NB } ;
 }' ; done | sed 's/.csv//' | sed 's|data/export/||' | sed 's/_/;/' >> data/csv/indicateurs.csv
 
 cat data/csv/filiales.csv > data/csv/tout.csv
