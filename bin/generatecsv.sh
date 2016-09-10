@@ -1,11 +1,11 @@
 #!/bin/bash
 
 echo "date;banque;indicateur;pays;valeur;activité filiale" > data/csv/filiales.csv
-for banque in data/orig/20141231_BNP.csv  data/orig/20141231_BPCE.csv  data/orig/20141231_CA.csv  data/orig/20141231_SG.csv ; do tail -n +2 $banque | awk -F ';' '{if ($11) print "'$banque';FILIALES;"$1";"$11";"$12";"}'; done | sed 's/.csv//' | sed 's|data/orig/||' | sed 's/_/;/'  >> data/csv/filiales.csv
-for banque in data/orig/20141231_CM.csv ; do tail -n +2 $banque | awk -F ';' '{if ($11) print "'$banque';FILIALES;"$1";"$12";"$13";"}'; done | sed 's/.csv//' | sed 's|data/orig/||' | sed 's/_/;/' >> data/csv/filiales.csv
+for banque in data/export/20141231_BNP.csv  data/export/20141231_BPCE.csv  data/export/20141231_CA.csv  data/export/20141231_SG.csv ; do tail -n +2 $banque | awk -F ';' '{if ($11) print "'$banque';FILIALES;"$1";"$11";"$12";"}'; done | sed 's/.csv//' | sed 's|data/export/||' | sed 's/_/;/'  >> data/csv/filiales.csv
+for banque in data/export/20141231_CM.csv ; do tail -n +2 $banque | awk -F ';' '{if ($11) print "'$banque';FILIALES;"$1";"$12";"$13";"}'; done | sed 's/.csv//' | sed 's|data/export/||' | sed 's/_/;/' >> data/csv/filiales.csv
 
 echo "date;banque;indicateur;pays;valeur" > data/csv/indicateurs.csv
-for banque in data/orig/2015* data/orig/20141231_BNP.csv  data/orig/20141231_BPCE.csv  data/orig/20141231_CA.csv  data/orig/20141231_SG.csv ; do  tail -n +2 $banque | awk -F ';' 'BEGIN{BANQUE="'$banque'"} {
+for banque in data/export/2015* data/export/20141231_BNP.csv  data/export/20141231_BPCE.csv  data/export/20141231_CA.csv  data/export/20141231_SG.csv ; do  tail -n +2 $banque | awk -F ';' 'BEGIN{BANQUE="'$banque'"} {
 if ($2) { NB = $2 * 10000000; print BANQUE";Produit Net Bancaire;"$1";"NB } ;
 if ($3) { NB = $3 * 10000000; print BANQUE";Resultat avant impot;"$1";"NB } ;
 if ($4) { NB = $4 * 10000000; print BANQUE";impot courant;"$1";"NB } ;
@@ -18,10 +18,10 @@ if ($10) { NB = $10; print BANQUE";Total filiales;"$1";"NB } ;
 if ($7 && $3) {NB = ($3 * 10000000)/ ($7 * 1); print BANQUE";resultats/effectifs;"$1";"NB } ;
 if ($3 && $2) {NB = $3 / $2; print BANQUE";resultats/pnb;"$1";"NB } ;
 
-}' ; done | sed 's/.csv//' | sed 's|data/orig/||' | sed 's/_/;/' >> data/csv/indicateurs.csv
+}' ; done | sed 's/.csv//' | sed 's|data/export/||' | sed 's/_/;/' >> data/csv/indicateurs.csv
 
 
-for banque in data/orig/20141231_CM.csv  ; do  tail -n +2 $banque | awk -F ';' 'BEGIN{BANQUE="'$banque'"} {
+for banque in data/export/20141231_CM.csv  ; do  tail -n +2 $banque | awk -F ';' 'BEGIN{BANQUE="'$banque'"} {
 if ($2) { NB = $2 * 10000000; print BANQUE";Produit Net Bancaire;"$1";"NB } ;
 if ($3) { NB = $3 * 10000000; print BANQUE";Resultat avant impot;"$1";"NB } ;
 if ($4) { NB = $4 * 10000000; print BANQUE";impot courant;"$1";"NB } ;
@@ -31,7 +31,7 @@ if ($8) { NB = $8 * 1; print BANQUE";Effectif;"$1";"NB } ;
 if ($9) { NB = $9 * 1; print BANQUE";NB filiales CBCR;"$1";"NB } ;
 if ($10) { NB = $10 * 1; print BANQUE";NB filiales périmètre en +;"$1";"NB } ;
 if ($11) { NB = $11 * 1; print BANQUE";Total filiales;"$1";"NB } ;
-}' ; done | sed 's/.csv//' | sed 's|data/orig/||' | sed 's/_/;/' >> data/csv/indicateurs.csv
+}' ; done | sed 's/.csv//' | sed 's|data/export/||' | sed 's/_/;/' >> data/csv/indicateurs.csv
 
 cat data/csv/filiales.csv > data/csv/tout.csv
 tail -n +2 data/csv/indicateurs.csv >> data/csv/tout.csv
@@ -69,7 +69,6 @@ sed -i "s|;Koweit;|;Koweït;|" data/csv/filiales.csv data/csv/indicateurs.csv da
 sed -i "s|;Norvege;|;Norvège;|" data/csv/filiales.csv data/csv/indicateurs.csv data/csv/tout.csv 
 sed -i "s|;NouvelleCalédonie;|;Nouvelle-Calédonie;|" data/csv/filiales.csv data/csv/indicateurs.csv data/csv/tout.csv 
 sed -i "s|;PaysBas;|;Pays-Bas;|" data/csv/filiales.csv data/csv/indicateurs.csv data/csv/tout.csv 
-sed -i "s|;pays origine;|;pays replace;|" data/csv/filiales.csv data/csv/indicateurs.csv data/csv/tout.csv 
 sed -i "s|;Polynésiefrançaise;|;Polynésie Française;|" data/csv/filiales.csv data/csv/indicateurs.csv data/csv/tout.csv 
 sed -i "s|;PolynésieFrançaise;|;Polynésie Française;|" data/csv/filiales.csv data/csv/indicateurs.csv data/csv/tout.csv 
 sed -i "s|;RepubliquedeCoree;|;Corée du Sud;|" data/csv/filiales.csv data/csv/indicateurs.csv data/csv/tout.csv 
