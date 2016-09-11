@@ -32,14 +32,22 @@ Les différentes étapes d'homogénéisation sont documentée dans ce dépot.
 
 **Résultat / Produit Net Bancaire pour les exercices 2014 2015 des 5 grandes banques françaises**
 
+[version svg](images/20142015_ResultatsSurPBN.svg)
+
 ###Résultat / effectif par pays pour 2014-2015
 
-![résultat effectif par pays pour 2014-2015](images/20142015_ResultatsSurEffectif.png)
+![résultat effectif par pays pour 2014-2015](images/20142015_ResultatsSurEffectifs.png)
+
+[version svg](images/20142015_ResultatsSurEffectifs.svg)
 
 ###Évolution de la profitabilité par pays entre 2014 et 2015
 
 ![](images/Evolution20142015_ResultatsSurPBN.png)
 
+[version svg](images/Evolution20142015_ResultatsSurPBN.svg)
+
 ###Évolution du résultat/effectif par pays entre 2014 et 2015
 
 ![](images/Evolution20142015_ResultatsSurEffectifs.png)
+
+[version svg](images/Evolution20142015_ResultatsSurEffectifs.svg)
