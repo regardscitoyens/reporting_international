@@ -1,1 +1,1872 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="500" width="848"><g transform="translate(.5,.5)"><g transform="translate(291,116)" class="cell"><rect style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="57" width="92"></rect><title>Canada: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="28.5" x="46">Canada</text></g><g transform="translate(508,119)" class="cell"><rect style="fill: rgb(191, 110, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="129" width="80"></rect><title>Royaume-Uni: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="64.5" x="40">Royaume-Uni</text></g><g transform="translate(5,5)" class="cell"><rect style="fill: rgb(191, 114, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="0" width="21"></rect><title>Iles Vierges Britanniques: 0</title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="0" x="10.5">Iles Vierges Britanniques</text></g><g transform="translate(774,5)" class="cell"><rect style="fill: rgb(191, 118, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="114" width="69"></rect><title>République Tchèque: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="57" x="34.5">République Tchèque</text></g><g transform="translate(383,414)" class="cell"><rect style="fill: rgb(191, 123, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="81" width="125"></rect><title>Belgique: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="40.5" x="62.5">Belgique</text></g><g transform="translate(440,5)" class="cell"><rect style="fill: rgb(191, 127, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="114" width="64"></rect><title>Chine: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="57" x="32">Chine</text></g><g transform="translate(74,103)" class="cell"><rect style="fill: rgb(191, 132, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="34" width="61"></rect><title>Burkina Faso: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="17" x="30.5">Burkina Faso</text></g><g transform="translate(210,262)" class="cell"><rect style="fill: rgb(191, 136, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="53" width="81"></rect><title>Corée du Sud: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="26.5" x="40.5">Corée du Sud</text></g><g transform="translate(135,41)" class="cell"><rect style="fill: rgb(191, 141, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="38" width="75"></rect><title>Cameroun: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="19" x="37.5">Cameroun</text></g><g transform="translate(5,5)" class="cell"><rect style="fill: rgb(191, 145, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="0" width="21"></rect><title>Panama: 0</title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="0" x="10.5">Panama</text></g><g transform="translate(210,315)" class="cell"><rect style="fill: rgb(191, 150, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="59" width="81"></rect><title>Suède: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="29.5" x="40.5">Suède</text></g><g transform="translate(638,5)" class="cell"><rect style="fill: rgb(191, 154, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="114" width="68"></rect><title>Bulgarie: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="57" x="34">Bulgarie</text></g><g transform="translate(672,119)" class="cell"><rect style="fill: rgb(191, 159, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="129" width="85"></rect><title>Portugal: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="64.5" x="42.5">Portugal</text></g><g transform="translate(26,418)" class="cell"><rect style="fill: rgb(191, 163, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="39" width="48"></rect><title>Norvège: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="19.5" x="24">Norvège</text></g><g transform="translate(291,361)" class="cell"><rect style="fill: rgb(191, 168, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="67" width="92"></rect><title>Finlande: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="33.5" x="46">Finlande</text></g><g transform="translate(210,105)" class="cell"><rect style="fill: rgb(191, 172, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="52" width="81"></rect><title>Argentine: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="26" x="40.5">Argentine</text></g><g transform="translate(26,51)" class="cell"><rect style="fill: rgb(191, 177, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="26" width="48"></rect><title>Guinée: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="13" x="24">Guinée</text></g><g transform="translate(508,323)" class="cell"><rect style="fill: rgb(191, 181, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="83" width="153"></rect><title>Espagne: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="41.5" x="76.5">Espagne</text></g><g transform="translate(74,456)" class="cell"><rect style="fill: rgb(191, 186, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="39" width="61"></rect><title>Malte: 1</title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="19.5" x="30.5">Malte</text></g><g transform="translate(5,5)" class="cell"><rect style="fill: rgb(191, 190, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="0" width="21"></rect><title>Uruguay: 0</title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="0" x="10.5">Uruguay</text></g><g transform="translate(5,182)" class="cell"><rect style="fill: rgb(187, 191, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="28" width="21"></rect><title>Macédoine: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="14" x="10.5">Macédoine</text></g><g transform="translate(210,5)" class="cell"><rect style="fill: rgb(183, 191, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="48" width="81"></rect><title>Jersey: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="24" x="40.5">Jersey</text></g><g transform="translate(135,247)" class="cell"><rect style="fill: rgb(178, 191, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="48" width="75"></rect><title>Roumanie: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="24" x="37.5">Roumanie</text></g><g transform="translate(383,334)" class="cell"><rect style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="80" width="125"></rect><title>Algérie: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="40" x="62.5">Algérie</text></g><g transform="translate(74,247)" class="cell"><rect style="fill: rgb(169, 191, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="41" width="61"></rect><title>Maroc: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="20.5" x="30.5">Maroc</text></g><g transform="translate(706,5)" class="cell"><rect style="fill: rgb(165, 191, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="114" width="68"></rect><title>Inde: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="57" x="34">Inde</text></g><g transform="translate(26,77)" class="cell"><rect style="fill: rgb(160, 191, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="26" width="48"></rect><title>Guinée Équatoriale: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="13" x="24">Guinée Équatoriale</text></g><g transform="translate(5,301)" class="cell"><rect style="fill: rgb(156, 191, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="34" width="21"></rect><title>Grèce: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="17" x="10.5">Grèce</text></g><g transform="translate(135,158)" class="cell"><rect style="fill: rgb(151, 191, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="44" width="75"></rect><title>Tunisie: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="22" x="37.5">Tunisie</text></g><g transform="translate(74,414)" class="cell"><rect style="fill: rgb(147, 191, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="42" width="61"></rect><title>Bermudes: 1</title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="21" x="30.5">Bermudes</text></g><g transform="translate(383,258)" class="cell"><rect style="fill: rgb(142, 191, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="76" width="125"></rect><title>Singapour: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="38" x="62.5">Singapour</text></g><g transform="translate(74,372)" class="cell"><rect style="fill: rgb(138, 191, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="42" width="61"></rect><title>Chypre: 1</title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="21" x="30.5">Chypre</text></g><g transform="translate(5,71)" class="cell"><rect style="fill: rgb(133, 191, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="18" width="21"></rect><title>Djibouti: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="9" x="10.5">Djibouti</text></g><g transform="translate(135,344)" class="cell"><rect style="fill: rgb(129, 191, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="49" width="75"></rect><title>Hong-Kong: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="24.5" x="37.5">Hong-Kong</text></g><g transform="translate(26,184)" class="cell"><rect style="fill: rgb(124, 191, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="29" width="48"></rect><title>Laos: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="14.5" x="24">Laos</text></g><g transform="translate(291,60)" class="cell"><rect style="fill: rgb(120, 191, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="56" width="92"></rect><title>Brésil: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="28" x="46">Brésil</text></g><g transform="translate(508,406)" class="cell"><rect style="fill: rgb(115, 191, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="89" width="153"></rect><title>Luxembourg: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="44.5" x="76.5">Luxembourg</text></g><g transform="translate(757,119)" class="cell"><rect style="fill: rgb(111, 191, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="129" width="86"></rect><title>États-Unis: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="64.5" x="43">États-Unis</text></g><g transform="translate(210,374)" class="cell"><rect style="fill: rgb(107, 191, 105); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="60" width="81"></rect><title>Pologne: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="30" x="40.5">Pologne</text></g><g transform="translate(5,5)" class="cell"><rect style="fill: rgb(105, 191, 108); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="0" width="21"></rect><title>Estonie: 0</title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="0" x="10.5">Estonie</text></g><g transform="translate(5,414)" class="cell"><rect style="fill: rgb(105, 191, 113); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="43" width="21"></rect><title>Bahamas: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="21.5" x="10.5">Bahamas</text></g><g transform="translate(5,5)" class="cell"><rect style="fill: rgb(105, 191, 117); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="0" width="21"></rect><title>Liban: 0</title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="0" x="10.5">Liban</text></g><g transform="translate(5,54)" class="cell"><rect style="fill: rgb(105, 191, 121); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="17" width="21"></rect><title>Guernesey: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="8.5" x="10.5">Guernesey</text></g><g transform="translate(210,209)" class="cell"><rect style="fill: rgb(105, 191, 126); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="53" width="81"></rect><title>Hongrie: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="26.5" x="40.5">Hongrie</text></g><g transform="translate(74,209)" class="cell"><rect style="fill: rgb(105, 191, 130); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="38" width="61"></rect><title>Afrique du Sud: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="19" x="30.5">Afrique du Sud</text></g><g transform="translate(5,5)" class="cell"><rect style="fill: rgb(105, 191, 135); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="0" width="21"></rect><title>Île de Man: 0</title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="0" x="10.5">Île de Man</text></g><g transform="translate(571,5)" class="cell"><rect style="fill: rgb(105, 191, 139); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="114" width="67"></rect><title>Japon: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="57" x="33.5">Japon</text></g><g transform="translate(291,296)" class="cell"><rect style="fill: rgb(105, 191, 144); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="65" width="92"></rect><title>Allemagne: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="32.5" x="46">Allemagne</text></g><g transform="translate(5,5)" class="cell"><rect style="fill: rgb(105, 191, 148); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="0" width="21"></rect><title>Lettonie: 0</title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="0" x="10.5">Lettonie</text></g><g transform="translate(135,118)" class="cell"><rect style="fill: rgb(105, 191, 153); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="40" width="75"></rect><title>Egypte: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="20" x="37.5">Egypte</text></g><g transform="translate(5,10)" class="cell"><rect style="fill: rgb(105, 191, 157); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="7" width="21"></rect><title>Gibraltar: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="3.5" x="10.5">Gibraltar</text></g><g transform="translate(383,5)" class="cell"><rect style="fill: rgb(105, 191, 162); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="114" width="57"></rect><title>Australie: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="57" x="28.5">Australie</text></g><g transform="translate(135,295)" class="cell"><rect style="fill: rgb(105, 191, 166); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="49" width="75"></rect><title>Danemark: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="24.5" x="37.5">Danemark</text></g><g transform="translate(291,428)" class="cell"><rect style="fill: rgb(105, 191, 171); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="67" width="92"></rect><title>Slovaquie: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="33.5" x="46">Slovaquie</text></g><g transform="translate(291,232)" class="cell"><rect style="fill: rgb(105, 191, 175); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="64" width="92"></rect><title>Émirats Arabes Unis: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="32" x="46">Émirats Arabes Unis</text></g><g transform="translate(5,158)" class="cell"><rect style="fill: rgb(105, 191, 180); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="24" width="21"></rect><title>Ukraine: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="12" x="10.5">Ukraine</text></g><g transform="translate(5,5)" class="cell"><rect style="fill: rgb(105, 191, 184); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="5" width="21"></rect><title>Colombie: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="2.5" x="10.5">Colombie</text></g><g transform="translate(588,119)" class="cell"><rect style="fill: rgb(105, 191, 189); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="129" width="84"></rect><title>Taïwan: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="64.5" x="42">Taïwan</text></g><g transform="translate(291,5)" class="cell"><rect style="fill: rgb(105, 189, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="55" width="92"></rect><title>Italie: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="27.5" x="46">Italie</text></g><g transform="translate(508,248)" class="cell"><rect style="fill: rgb(105, 184, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="75" width="153"></rect><title>Monaco: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="37.5" x="76.5">Monaco</text></g><g transform="translate(5,374)" class="cell"><rect style="fill: rgb(105, 180, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="40" width="21"></rect><title>Tchad: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="20" x="10.5">Tchad</text></g><g transform="translate(504,5)" class="cell"><rect style="fill: rgb(105, 175, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="114" width="67"></rect><title>Russie: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="57" x="33.5">Russie</text></g><g transform="translate(383,119)" class="cell"><rect style="fill: rgb(105, 171, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="67" width="125"></rect><title>Pays-Bas: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="33.5" x="62.5">Pays-Bas</text></g><g transform="translate(5,457)" class="cell"><rect style="fill: rgb(105, 166, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="38" width="21"></rect><title>Arabie Saoudite: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="19" x="10.5">Arabie Saoudite</text></g><g transform="translate(26,157)" class="cell"><rect style="fill: rgb(105, 162, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="27" width="48"></rect><title>Mexique: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="13.5" x="24">Mexique</text></g><g transform="translate(135,79)" class="cell"><rect style="fill: rgb(105, 157, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="39" width="75"></rect><title>Indonésie: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="19.5" x="37.5">Indonésie</text></g><g transform="translate(661,248)" class="cell"><rect style="fill: rgb(105, 153, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="247" width="79"></rect><title>Irlande: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="123.5" x="39.5">Irlande</text></g><g transform="translate(26,5)" class="cell"><rect style="fill: rgb(105, 148, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="21" width="48"></rect><title>Géorgie: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="10.5" x="24">Géorgie</text></g><g transform="translate(210,434)" class="cell"><rect style="fill: rgb(105, 144, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="61" width="81"></rect><title>France: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="30.5" x="40.5">France</text></g><g transform="translate(26,343)" class="cell"><rect style="fill: rgb(105, 139, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="36" width="48"></rect><title>Equateur: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="18" x="24">Equateur</text></g><g transform="translate(5,5)" class="cell"><rect style="fill: rgb(105, 135, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="0" width="21"></rect><title>Gabon: 0</title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="0" x="10.5">Gabon</text></g><g transform="translate(74,173)" class="cell"><rect style="fill: rgb(105, 130, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="36" width="61"></rect><title>Serbie: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="18" x="30.5">Serbie</text></g><g transform="translate(291,173)" class="cell"><rect style="fill: rgb(105, 126, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="59" width="92"></rect><title>Vietnam: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="29.5" x="46">Vietnam</text></g><g transform="translate(26,308)" class="cell"><rect style="fill: rgb(105, 121, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="35" width="48"></rect><title>Thaïlande: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="17.5" x="24">Thaïlande</text></g><g transform="translate(74,330)" class="cell"><rect style="fill: rgb(105, 117, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="42" width="61"></rect><title>Curaçao: 1</title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="21" x="30.5">Curaçao</text></g><g transform="translate(5,239)" class="cell"><rect style="fill: rgb(105, 113, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="29" width="21"></rect><title>Croatie: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="14.5" x="10.5">Croatie</text></g><g transform="translate(74,37)" class="cell"><rect style="fill: rgb(105, 108, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="33" width="61"></rect><title>Suisse: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="16.5" x="30.5">Suisse</text></g><g transform="translate(210,53)" class="cell"><rect style="fill: rgb(107, 105, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="52" width="81"></rect><title>Madagascar: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="26" x="40.5">Madagascar</text></g><g transform="translate(5,5)" class="cell"><rect style="fill: rgb(111, 105, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="0" width="21"></rect><title>Fidji: 0</title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="0" x="10.5">Fidji</text></g><g transform="translate(740,248)" class="cell"><rect style="fill: rgb(115, 105, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="247" width="103"></rect><title>Îles Caïmans: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="123.5" x="51.5">Îles Caïmans</text></g><g transform="translate(74,5)" class="cell"><rect style="fill: rgb(120, 105, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="32" width="61"></rect><title>Turquie: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="16" x="30.5">Turquie</text></g><g transform="translate(5,268)" class="cell"><rect style="fill: rgb(124, 105, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="33" width="21"></rect><title>Moldavie: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="16.5" x="10.5">Moldavie</text></g><g transform="translate(26,274)" class="cell"><rect style="fill: rgb(129, 105, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="34" width="48"></rect><title>Bahreïn: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="17" x="24">Bahreïn</text></g><g transform="translate(26,26)" class="cell"><rect style="fill: rgb(133, 105, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="25" width="48"></rect><title>Slovénie: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="12.5" x="24">Slovénie</text></g><g transform="translate(5,5)" class="cell"><rect style="fill: rgb(138, 105, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="0" width="21"></rect><title>Saint Martin (Antilles Néerlandaises): 0</title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="0" x="10.5">Saint Martin (Antilles Néerlandaises)</text></g><g transform="translate(5,39)" class="cell"><rect style="fill: rgb(142, 105, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="15" width="21"></rect><title>Maurice: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="7.5" x="10.5">Maurice</text></g><g transform="translate(26,379)" class="cell"><rect style="fill: rgb(147, 105, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="39" width="48"></rect><title>Polynésie Française: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="19.5" x="24">Polynésie Française</text></g><g transform="translate(383,186)" class="cell"><rect style="fill: rgb(151, 105, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="72" width="125"></rect><title>Malaisie: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="36" x="62.5">Malaisie</text></g><g transform="translate(135,443)" class="cell"><rect style="fill: rgb(156, 105, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="52" width="75"></rect><title>Autriche: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="26" x="37.5">Autriche</text></g><g transform="translate(135,5)" class="cell"><rect style="fill: rgb(160, 105, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="36" width="75"></rect><title>Côte d'Ivoire: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="18" x="37.5">Côte d'Ivoire</text></g><g transform="translate(26,213)" class="cell"><rect style="fill: rgb(165, 105, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="30" width="48"></rect><title>Sénégal: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="15" x="24">Sénégal</text></g><g transform="translate(74,70)" class="cell"><rect style="fill: rgb(169, 105, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="33" width="61"></rect><title>Qatar: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="16.5" x="30.5">Qatar</text></g><g transform="translate(5,5)" class="cell"><rect style="fill: rgb(174, 105, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="0" width="21"></rect><title>Pérou: 0</title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="0" x="10.5">Pérou</text></g><g transform="translate(135,393)" class="cell"><rect style="fill: rgb(178, 105, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="50" width="75"></rect><title>Chili: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="25" x="37.5">Chili</text></g><g transform="translate(26,243)" class="cell"><rect style="fill: rgb(183, 105, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="31" width="48"></rect><title>Mali: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="15.5" x="24">Mali</text></g><g transform="translate(5,210)" class="cell"><rect style="fill: rgb(187, 105, 191); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="29" width="21"></rect><title>Albanie: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="14.5" x="10.5">Albanie</text></g><g transform="translate(210,157)" class="cell"><rect style="fill: rgb(191, 105, 190); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="52" width="81"></rect><title>Nouvelle-Calédonie: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="26" x="40.5">Nouvelle-Calédonie</text></g><g transform="translate(5,17)" class="cell"><rect style="fill: rgb(191, 105, 186); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="7" width="21"></rect><title>Bénin: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="3.5" x="10.5">Bénin</text></g><g transform="translate(5,335)" class="cell"><rect style="fill: rgb(191, 105, 181); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="39" width="21"></rect><title>Monténégro: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="19.5" x="10.5">Monténégro</text></g><g transform="translate(5,5)" class="cell"><rect style="fill: rgb(191, 105, 177); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="0" width="21"></rect><title>Cambodge: 0</title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="0" x="10.5">Cambodge</text></g><g transform="translate(5,134)" class="cell"><rect style="fill: rgb(191, 105, 172); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="24" width="21"></rect><title>Nouvelle-Zélande: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="12" x="10.5">Nouvelle-Zélande</text></g><g transform="translate(26,130)" class="cell"><rect style="fill: rgb(191, 105, 168); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="27" width="48"></rect><title>Philippines: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="13.5" x="24">Philippines</text></g><g transform="translate(5,5)" class="cell"><rect style="fill: rgb(191, 105, 163); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="0" width="21"></rect><title>Botswana: 0</title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="0" x="10.5">Botswana</text></g><g transform="translate(135,202)" class="cell"><rect style="fill: rgb(191, 105, 159); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="45" width="75"></rect><title>Koweït: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="22.5" x="37.5">Koweït</text></g><g transform="translate(74,288)" class="cell"><rect style="fill: rgb(191, 105, 154); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="42" width="61"></rect><title>Lituanie: 1</title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="21" x="30.5">Lituanie</text></g><g transform="translate(5,5)" class="cell"><rect style="fill: rgb(191, 105, 150); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="0" width="21"></rect><title>Liechtenstein: 0</title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="0" x="10.5">Liechtenstein</text></g><g transform="translate(74,137)" class="cell"><rect style="fill: rgb(191, 105, 145); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="36" width="61"></rect><title>Vanuatu: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="18" x="30.5">Vanuatu</text></g><g transform="translate(5,110)" class="cell"><rect style="fill: rgb(191, 105, 141); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="24" width="21"></rect><title>Ghana: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="12" x="10.5">Ghana</text></g><g transform="translate(26,457)" class="cell"><rect style="fill: rgb(191, 105, 136); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="38" width="48"></rect><title>Congo: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="19" x="24">Congo</text></g><g transform="translate(5,5)" class="cell"><rect style="fill: rgb(191, 105, 132); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="0" width="21"></rect><title>Brunei: 0</title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="0" x="10.5">Brunei</text></g><g transform="translate(5,5)" class="cell"><rect style="fill: rgb(191, 105, 127); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="0" width="21"></rect><title>Namibie: 0</title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="0" x="10.5">Namibie</text></g><g transform="translate(5,89)" class="cell"><rect style="fill: rgb(191, 105, 123); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="21" width="21"></rect><title>Israël: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="10.5" x="10.5">Israël</text></g><g transform="translate(26,103)" class="cell"><rect style="fill: rgb(191, 105, 118); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="27" width="48"></rect><title>SaintMartin: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="13.5" x="24">SaintMartin</text></g><g transform="translate(5,5)" class="cell"><rect style="fill: rgb(191, 105, 114); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="0" width="21"></rect><title>Togo: 0</title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="0" x="10.5">Togo</text></g><g transform="translate(5,24)" class="cell"><rect style="fill: rgb(191, 105, 110); fill-opacity: 1; stroke: rgb(255, 255, 255);" height="15" width="21"></rect><title>Île Maurice: </title><text style="font-size: 11px; font-family: Arial,Helvetica;" text-anchor="middle" dy=".35em" y="7.5" x="10.5">Île Maurice</text></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="500"
+   width="848"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="20142015_ResultatsSurPBN.svg">
+  <metadata
+     id="metadata930">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs928" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
+     id="namedview926"
+     showgrid="false"
+     inkscape:zoom="2.6549858"
+     inkscape:cx="45.601537"
+     inkscape:cy="464.56355"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     id="g6"
+     class="cell"
+     transform="translate(291.5,116.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect8"
+       width="92"
+       height="57"
+       style="fill:#bf6969;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title10">Canada: </title>
+    <text
+       id="text12"
+       x="46"
+       y="28.5"
+       dy="28.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Canada</text>
+  </g>
+  <g
+     id="g14"
+     class="cell"
+     transform="translate(508.5,119.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect16"
+       width="80"
+       height="129"
+       style="fill:#bf6e69;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title18">Royaume-Uni: </title>
+    <text
+       id="text20"
+       x="40"
+       y="64.5"
+       dy="64.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Royaume-Uni</text>
+  </g>
+  <g
+     id="g30"
+     class="cell"
+     transform="translate(774.5,5.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect32"
+       width="69"
+       height="114"
+       style="fill:#bf7669;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title34">République Tchèque: </title>
+    <text
+       id="text36"
+       x="34.5"
+       y="57"
+       dy="57"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">République Tchèque</text>
+  </g>
+  <g
+     id="g38"
+     class="cell"
+     transform="translate(383.5,414.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect40"
+       width="125"
+       height="81"
+       style="fill:#bf7b69;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title42">Belgique: </title>
+    <text
+       id="text44"
+       x="62.5"
+       y="40.5"
+       dy="40.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Belgique</text>
+  </g>
+  <g
+     id="g46"
+     class="cell"
+     transform="translate(440.5,5.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect48"
+       width="64"
+       height="114"
+       style="fill:#bf7f69;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title50">Chine: </title>
+    <text
+       id="text52"
+       x="32"
+       y="57"
+       dy="57"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Chine</text>
+  </g>
+  <g
+     id="g54"
+     class="cell"
+     transform="translate(74.5,103.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect56"
+       width="61"
+       height="34"
+       style="fill:#bf8469;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title58">Burkina Faso: </title>
+    <text
+       id="text60"
+       x="30.5"
+       y="17"
+       dy="17"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Burkina Faso</text>
+  </g>
+  <g
+     id="g62"
+     class="cell"
+     transform="translate(210.5,262.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect64"
+       width="81"
+       height="53"
+       style="fill:#bf8869;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title66">Corée du Sud: </title>
+    <text
+       id="text68"
+       x="40.5"
+       y="26.5"
+       dy="26.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Corée du Sud</text>
+  </g>
+  <g
+     id="g70"
+     class="cell"
+     transform="translate(135.5,41.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect72"
+       width="75"
+       height="38"
+       style="fill:#bf8d69;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title74">Cameroun: </title>
+    <text
+       id="text76"
+       x="37.5"
+       y="19"
+       dy="19"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Cameroun</text>
+  </g>
+  <g
+     id="g86"
+     class="cell"
+     transform="translate(210.5,315.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect88"
+       width="81"
+       height="59"
+       style="fill:#bf9669;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title90">Suède: </title>
+    <text
+       id="text92"
+       x="40.5"
+       y="29.5"
+       dy="29.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Suède</text>
+  </g>
+  <g
+     id="g94"
+     class="cell"
+     transform="translate(638.5,5.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect96"
+       width="68"
+       height="114"
+       style="fill:#bf9a69;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title98">Bulgarie: </title>
+    <text
+       id="text100"
+       x="34"
+       y="57"
+       dy="57"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Bulgarie</text>
+  </g>
+  <g
+     id="g102"
+     class="cell"
+     transform="translate(672.5,119.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect104"
+       width="85"
+       height="129"
+       style="fill:#bf9f69;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title106">Portugal: </title>
+    <text
+       id="text108"
+       x="42.5"
+       y="64.5"
+       dy="64.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Portugal</text>
+  </g>
+  <g
+     id="g110"
+     class="cell"
+     transform="translate(26.5,418.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect112"
+       width="48"
+       height="39"
+       style="fill:#bfa369;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title114">Norvège: </title>
+    <text
+       id="text116"
+       x="24"
+       y="19.5"
+       dy="19.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Norvège</text>
+  </g>
+  <g
+     id="g118"
+     class="cell"
+     transform="translate(291.5,361.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect120"
+       width="92"
+       height="67"
+       style="fill:#bfa869;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title122">Finlande: </title>
+    <text
+       id="text124"
+       x="46"
+       y="33.5"
+       dy="33.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Finlande</text>
+  </g>
+  <g
+     id="g126"
+     class="cell"
+     transform="translate(210.5,105.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect128"
+       width="81"
+       height="52"
+       style="fill:#bfac69;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title130">Argentine: </title>
+    <text
+       id="text132"
+       x="40.5"
+       y="26"
+       dy="26"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Argentine</text>
+  </g>
+  <g
+     id="g134"
+     class="cell"
+     transform="translate(26.5,51.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect136"
+       width="48"
+       height="26"
+       style="fill:#bfb169;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title138">Guinée: </title>
+    <text
+       id="text140"
+       x="24"
+       y="13"
+       dy="13"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Guinée</text>
+  </g>
+  <g
+     id="g142"
+     class="cell"
+     transform="translate(508.5,323.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect144"
+       width="153"
+       height="83"
+       style="fill:#bfb569;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title146">Espagne: </title>
+    <text
+       id="text148"
+       x="76.5"
+       y="41.5"
+       dy="41.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Espagne</text>
+  </g>
+  <g
+     id="g150"
+     class="cell"
+     transform="translate(74.5,456.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect152"
+       width="61"
+       height="39"
+       style="fill:#bfba69;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title154">Malte: 1</title>
+    <text
+       id="text156"
+       x="30.5"
+       y="19.5"
+       dy="19.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Malte</text>
+  </g>
+  <rect
+     style="fill:#bbbf69;fill-opacity:1;stroke:#ffffff"
+     height="28"
+     width="21"
+     id="rect168"
+     x="5.5"
+     y="182.5" />
+  <g
+     id="g174"
+     class="cell"
+     transform="translate(210.5,5.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect176"
+       width="81"
+       height="48"
+       style="fill:#b7bf69;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title178">Jersey: </title>
+    <text
+       id="text180"
+       x="40.5"
+       y="24"
+       dy="24"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Jersey</text>
+  </g>
+  <g
+     id="g182"
+     class="cell"
+     transform="translate(135.5,247.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect184"
+       width="75"
+       height="48"
+       style="fill:#b2bf69;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title186">Roumanie: </title>
+    <text
+       id="text188"
+       x="37.5"
+       y="24"
+       dy="24"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Roumanie</text>
+  </g>
+  <g
+     id="g190"
+     class="cell"
+     transform="translate(383.5,334.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect192"
+       width="125"
+       height="80"
+       style="fill:#aebf69;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title194">Algérie: </title>
+    <text
+       id="text196"
+       x="62.5"
+       y="40"
+       dy="40"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Algérie</text>
+  </g>
+  <g
+     id="g198"
+     class="cell"
+     transform="translate(74.5,247.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect200"
+       width="61"
+       height="41"
+       style="fill:#a9bf69;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title202">Maroc: </title>
+    <text
+       id="text204"
+       x="30.5"
+       y="20.5"
+       dy="20.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Maroc</text>
+  </g>
+  <g
+     id="g206"
+     class="cell"
+     transform="translate(706.5,5.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect208"
+       width="68"
+       height="114"
+       style="fill:#a5bf69;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title210">Inde: </title>
+    <text
+       id="text212"
+       x="34"
+       y="57"
+       dy="57"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Inde</text>
+  </g>
+  <g
+     id="g214"
+     class="cell"
+     transform="translate(26.5,77.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect216"
+       width="48"
+       height="26"
+       style="fill:#a0bf69;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title218">Guinée Équatoriale: </title>
+    <text
+       id="text220"
+       x="24"
+       y="13"
+       dy="13"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Guinée Équatoriale</text>
+  </g>
+  <g
+     id="g222"
+     class="cell"
+     transform="translate(5.5,301.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect224"
+       width="21"
+       height="34"
+       style="fill:#9cbf69;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title226">Grèce: </title>
+    <text
+       id="text228"
+       x="10.5"
+       y="17"
+       dy="17"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Grèce</text>
+  </g>
+  <g
+     id="g230"
+     class="cell"
+     transform="translate(135.5,158.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect232"
+       width="75"
+       height="44"
+       style="fill:#97bf69;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title234">Tunisie: </title>
+    <text
+       id="text236"
+       x="37.5"
+       y="22"
+       dy="22"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Tunisie</text>
+  </g>
+  <g
+     id="g238"
+     class="cell"
+     transform="translate(74.5,414.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect240"
+       width="61"
+       height="42"
+       style="fill:#93bf69;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title242">Bermudes: 1</title>
+    <text
+       id="text244"
+       x="30.5"
+       y="21"
+       dy="21"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Bermudes</text>
+  </g>
+  <g
+     id="g246"
+     class="cell"
+     transform="translate(383.5,258.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect248"
+       width="125"
+       height="76"
+       style="fill:#8ebf69;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title250">Singapour: </title>
+    <text
+       id="text252"
+       x="62.5"
+       y="38"
+       dy="38"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Singapour</text>
+  </g>
+  <g
+     id="g254"
+     class="cell"
+     transform="translate(74.5,372.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect256"
+       width="61"
+       height="42"
+       style="fill:#8abf69;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title258">Chypre: 1</title>
+    <text
+       id="text260"
+       x="30.5"
+       y="21"
+       dy="21"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Chypre</text>
+  </g>
+  <g
+     id="g262"
+     class="cell"
+     transform="translate(5.5,71.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect264"
+       width="21"
+       height="18"
+       style="fill:#85bf69;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title266">Djibouti: </title>
+    <text
+       id="text268"
+       x="10.5"
+       y="9"
+       dy="9"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Djibouti</text>
+  </g>
+  <g
+     id="g270"
+     class="cell"
+     transform="translate(135.5,344.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect272"
+       width="75"
+       height="49"
+       style="fill:#81bf69;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title274">Hong-Kong: </title>
+    <text
+       id="text276"
+       x="37.5"
+       y="24.5"
+       dy="24.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Hong-Kong</text>
+  </g>
+  <g
+     id="g278"
+     class="cell"
+     transform="translate(26.5,184.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect280"
+       width="48"
+       height="29"
+       style="fill:#7cbf69;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title282">Laos: </title>
+    <text
+       id="text284"
+       x="24"
+       y="14.5"
+       dy="14.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Laos</text>
+  </g>
+  <g
+     id="g286"
+     class="cell"
+     transform="translate(291.5,60.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect288"
+       width="92"
+       height="56"
+       style="fill:#78bf69;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title290">Brésil: </title>
+    <text
+       id="text292"
+       x="46"
+       y="28"
+       dy="28"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Brésil</text>
+  </g>
+  <g
+     id="g294"
+     class="cell"
+     transform="translate(508.5,406.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect296"
+       width="153"
+       height="89"
+       style="fill:#73bf69;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title298">Luxembourg: </title>
+    <text
+       id="text300"
+       x="76.5"
+       y="44.5"
+       dy="44.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Luxembourg</text>
+  </g>
+  <g
+     id="g302"
+     class="cell"
+     transform="translate(757.5,119.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect304"
+       width="86"
+       height="129"
+       style="fill:#6fbf69;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title306">États-Unis: </title>
+    <text
+       id="text308"
+       x="43"
+       y="64.5"
+       dy="64.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">États-Unis</text>
+  </g>
+  <g
+     id="g310"
+     class="cell"
+     transform="translate(210.5,374.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect312"
+       width="81"
+       height="60"
+       style="fill:#6bbf69;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title314">Pologne: </title>
+    <text
+       id="text316"
+       x="40.5"
+       y="30"
+       dy="30"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Pologne</text>
+  </g>
+  <rect
+     style="fill:#69bf71;fill-opacity:1;stroke:#ffffff"
+     height="43"
+     width="21"
+     id="rect328"
+     x="5.5"
+     y="414.5" />
+  <rect
+     style="fill:#69bf79;fill-opacity:1;stroke:#ffffff"
+     height="17"
+     width="21"
+     id="rect344"
+     x="5.5"
+     y="54.5" />
+  <g
+     id="g350"
+     class="cell"
+     transform="translate(210.5,209.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect352"
+       width="81"
+       height="53"
+       style="fill:#69bf7e;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title354">Hongrie: </title>
+    <text
+       id="text356"
+       x="40.5"
+       y="26.5"
+       dy="26.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Hongrie</text>
+  </g>
+  <g
+     id="g358"
+     class="cell"
+     transform="translate(74.5,209.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect360"
+       width="61"
+       height="38"
+       style="fill:#69bf82;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title362">Afrique du Sud: </title>
+    <text
+       id="text364"
+       x="30.5"
+       y="19"
+       dy="19"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Afrique du Sud</text>
+  </g>
+  <g
+     id="g374"
+     class="cell"
+     transform="translate(571.5,5.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect376"
+       width="67"
+       height="114"
+       style="fill:#69bf8b;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title378">Japon: </title>
+    <text
+       id="text380"
+       x="33.5"
+       y="57"
+       dy="57"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Japon</text>
+  </g>
+  <g
+     id="g382"
+     class="cell"
+     transform="translate(291.5,296.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect384"
+       width="92"
+       height="65"
+       style="fill:#69bf90;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title386">Allemagne: </title>
+    <text
+       id="text388"
+       x="46"
+       y="32.5"
+       dy="32.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Allemagne</text>
+  </g>
+  <g
+     id="g398"
+     class="cell"
+     transform="translate(135.5,118.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect400"
+       width="75"
+       height="40"
+       style="fill:#69bf99;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title402">Egypte: </title>
+    <text
+       id="text404"
+       x="37.5"
+       y="20"
+       dy="20"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Egypte</text>
+  </g>
+  <g
+     id="g414"
+     class="cell"
+     transform="translate(383.5,5.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect416"
+       width="57"
+       height="114"
+       style="fill:#69bfa2;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title418">Australie: </title>
+    <text
+       id="text420"
+       x="28.5"
+       y="57"
+       dy="57"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Australie</text>
+  </g>
+  <g
+     id="g422"
+     class="cell"
+     transform="translate(135.5,295.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect424"
+       width="75"
+       height="49"
+       style="fill:#69bfa6;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title426">Danemark: </title>
+    <text
+       id="text428"
+       x="37.5"
+       y="24.5"
+       dy="24.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Danemark</text>
+  </g>
+  <g
+     id="g430"
+     class="cell"
+     transform="translate(291.5,428.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect432"
+       width="92"
+       height="67"
+       style="fill:#69bfab;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title434">Slovaquie: </title>
+    <text
+       id="text436"
+       x="46"
+       y="33.5"
+       dy="33.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Slovaquie</text>
+  </g>
+  <g
+     id="g438"
+     class="cell"
+     transform="translate(291.5,232.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect440"
+       width="92"
+       height="64"
+       style="fill:#69bfaf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title442">Émirats Arabes Unis: </title>
+    <text
+       id="text444"
+       x="46"
+       y="32"
+       dy="32"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Émirats Arabes Unis</text>
+  </g>
+  <g
+     id="g446"
+     class="cell"
+     transform="translate(5.5,158.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect448"
+       width="21"
+       height="24"
+       style="fill:#69bfb4;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title450">Ukraine: </title>
+    <text
+       id="text452"
+       x="10.5"
+       y="12"
+       dy="12"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Ukraine</text>
+  </g>
+  <rect
+     style="fill:#69bfb8;fill-opacity:1;stroke:#ffffff"
+     height="5"
+     width="21"
+     id="rect456"
+     x="5.5"
+     y="5.5" />
+  <g
+     id="g462"
+     class="cell"
+     transform="translate(588.5,119.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect464"
+       width="84"
+       height="129"
+       style="fill:#69bfbd;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title466">Taïwan: </title>
+    <text
+       id="text468"
+       x="42"
+       y="64.5"
+       dy="64.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Taïwan</text>
+  </g>
+  <g
+     id="g470"
+     class="cell"
+     transform="translate(291.5,5.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect472"
+       width="92"
+       height="55"
+       style="fill:#69bdbf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title474">Italie: </title>
+    <text
+       id="text476"
+       x="46"
+       y="27.5"
+       dy="27.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Italie</text>
+  </g>
+  <g
+     id="g478"
+     class="cell"
+     transform="translate(508.5,248.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect480"
+       width="153"
+       height="75"
+       style="fill:#69b8bf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title482">Monaco: </title>
+    <text
+       id="text484"
+       x="76.5"
+       y="37.5"
+       dy="37.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Monaco</text>
+  </g>
+  <g
+     id="g486"
+     class="cell"
+     transform="translate(5.5,374.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect488"
+       width="21"
+       height="40"
+       style="fill:#69b4bf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title490">Tchad: </title>
+    <text
+       id="text492"
+       x="10.5"
+       y="20"
+       dy="20"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Tchad</text>
+  </g>
+  <g
+     id="g494"
+     class="cell"
+     transform="translate(504.5,5.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect496"
+       width="67"
+       height="114"
+       style="fill:#69afbf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title498">Russie: </title>
+    <text
+       id="text500"
+       x="33.5"
+       y="57"
+       dy="57"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Russie</text>
+  </g>
+  <g
+     id="g502"
+     class="cell"
+     transform="translate(383.5,119.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect504"
+       width="125"
+       height="67"
+       style="fill:#69abbf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title506">Pays-Bas: </title>
+    <text
+       id="text508"
+       x="62.5"
+       y="33.5"
+       dy="33.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Pays-Bas</text>
+  </g>
+  <rect
+     style="fill:#69a6bf;fill-opacity:1;stroke:#ffffff"
+     height="38"
+     width="21"
+     id="rect512"
+     x="5.5"
+     y="457.5" />
+  <g
+     id="g518"
+     class="cell"
+     transform="translate(26.5,157.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect520"
+       width="48"
+       height="27"
+       style="fill:#69a2bf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title522">Mexique: </title>
+    <text
+       id="text524"
+       x="24"
+       y="13.5"
+       dy="13.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Mexique</text>
+  </g>
+  <g
+     id="g526"
+     class="cell"
+     transform="translate(135.5,79.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect528"
+       width="75"
+       height="39"
+       style="fill:#699dbf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title530">Indonésie: </title>
+    <text
+       id="text532"
+       x="37.5"
+       y="19.5"
+       dy="19.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Indonésie</text>
+  </g>
+  <g
+     id="g534"
+     class="cell"
+     transform="translate(661.5,248.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect536"
+       width="79"
+       height="247"
+       style="fill:#6999bf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title538">Irlande: </title>
+    <text
+       id="text540"
+       x="39.5"
+       y="123.5"
+       dy="123.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Irlande</text>
+  </g>
+  <g
+     id="g542"
+     class="cell"
+     transform="translate(26.5,5.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect544"
+       width="48"
+       height="21"
+       style="fill:#6994bf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title546">Géorgie: </title>
+    <text
+       id="text548"
+       x="24"
+       y="10.5"
+       dy="10.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Géorgie</text>
+  </g>
+  <g
+     id="g550"
+     class="cell"
+     transform="translate(210.5,434.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect552"
+       width="81"
+       height="61"
+       style="fill:#6990bf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title554">France: </title>
+    <text
+       id="text556"
+       x="40.5"
+       y="30.5"
+       dy="30.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">France</text>
+  </g>
+  <g
+     id="g558"
+     class="cell"
+     transform="translate(26.5,343.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect560"
+       width="48"
+       height="36"
+       style="fill:#698bbf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title562">Equateur: </title>
+    <text
+       id="text564"
+       x="24"
+       y="18"
+       dy="18"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Equateur</text>
+  </g>
+  <g
+     id="g574"
+     class="cell"
+     transform="translate(74.5,173.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect576"
+       width="61"
+       height="36"
+       style="fill:#6982bf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title578">Serbie: </title>
+    <text
+       id="text580"
+       x="30.5"
+       y="18"
+       dy="18"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Serbie</text>
+  </g>
+  <g
+     id="g582"
+     class="cell"
+     transform="translate(291.5,173.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect584"
+       width="92"
+       height="59"
+       style="fill:#697ebf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title586">Vietnam: </title>
+    <text
+       id="text588"
+       x="46"
+       y="29.5"
+       dy="29.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Vietnam</text>
+  </g>
+  <g
+     id="g590"
+     class="cell"
+     transform="translate(26.5,308.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect592"
+       width="48"
+       height="35"
+       style="fill:#6979bf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title594">Thaïlande: </title>
+    <text
+       id="text596"
+       x="24"
+       y="17.5"
+       dy="17.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Thaïlande</text>
+  </g>
+  <g
+     id="g598"
+     class="cell"
+     transform="translate(74.5,330.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect600"
+       width="61"
+       height="42"
+       style="fill:#6975bf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title602">Curaçao: 1</title>
+    <text
+       id="text604"
+       x="30.5"
+       y="21"
+       dy="21"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Curaçao</text>
+  </g>
+  <g
+     id="g606"
+     class="cell"
+     transform="translate(5.5,239.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect608"
+       width="21"
+       height="29"
+       style="fill:#6971bf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title610">Croatie: </title>
+    <text
+       id="text612"
+       x="10.5"
+       y="14.5"
+       dy="14.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Croatie</text>
+  </g>
+  <g
+     id="g614"
+     class="cell"
+     transform="translate(74.5,37.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect616"
+       width="61"
+       height="33"
+       style="fill:#696cbf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title618">Suisse: </title>
+    <text
+       id="text620"
+       x="30.5"
+       y="16.5"
+       dy="16.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Suisse</text>
+  </g>
+  <g
+     id="g622"
+     class="cell"
+     transform="translate(210.5,53.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect624"
+       width="81"
+       height="52"
+       style="fill:#6b69bf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title626">Madagascar: </title>
+    <text
+       id="text628"
+       x="40.5"
+       y="26"
+       dy="26"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Madagascar</text>
+  </g>
+  <g
+     id="g638"
+     class="cell"
+     transform="translate(740.5,248.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect640"
+       width="103"
+       height="247"
+       style="fill:#7369bf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title642">Îles Caïmans: </title>
+    <text
+       id="text644"
+       x="51.5"
+       y="123.5"
+       dy="123.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Îles Caïmans</text>
+  </g>
+  <g
+     id="g646"
+     class="cell"
+     transform="translate(74.5,5.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect648"
+       width="61"
+       height="32"
+       style="fill:#7869bf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title650">Turquie: </title>
+    <text
+       id="text652"
+       x="30.5"
+       y="16"
+       dy="16"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Turquie</text>
+  </g>
+  <rect
+     style="fill:#7c69bf;fill-opacity:1;stroke:#ffffff"
+     height="33"
+     width="21"
+     id="rect656"
+     x="5.5"
+     y="268.5" />
+  <g
+     id="g662"
+     class="cell"
+     transform="translate(26.5,274.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect664"
+       width="48"
+       height="34"
+       style="fill:#8169bf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title666">Bahreïn: </title>
+    <text
+       id="text668"
+       x="24"
+       y="17"
+       dy="17"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Bahreïn</text>
+  </g>
+  <g
+     id="g670"
+     class="cell"
+     transform="translate(26.5,26.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect672"
+       width="48"
+       height="25"
+       style="fill:#8569bf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title674">Slovénie: </title>
+    <text
+       id="text676"
+       x="24"
+       y="12.5"
+       dy="12.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Slovénie</text>
+  </g>
+  <g
+     id="g686"
+     class="cell"
+     transform="translate(5.5,39.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect688"
+       width="21"
+       height="15"
+       style="fill:#8e69bf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title690">Maurice: </title>
+    <text
+       id="text692"
+       x="10.5"
+       y="7.5"
+       dy="7.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Maurice</text>
+  </g>
+  <g
+     id="g694"
+     class="cell"
+     transform="translate(26.5,379.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect696"
+       width="48"
+       height="39"
+       style="fill:#9369bf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title698">Polynésie Française: </title>
+    <text
+       id="text700"
+       x="24"
+       y="19.5"
+       dy="19.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Polynésie Française</text>
+  </g>
+  <g
+     id="g702"
+     class="cell"
+     transform="translate(383.5,186.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect704"
+       width="125"
+       height="72"
+       style="fill:#9769bf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title706">Malaisie: </title>
+    <text
+       id="text708"
+       x="62.5"
+       y="36"
+       dy="36"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Malaisie</text>
+  </g>
+  <g
+     id="g710"
+     class="cell"
+     transform="translate(135.5,443.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect712"
+       width="75"
+       height="52"
+       style="fill:#9c69bf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title714">Autriche: </title>
+    <text
+       id="text716"
+       x="37.5"
+       y="26"
+       dy="26"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Autriche</text>
+  </g>
+  <g
+     id="g718"
+     class="cell"
+     transform="translate(135.5,5.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect720"
+       width="75"
+       height="36"
+       style="fill:#a069bf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title722">Côte d'Ivoire: </title>
+    <text
+       id="text724"
+       x="37.5"
+       y="18"
+       dy="18"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Côte d'Ivoire</text>
+  </g>
+  <g
+     id="g726"
+     class="cell"
+     transform="translate(26.5,213.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect728"
+       width="48"
+       height="30"
+       style="fill:#a569bf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title730">Sénégal: </title>
+    <text
+       id="text732"
+       x="24"
+       y="15"
+       dy="15"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Sénégal</text>
+  </g>
+  <g
+     id="g734"
+     class="cell"
+     transform="translate(74.5,70.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect736"
+       width="61"
+       height="33"
+       style="fill:#a969bf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title738">Qatar: </title>
+    <text
+       id="text740"
+       x="30.5"
+       y="16.5"
+       dy="16.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Qatar</text>
+  </g>
+  <g
+     id="g750"
+     class="cell"
+     transform="translate(135.5,393.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect752"
+       width="75"
+       height="50"
+       style="fill:#b269bf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title754">Chili: </title>
+    <text
+       id="text756"
+       x="37.5"
+       y="25"
+       dy="25"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Chili</text>
+  </g>
+  <g
+     id="g758"
+     class="cell"
+     transform="translate(26.5,243.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect760"
+       width="48"
+       height="31"
+       style="fill:#b769bf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title762">Mali: </title>
+    <text
+       id="text764"
+       x="24"
+       y="15.5"
+       dy="15.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Mali</text>
+  </g>
+  <g
+     id="g766"
+     class="cell"
+     transform="translate(5.5,210.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect768"
+       width="21"
+       height="29"
+       style="fill:#bb69bf;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title770">Albanie: </title>
+    <text
+       id="text772"
+       x="10.5"
+       y="14.5"
+       dy="14.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Albanie</text>
+  </g>
+  <g
+     id="g774"
+     class="cell"
+     transform="translate(210.5,157.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect776"
+       width="81"
+       height="52"
+       style="fill:#bf69be;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title778">Nouvelle-Calédonie: </title>
+    <text
+       id="text780"
+       x="40.5"
+       y="26"
+       dy="26"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Nouvelle-Calédonie</text>
+  </g>
+  <g
+     id="g782"
+     class="cell"
+     transform="translate(5.5,17.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect784"
+       width="21"
+       height="7"
+       style="fill:#bf69ba;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title786">Bénin: </title>
+    <text
+       id="text788"
+       x="10.5"
+       y="3.5"
+       dy="3.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Bénin</text>
+  </g>
+  <rect
+     style="fill:#bf69b5;fill-opacity:1;stroke:#ffffff"
+     height="39"
+     width="21"
+     id="rect792"
+     x="5.5"
+     y="335.5" />
+  <rect
+     style="fill:#bf69ac;fill-opacity:1;stroke:#ffffff"
+     height="24"
+     width="21"
+     id="rect808"
+     x="5.5"
+     y="134.5" />
+  <g
+     id="g814"
+     class="cell"
+     transform="translate(26.5,130.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect816"
+       width="48"
+       height="27"
+       style="fill:#bf69a8;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title818">Philippines: </title>
+    <text
+       id="text820"
+       x="24"
+       y="13.5"
+       dy="13.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Philippines</text>
+  </g>
+  <g
+     id="g830"
+     class="cell"
+     transform="translate(135.5,202.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect832"
+       width="75"
+       height="45"
+       style="fill:#bf699f;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title834">Koweït: </title>
+    <text
+       id="text836"
+       x="37.5"
+       y="22.5"
+       dy="22.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Koweït</text>
+  </g>
+  <g
+     id="g838"
+     class="cell"
+     transform="translate(74.5,288.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect840"
+       width="61"
+       height="42"
+       style="fill:#bf699a;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title842">Lituanie: 1</title>
+    <text
+       id="text844"
+       x="30.5"
+       y="21"
+       dy="21"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Lituanie</text>
+  </g>
+  <g
+     id="g854"
+     class="cell"
+     transform="translate(74.5,137.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect856"
+       width="61"
+       height="36"
+       style="fill:#bf6991;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title858">Vanuatu: </title>
+    <text
+       id="text860"
+       x="30.5"
+       y="18"
+       dy="18"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Vanuatu</text>
+  </g>
+  <g
+     id="g862"
+     class="cell"
+     transform="translate(5.5,110.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect864"
+       width="21"
+       height="24"
+       style="fill:#bf698d;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title866">Ghana: </title>
+    <text
+       id="text868"
+       x="10.5"
+       y="12"
+       dy="12"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Ghana</text>
+  </g>
+  <g
+     id="g870"
+     class="cell"
+     transform="translate(26.5,457.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect872"
+       width="48"
+       height="38"
+       style="fill:#bf6988;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title874">Congo: </title>
+    <text
+       id="text876"
+       x="24"
+       y="19"
+       dy="19"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Congo</text>
+  </g>
+  <g
+     id="g894"
+     class="cell"
+     transform="translate(5.5,89.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect896"
+       width="21"
+       height="21"
+       style="fill:#bf697b;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title898">Israël: </title>
+    <text
+       id="text900"
+       x="10.5"
+       y="10.5"
+       dy="10.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">Israël</text>
+  </g>
+  <g
+     id="g902"
+     class="cell"
+     transform="translate(26.5,103.5)">
+    <rect
+       y="0"
+       x="0"
+       id="rect904"
+       width="48"
+       height="27"
+       style="fill:#bf6976;fill-opacity:1;stroke:#ffffff" />
+    <title
+       id="title906">SaintMartin: </title>
+    <text
+       id="text908"
+       x="24"
+       y="13.5"
+       dy="13.5"
+       style="font-size:11px;font-family:Arial, Helvetica;text-anchor:middle">SaintMartin</text>
+  </g>
+  <rect
+     style="fill:#bf696e;fill-opacity:1;stroke:#ffffff"
+     height="15"
+     width="21"
+     id="rect920"
+     x="5.5"
+     y="24.5" />
+</svg>
