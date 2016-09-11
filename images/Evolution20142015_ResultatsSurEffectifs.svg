@@ -392,8 +392,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="2.6549858"
-     inkscape:cx="-30.798851"
-     inkscape:cy="-21.187887"
+     inkscape:cx="149.98732"
+     inkscape:cy="535.50059"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -1258,16 +1258,6 @@
        style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Iles Vierges Britanniques</textPath>
   </text>
   <text
-     id="text441"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath443"
-       xlink:href="#path-République_Tchèque"
-       startOffset="94.999999%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:end">République Tchèque</textPath>
-  </text>
-  <text
      id="text445"
      dy="0"
      class="label">
@@ -1298,16 +1288,6 @@
        style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Burkina Faso</textPath>
   </text>
   <text
-     id="text457"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath459"
-       xlink:href="#path-Corée_du_Sud"
-       startOffset="5.0000001%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Corée du Sud</textPath>
-  </text>
-  <text
      id="text461"
      dy="0"
      class="label">
@@ -1326,16 +1306,6 @@
        xlink:href="#path-Panama"
        startOffset="5.0000001%"
        style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Panama</textPath>
-  </text>
-  <text
-     id="text469"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath471"
-       xlink:href="#path-Suède"
-       startOffset="5.0000001%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Suède</textPath>
   </text>
   <text
      id="text473"
@@ -1358,16 +1328,6 @@
        style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Portugal</textPath>
   </text>
   <text
-     id="text481"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath483"
-       xlink:href="#path-Norvège"
-       startOffset="5.0000001%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Norvège</textPath>
-  </text>
-  <text
      id="text485"
      dy="0"
      class="label">
@@ -1386,16 +1346,6 @@
        xlink:href="#path-Argentine"
        startOffset="5.0000001%"
        style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Argentine</textPath>
-  </text>
-  <text
-     id="text493"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath495"
-       xlink:href="#path-Guinée"
-       startOffset="5.0000001%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Guinée</textPath>
   </text>
   <text
      id="text497"
@@ -1428,16 +1378,6 @@
        style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Uruguay</textPath>
   </text>
   <text
-     id="text509"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath511"
-       xlink:href="#path-Macédoine"
-       startOffset="5.0000001%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Macédoine</textPath>
-  </text>
-  <text
      id="text513"
      dy="0"
      class="label">
@@ -1458,16 +1398,6 @@
        style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Roumanie</textPath>
   </text>
   <text
-     id="text521"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath523"
-       xlink:href="#path-Algérie"
-       startOffset="5.0000001%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Algérie</textPath>
-  </text>
-  <text
      id="text525"
      dy="0"
      class="label">
@@ -1486,26 +1416,6 @@
        xlink:href="#path-Inde"
        startOffset="5.0000001%"
        style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Inde</textPath>
-  </text>
-  <text
-     id="text533"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath535"
-       xlink:href="#path-Guinée_Équatoriale"
-       startOffset="5.0000001%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Guinée Équatoriale</textPath>
-  </text>
-  <text
-     id="text537"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath539"
-       xlink:href="#path-Grèce"
-       startOffset="5.0000001%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Grèce</textPath>
   </text>
   <text
      id="text541"
@@ -1578,16 +1488,6 @@
        style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Laos</textPath>
   </text>
   <text
-     id="text569"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath571"
-       xlink:href="#path-Brésil"
-       startOffset="5.0000001%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Brésil</textPath>
-  </text>
-  <text
      id="text573"
      dy="0"
      class="label">
@@ -1596,16 +1496,6 @@
        xlink:href="#path-Luxembourg"
        startOffset="5.0000001%"
        style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Luxembourg</textPath>
-  </text>
-  <text
-     id="text577"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath579"
-       xlink:href="#path-États-Unis"
-       startOffset="5.0000001%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">États-Unis</textPath>
   </text>
   <text
      id="text581"
@@ -1676,16 +1566,6 @@
        xlink:href="#path-Afrique_du_Sud"
        startOffset="5.0000001%"
        style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Afrique du Sud</textPath>
-  </text>
-  <text
-     id="text609"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath611"
-       xlink:href="#path-Île_de_Man"
-       startOffset="5.0000001%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Île de Man</textPath>
   </text>
   <text
      id="text613"
@@ -1768,16 +1648,6 @@
        style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Slovaquie</textPath>
   </text>
   <text
-     id="text645"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath647"
-       xlink:href="#path-Émirats_Arabes_Unis"
-       startOffset="5.0000001%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Émirats Arabes Unis</textPath>
-  </text>
-  <text
      id="text649"
      dy="0"
      class="label">
@@ -1796,16 +1666,6 @@
        xlink:href="#path-Colombie"
        startOffset="5.0000001%"
        style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Colombie</textPath>
-  </text>
-  <text
-     id="text657"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath659"
-       xlink:href="#path-Taïwan"
-       startOffset="5.0000001%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Taïwan</textPath>
   </text>
   <text
      id="text661"
@@ -1878,16 +1738,6 @@
        style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Mexique</textPath>
   </text>
   <text
-     id="text689"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath691"
-       xlink:href="#path-Indonésie"
-       startOffset="5.0000001%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Indonésie</textPath>
-  </text>
-  <text
      id="text693"
      dy="0"
      class="label">
@@ -1896,16 +1746,6 @@
        xlink:href="#path-Irlande"
        startOffset="5.0000001%"
        style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Irlande</textPath>
-  </text>
-  <text
-     id="text697"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath699"
-       xlink:href="#path-Géorgie"
-       startOffset="5.0000001%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Géorgie</textPath>
   </text>
   <text
      id="text701"
@@ -1958,26 +1798,6 @@
        style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:end">Vietnam</textPath>
   </text>
   <text
-     id="text721"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath723"
-       xlink:href="#path-Thaïlande"
-       startOffset="5.0000001%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Thaïlande</textPath>
-  </text>
-  <text
-     id="text725"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath727"
-       xlink:href="#path-Curaçao"
-       startOffset="5.0000001%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Curaçao</textPath>
-  </text>
-  <text
      id="text729"
      dy="0"
      class="label">
@@ -2018,16 +1838,6 @@
        style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Fidji</textPath>
   </text>
   <text
-     id="text745"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath747"
-       xlink:href="#path-Îles_Caïmans"
-       startOffset="94.999999%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:end">Îles Caïmans</textPath>
-  </text>
-  <text
      id="text749"
      dy="0"
      class="label">
@@ -2048,36 +1858,6 @@
        style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Moldavie</textPath>
   </text>
   <text
-     id="text757"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath759"
-       xlink:href="#path-Bahreïn"
-       startOffset="94.999999%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:end">Bahreïn</textPath>
-  </text>
-  <text
-     id="text761"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath763"
-       xlink:href="#path-Slovénie"
-       startOffset="5.0000001%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Slovénie</textPath>
-  </text>
-  <text
-     id="text765"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath767"
-       xlink:href="#path-Saint_Martin_(Antilles_Néerlandaises)"
-       startOffset="5.0000001%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Saint Martin (Antilles Néerlandaises)</textPath>
-  </text>
-  <text
      id="text769"
      dy="0"
      class="label">
@@ -2086,16 +1866,6 @@
        xlink:href="#path-Maurice"
        startOffset="5.0000001%"
        style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Maurice</textPath>
-  </text>
-  <text
-     id="text773"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath775"
-       xlink:href="#path-Polynésie_Française"
-       startOffset="5.0000001%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Polynésie Française</textPath>
   </text>
   <text
      id="text777"
@@ -2118,26 +1888,6 @@
        style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:end">Autriche</textPath>
   </text>
   <text
-     id="text785"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath787"
-       xlink:href="#path-Côte_d'Ivoire"
-       startOffset="5.0000001%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Côte d'Ivoire</textPath>
-  </text>
-  <text
-     id="text789"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath791"
-       xlink:href="#path-Sénégal"
-       startOffset="94.999999%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:end">Sénégal</textPath>
-  </text>
-  <text
      id="text793"
      dy="0"
      class="label">
@@ -2146,16 +1896,6 @@
        xlink:href="#path-Qatar"
        startOffset="94.999999%"
        style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:end">Qatar</textPath>
-  </text>
-  <text
-     id="text797"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath799"
-       xlink:href="#path-Pérou"
-       startOffset="5.0000001%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Pérou</textPath>
   </text>
   <text
      id="text801"
@@ -2188,36 +1928,6 @@
        style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Albanie</textPath>
   </text>
   <text
-     id="text813"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath815"
-       xlink:href="#path-Nouvelle-Calédonie"
-       startOffset="5.0000001%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Nouvelle-Calédonie</textPath>
-  </text>
-  <text
-     id="text817"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath819"
-       xlink:href="#path-Bénin"
-       startOffset="5.0000001%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Bénin</textPath>
-  </text>
-  <text
-     id="text821"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath823"
-       xlink:href="#path-Monténégro"
-       startOffset="5.0000001%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Monténégro</textPath>
-  </text>
-  <text
      id="text825"
      dy="0"
      class="label">
@@ -2226,16 +1936,6 @@
        xlink:href="#path-Cambodge"
        startOffset="5.0000001%"
        style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Cambodge</textPath>
-  </text>
-  <text
-     id="text829"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath831"
-       xlink:href="#path-Nouvelle-Zélande"
-       startOffset="5.0000001%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Nouvelle-Zélande</textPath>
   </text>
   <text
      id="text833"
@@ -2256,16 +1956,6 @@
        xlink:href="#path-Botswana"
        startOffset="5.0000001%"
        style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Botswana</textPath>
-  </text>
-  <text
-     id="text841"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath843"
-       xlink:href="#path-Koweït"
-       startOffset="94.999999%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:end">Koweït</textPath>
   </text>
   <text
      id="text845"
@@ -2338,16 +2028,6 @@
        style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Namibie</textPath>
   </text>
   <text
-     id="text873"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath875"
-       xlink:href="#path-Israël"
-       startOffset="94.999999%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:end">Israël</textPath>
-  </text>
-  <text
      id="text877"
      dy="0"
      class="label">
@@ -2366,16 +2046,6 @@
        xlink:href="#path-Togo"
        startOffset="5.0000001%"
        style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:start">Togo</textPath>
-  </text>
-  <text
-     id="text885"
-     dy="0"
-     class="label">
-    <textPath
-       id="textPath887"
-       xlink:href="#path-Île_Maurice"
-       startOffset="94.999999%"
-       style="font-weight:normal;font-size:11px;font-family:Arial, Helvetica;text-anchor:end">Île Maurice</textPath>
   </text>
   <text
      id="text12-9"
