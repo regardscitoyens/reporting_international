@@ -141,3 +141,10 @@ END{
 	for ( line in lines ) { l = line ; for ( a in table ) { l = l ";" table[a][line] ; } print l ;}
 }' > data/csv/indicateurs.pivot.csv
 
+tail -n +2 data/csv/indicateurs.csv | awk -F ';' '{table[$2][$1";"$3";"$4";"$5] = $6}
+END{
+        for ( a in table ) { head = head ";" a}  ; print "date;indicateur;pays;iso"head ;
+        for ( a in table ) { for ( b in table[a] ) { lines[b] = 1}  }
+        for ( line in lines ) { l = line ; for ( a in table ) { l = l ";" table[a][line] ; } print l ;}
+}' > data/csv/banques.pivot.csv
+
