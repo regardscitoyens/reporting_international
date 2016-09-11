@@ -51,3 +51,9 @@ Les différentes étapes d'homogénéisation sont documentée dans ce dépot.
 ![](images/Evolution20142015_ResultatsSurEffectifs.png)
 
 [version svg](images/Evolution20142015_ResultatsSurEffectifs.svg)
+
+###Cartogramme des résultats/effectifs
+
+![Exemple pour la SG](images/2014_SG_cartogram.png)
+
+[Accéder au cartogramme](https://regardscitoyens.github.io/reporting_international/html/)
